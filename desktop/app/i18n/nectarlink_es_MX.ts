@@ -6374,62 +6374,62 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="52"/>
         <source>When phone rings</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuando suene el teléfono</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="53"/>
         <source>When call ends</source>
-        <translation type="unfinished"></translation>
+        <translation>Al terminar la llamada</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="54"/>
         <source>When phone battery is low</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuando la batería del teléfono esté baja</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="55"/>
         <source>When phone is charged</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuando el teléfono esté cargado</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="62"/>
         <source>Lock this PC</source>
-        <translation type="unfinished"></translation>
+        <translation>Bloquear esta PC</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="63"/>
         <source>Sleep this PC</source>
-        <translation type="unfinished"></translation>
+        <translation>Suspender esta PC</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="65"/>
         <source>Pause PC media</source>
-        <translation type="unfinished"></translation>
+        <translation>Pausar multimedia de la PC</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="67"/>
         <source>Resume PC media</source>
-        <translation type="unfinished"></translation>
+        <translation>Reanudar multimedia de la PC</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="68"/>
         <source>Mute PC audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Silenciar audio de la PC</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="69"/>
         <source>Unmute PC audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Activar audio de la PC</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="70"/>
         <source>Run command</source>
-        <translation type="unfinished"></translation>
+        <translation>Ejecutar comando</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="72"/>
         <source>Show notification</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar notificación</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="148"/>
@@ -6481,18 +6481,18 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="168"/>
         <source>Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivos</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="169"/>
         <location filename="../../qml/pages/SettingsPage.qml" line="2182"/>
         <source>Voice recordings</source>
-        <translation type="unfinished"></translation>
+        <translation>Grabaciones de voz</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="170"/>
         <source>Media controls</source>
-        <translation type="unfinished"></translation>
+        <translation>Controles multimedia</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="171"/>
@@ -6507,7 +6507,7 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="173"/>
         <source>Lock, sleep &amp; wake PC</source>
-        <translation type="unfinished"></translation>
+        <translation>Bloquear, suspender y activar la PC</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="174"/>
@@ -6517,7 +6517,7 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="175"/>
         <source>Share PC screen to phone</source>
-        <translation type="unfinished"></translation>
+        <translation>Compartir pantalla de la PC con el teléfono</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="176"/>
@@ -6527,67 +6527,67 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="177"/>
         <source>File Explorer integration</source>
-        <translation type="unfinished"></translation>
+        <translation>Integración con el Explorador de archivos</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="177"/>
         <source>File manager integration</source>
-        <translation type="unfinished"></translation>
+        <translation>Integración con el administrador de archivos</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="178"/>
         <source>Remote mouse, keyboard &amp; Deck</source>
-        <translation type="unfinished"></translation>
+        <translation>Mouse, teclado y panel remoto</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="179"/>
         <source>Run Deck shell commands</source>
-        <translation type="unfinished"></translation>
+        <translation>Ejecutar comandos de shell del panel</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="180"/>
         <source>Remote PC file access</source>
-        <translation type="unfinished"></translation>
+        <translation>Acceso remoto a archivos de la PC</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="205"/>
         <source>Allow this phone to view this PC&apos;s screen.</source>
-        <translation type="unfinished"></translation>
+        <translation>Permitir que este teléfono vea la pantalla de esta PC.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="206"/>
         <source>Only enable for a phone you trust.</source>
-        <translation type="unfinished"></translation>
+        <translation>Actívalo solo para un teléfono de confianza.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="211"/>
         <source>Calls, messages &amp; notifications</source>
-        <translation type="unfinished"></translation>
+        <translation>Llamadas, mensajes y notificaciones</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="215"/>
         <source>Files, photos &amp; clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivos, fotos y portapapeles</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="219"/>
         <source>Screen, camera &amp; control</source>
-        <translation type="unfinished"></translation>
+        <translation>Pantalla, cámara y control</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="256"/>
         <source>Back up photos to</source>
-        <translation type="unfinished"></translation>
+        <translation>Respaldar fotos en</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="262"/>
         <source>Sync into</source>
-        <translation type="unfinished"></translation>
+        <translation>Sincronizar en</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="268"/>
         <source>Save recordings in</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar grabaciones en</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="515"/>
@@ -6597,32 +6597,32 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="535"/>
         <source>Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Tema</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="538"/>
         <source>Hive</source>
-        <translation type="unfinished"></translation>
+        <translation>Hive</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="539"/>
         <source>Bloom</source>
-        <translation type="unfinished"></translation>
+        <translation>Bloom</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="540"/>
         <source>Glass</source>
-        <translation type="unfinished"></translation>
+        <translation>Cristal</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="541"/>
         <source>Graphite</source>
-        <translation type="unfinished"></translation>
+        <translation>Grafito</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="551"/>
         <source>Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Modo</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="554"/>
@@ -6633,51 +6633,51 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="555"/>
         <source>Light</source>
-        <translation type="unfinished"></translation>
+        <translation>Claro</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="556"/>
         <source>Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>Oscuro</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="570"/>
         <source>Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Color</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="596"/>
         <source>Wallpaper</source>
-        <translation type="unfinished"></translation>
+        <translation>Fondo de pantalla</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="672"/>
         <source>AMOLED</source>
-        <translation type="unfinished"></translation>
+        <translation>AMOLED</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="680"/>
         <location filename="../../qml/pages/SettingsPage.qml" line="854"/>
         <location filename="../../qml/pages/SettingsPage.qml" line="858"/>
         <source>Pure black (AMOLED)</source>
-        <translation type="unfinished"></translation>
+        <translation>Negro puro (AMOLED)</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="707"/>
         <location filename="../../qml/pages/SettingsPage.qml" line="738"/>
         <source>Media artwork</source>
-        <translation type="unfinished"></translation>
+        <translation>Carátula multimedia</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="814"/>
         <location filename="../../qml/pages/SettingsPage.qml" line="823"/>
         <source>Animated comb</source>
-        <translation type="unfinished"></translation>
+        <translation>Panal animado</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="817"/>
         <source>Still while animations are off in system settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Estático mientras las animaciones estén desactivadas en los ajustes del sistema.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="818"/>
@@ -8565,7 +8565,7 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/TimelinePage.qml" line="31"/>
         <source>Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivos</translation>
     </message>
     <message>
         <location filename="../../qml/pages/TimelinePage.qml" line="32"/>
