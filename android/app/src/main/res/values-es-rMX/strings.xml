@@ -678,4 +678,54 @@
     <string name="companion_wake_off">No permitir la activación remota de esta PC</string>
     <string name="companion_wake_associate">Asociar dispositivo para activación</string>
 
+
+    <!-- Notificaciones y explorador de archivos de PC -->
+    <string name="channel_pc_notifications">Notificaciones de la PC</string>
+    <string name="channel_peer_notifications">Notificaciones de tu otro teléfono o tableta</string>
+    <string name="action_browse_pc_files">Explorar archivos de la PC</string>
+    <string name="pc_files_title">Archivos de %1$s</string>
+    <string name="pc_files_root">Inicio</string>
+    <string name="pc_files_up">Subir</string>
+    <string name="pc_files_empty">Esta carpeta está vacía.</string>
+    <string name="pc_files_loading">Cargando archivos…</string>
+    <string name="pc_files_downloading">Descargando %1$s…</string>
+    <string name="pc_files_saved">Se guardó %1$s en Descargas</string>
+    <string name="pc_files_failed">No se pudo descargar %1$s</string>
+    <string name="pc_files_not_shared">Activa «Tu PC en tu bolsillo» en Ajustes de NectarLink en %1$s.</string>
+    <string name="pc_files_offline">%1$s no está conectado.</string>
+    <string name="pc_files_update">Actualiza NectarLink en %1$s para explorar sus archivos.</string>
+    <string name="pc_files_not_found">Esta carpeta ya no está en %1$s.</string>
+    <string name="pc_files_error">No se pudo mostrar el contenido de esta carpeta en %1$s. Inténtalo de nuevo.</string>
+    <string name="pc_files_folder_downloads">Descargas</string>
+    <string name="pc_files_folder_documents">Documentos</string>
+    <string name="pc_files_folder_desktop">Escritorio</string>
+    <string name="pc_files_folder_pictures">Imágenes</string>
+    <string name="mirror_banner_subtitle_control_on">Toca, desliza y escribe desde tu PC</string>
+    <string name="mirror_banner_subtitle_audio">Pantalla y audio · toca Detener cuando quieras</string>
+    <string name="mirror_banner_subtitle">Transmisión de pantalla en vivo · toca Detener cuando quieras</string>
+    <string name="mirror_banner_subtitle_sound">Solo sonido · toca Detener cuando quieras</string>
+    <string name="mirror_allow_pc_control">Permitir el control con el mouse de la PC</string>
+    <string name="action_open_controls">Controles</string>
+    <string name="remote_input_requested_title">Tu PC intentó controlar este teléfono</string>
+    <string name="remote_input_requested_text">Activa «NectarLink: control desde tu PC» en Accesibilidad para usar el mouse y teclado de tu PC en este teléfono.</string>
+    <string name="permissions_setup_title">Permisos y configuración (%1$d pendientes)</string>
+    <string name="permissions_setup_subtitle">Notificaciones, llamadas, mensajes, fotos y acceso en segundo plano</string>
+    <string name="clipboard_preview_hidden">••••••••••••</string>
+    <string name="clipboard_preview_reveal">Mostrar</string>
+    <string name="clipboard_preview_hide">Ocultar</string>
+    <string name="send_queue_title_count">En espera para enviar · %1$d</string>
+    <string name="send_queue_cancel_all">Cancelar todo</string>
+    <string name="send_queue_clear">Borrar</string>
+    <string name="send_queue_waiting_for">En espera de %1$s</string>
+    <string name="send_queue_sending_progress">Enviando · %1$d%%</string>
+    <string name="send_queue_sending">Enviando…</string>
+    <string name="send_queue_failed_reason">Falló · %1$s</string>
+    <string name="send_queue_expired_reason">Venció · %1$s</string>
+    <string name="send_queue_retry">Reintentar</string>
+    <string name="send_queue_dismiss">Descartar</string>
+    <string name="send_queue_offline_toast">%1$s está desconectado. Se enviará cuando vuelva a conectarse.</string>
+    <string name="send_queue_undo">Deshacer</string>
+    <string name="send_queue_full">La cola de envío está llena. Borra elementos o espera a que terminen los pendientes.</string>
+    <string name="send_queue_dropped_unpair">Se quitaron %1$d elemento(s) pendientes para %2$s (dispositivo desvinculado).</string>
+
 </resources>
