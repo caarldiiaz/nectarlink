@@ -1298,32 +1298,32 @@
     <message>
         <location filename="../rust_strings.h" line="151"/>
         <source>Toggle Flashlight</source>
-        <translation type="unfinished"></translation>
+        <translation>Activar o desactivar linterna</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="152"/>
         <source>Toggle Wi-Fi</source>
-        <translation type="unfinished"></translation>
+        <translation>Activar o desactivar Wi-Fi</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="153"/>
         <source>Type on phone with PC keyboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Escribir en el teléfono con el teclado de la PC</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="154"/>
         <source>Use phone as webcam</source>
-        <translation type="unfinished"></translation>
+        <translation>Usar el teléfono como cámara web</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="155"/>
         <source>Wake-on-LAN is ready on %1 (phones can wake this PC).</source>
-        <translation type="unfinished"></translation>
+        <translation>Wake-on-LAN está listo en %1 (los teléfonos pueden activar esta PC).</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="156"/>
         <source>Wake-on-LAN on %1 is %2. Check Settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wake-on-LAN en %1 está %2. Revisa Ajustes.</translation>
     </message>
 </context>
 <context>
@@ -1331,67 +1331,67 @@
     <message>
         <location filename="../rust_strings.h" line="157"/>
         <source>Allow Photos access for %1 in Settings first.</source>
-        <translation type="unfinished"></translation>
+        <translation>Primero permite el acceso a Fotos para %1 en Ajustes.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="158"/>
         <source>Camera capture cancelled on %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Captura de cámara cancelada en %1.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="159"/>
         <source>Camera is busy on %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>La cámara está ocupada en %1.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="160"/>
         <source>Camera permission was denied on %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se denegó el permiso de cámara en %1.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="161"/>
         <source>Couldn’t copy image to clipboard: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo copiar la imagen al portapapeles: %1</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="162"/>
         <source>Couldn’t open camera on %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo abrir la cámara en %1: %2</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="163"/>
         <source>Image is on your clipboard. Press Ctrl+V in your target app.</source>
-        <translation type="unfinished"></translation>
+        <translation>La imagen está en el portapapeles. Presiona Ctrl+V en la app de destino.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="164"/>
         <source>Opening camera on %1…</source>
-        <translation type="unfinished"></translation>
+        <translation>Abriendo la cámara en %1…</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="165"/>
         <source>Opening document scanner on %1…</source>
-        <translation type="unfinished"></translation>
+        <translation>Abriendo el escáner de documentos en %1…</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="166"/>
         <source>Pair your phone first to take a photo or scan a document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Primero vincula tu teléfono para tomar una foto o escanear un documento.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="167"/>
         <source>Pasted into %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Pegado en %1</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="168"/>
         <source>Scan a document on %1…</source>
-        <translation type="unfinished"></translation>
+        <translation>Escaneando un documento en %1…</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="169"/>
         <source>Take a photo on %1…</source>
-        <translation type="unfinished"></translation>
+        <translation>Tomando una foto en %1…</translation>
     </message>
 </context>
 <context>
@@ -1399,7 +1399,7 @@
     <message>
         <location filename="../rust_strings.h" line="170"/>
         <source>Dropped %1 queued item(s) for %2 (device unpaired).</source>
-        <translation type="unfinished"></translation>
+        <translation>Se descartaron %1 elemento(s) en cola para %2 (dispositivo desvinculado).</translation>
     </message>
 </context>
 <context>
@@ -1407,82 +1407,82 @@
     <message>
         <location filename="../rust_strings.h" line="171"/>
         <source>Alt + Tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt + Tab</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="172"/>
         <source>Application path must end with .exe or .lnk.</source>
-        <translation type="unfinished"></translation>
+        <translation>La ruta de la aplicación debe terminar en .exe o .lnk.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="173"/>
         <source>Choose a key for the shortcut.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elige una tecla para el acceso directo.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="174"/>
         <source>Choose an application (.exe or .lnk) on this PC.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elige una aplicación (.exe o .lnk) en esta PC.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="175"/>
         <source>Enter a command to run on this PC.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingresa un comando para ejecutar en esta PC.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="176"/>
         <source>Enter an application path (/usr/bin/..., .desktop, or .AppImage).</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingresa la ruta de una aplicación (/usr/bin/..., .desktop o .AppImage).</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="177"/>
         <source>Enter an http:// or https:// web address.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingresa una dirección web http:// o https://.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="178"/>
         <source>Enter the text snippet to type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingresa el texto que se escribirá.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="179"/>
         <source>Invalid action configuration.</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuración de acción no válida.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="180"/>
         <source>Invalid tile properties.</source>
-        <translation type="unfinished"></translation>
+        <translation>Propiedades del mosaico no válidas.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="181"/>
         <source>Media key</source>
-        <translation type="unfinished"></translation>
+        <translation>Tecla multimedia</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="182"/>
         <source>Page not found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Página no encontrada.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="183"/>
         <source>This page already has the maximum number of tiles (24).</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta página ya tiene el máximo de mosaicos (24).</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="184"/>
         <source>Tile not found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mosaico no encontrado.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="185"/>
         <source>Use a single key (a-z, 0-9, f1-f12, enter, tab, space, escape, arrows, etc.).</source>
-        <translation type="unfinished"></translation>
+        <translation>Usa una sola tecla (a-z, 0-9, f1-f12, enter, tab, espacio, escape, flechas, etc.).</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="186"/>
         <source>Web address must start with http:// or https://.</source>
-        <translation type="unfinished"></translation>
+        <translation>La dirección web debe comenzar con http:// o https://.</translation>
     </message>
 </context>
 <context>
@@ -1492,29 +1492,29 @@
         <location filename="../../qml/pages/DeckPage.qml" line="22"/>
         <location filename="../../qml/pages/DeckPage.qml" line="26"/>
         <source>Main</source>
-        <translation type="unfinished"></translation>
+        <translation>Principal</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="94"/>
         <location filename="../../qml/pages/DeckPage.qml" line="95"/>
         <location filename="../../qml/pages/DeckPage.qml" line="96"/>
         <source>Media</source>
-        <translation type="unfinished"></translation>
+        <translation>Multimedia</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="94"/>
         <source>Play / pause</source>
-        <translation type="unfinished"></translation>
+        <translation>Reproducir / pausar</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="95"/>
         <source>Previous track</source>
-        <translation type="unfinished"></translation>
+        <translation>Pista anterior</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="96"/>
         <source>Next track</source>
-        <translation type="unfinished"></translation>
+        <translation>Pista siguiente</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="97"/>
@@ -1522,27 +1522,27 @@
         <location filename="../../qml/pages/DeckPage.qml" line="99"/>
         <location filename="../../qml/pages/DeckPage.qml" line="100"/>
         <source>Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Audio</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="97"/>
         <source>Volume down</source>
-        <translation type="unfinished"></translation>
+        <translation>Bajar volumen</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="98"/>
         <source>Volume up</source>
-        <translation type="unfinished"></translation>
+        <translation>Subir volumen</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="99"/>
         <source>Mute speaker</source>
-        <translation type="unfinished"></translation>
+        <translation>Silenciar altavoz</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="100"/>
         <source>Mute microphone</source>
-        <translation type="unfinished"></translation>
+        <translation>Silenciar micrófono</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="101"/>
@@ -1550,75 +1550,75 @@
         <location filename="../../qml/pages/DeckPage.qml" line="103"/>
         <location filename="../../qml/pages/DeckPage.qml" line="104"/>
         <source>System</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistema</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="101"/>
         <source>Show desktop (Win+D)</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar escritorio (Win+D)</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="101"/>
         <source>Show desktop (Super+D)</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar escritorio (Super+D)</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="102"/>
         <source>Switch window (Alt+Tab)</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambiar de ventana (Alt+Tab)</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="103"/>
         <source>Screenshot (Win+Shift+S)</source>
-        <translation type="unfinished"></translation>
+        <translation>Captura de pantalla (Win+Shift+S)</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="103"/>
         <source>Screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Captura de pantalla</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="104"/>
         <source>Lock PC</source>
-        <translation type="unfinished"></translation>
+        <translation>Bloquear PC</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="105"/>
         <location filename="../../qml/pages/DeckPage.qml" line="106"/>
         <location filename="../../qml/pages/DeckPage.qml" line="107"/>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Personalizado</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="105"/>
         <source>Keyboard shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Atajo de teclado</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="106"/>
         <source>Open website</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir sitio web</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="107"/>
         <source>Type text snippet</source>
-        <translation type="unfinished"></translation>
+        <translation>Escribir fragmento de texto</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="108"/>
         <location filename="../../qml/pages/DeckPage.qml" line="109"/>
         <source>Apps</source>
-        <translation type="unfinished"></translation>
+        <translation>Apps</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="108"/>
         <source>Launch application (.desktop / binary)</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciar aplicación (.desktop / binario)</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="108"/>
         <source>Launch application (.exe / .lnk)</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciar aplicación (.exe / .lnk)</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="109"/>
@@ -4426,7 +4426,7 @@ What it needs
         <location filename="../../qml/MainWindow.qml" line="631"/>
         <location filename="../../qml/MainWindow.qml" line="718"/>
         <source>Apps</source>
-        <translation type="unfinished"></translation>
+        <translation>Apps</translation>
     </message>
     <message>
         <location filename="../../qml/MainWindow.qml" line="642"/>
@@ -6553,7 +6553,7 @@ What it needs
         <location filename="../../qml/pages/SettingsPage.qml" line="554"/>
         <location filename="../../qml/pages/SettingsPage.qml" line="928"/>
         <source>System</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistema</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="555"/>
@@ -6724,7 +6724,7 @@ What it needs
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1091"/>
         <source>Media</source>
-        <translation type="unfinished"></translation>
+        <translation>Multimedia</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1092"/>
