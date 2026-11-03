@@ -5088,37 +5088,37 @@ Qué necesita
     <message>
         <location filename="../rust_strings.h" line="372"/>
         <source>The app didn&apos;t open on the phone. Try again, or open NectarLink on the phone to check Wireless debugging.</source>
-        <translation type="unfinished"></translation>
+        <translation>La app no se abrió en el teléfono. Inténtalo de nuevo o abre NectarLink en el teléfono para revisar Depuración inalámbrica.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="373"/>
         <source>The phone isn&apos;t connected.</source>
-        <translation type="unfinished"></translation>
+        <translation>El teléfono no está conectado.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="374"/>
         <source>The screenshot couldn&apos;t be copied to the clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo copiar la captura de pantalla al portapapeles.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="375"/>
         <source>The screenshot couldn&apos;t be saved.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo guardar la captura de pantalla.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="376"/>
         <source>This PC can&apos;t decode the phone&apos;s video.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta PC no puede decodificar el video del teléfono.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="377"/>
         <source>This phone&apos;s app doesn&apos;t share its screen yet. Update NectarLink on the phone.</source>
-        <translation type="unfinished"></translation>
+        <translation>La app de este teléfono todavía no comparte su pantalla. Actualiza NectarLink en el teléfono.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="378"/>
         <source>Wait for the screen to appear first.</source>
-        <translation type="unfinished"></translation>
+        <translation>Espera a que aparezca la pantalla.</translation>
     </message>
 </context>
 <context>
@@ -5126,88 +5126,88 @@ Qué necesita
     <message>
         <location filename="../../qml/MirrorWindow.qml" line="24"/>
         <source>%1 · %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 · %2</translation>
     </message>
     <message>
         <location filename="../../qml/MirrorWindow.qml" line="25"/>
         <source>%1 · NectarLink</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 · NectarLink</translation>
     </message>
     <message>
         <location filename="../../qml/MirrorWindow.qml" line="25"/>
         <source>Phone screen · NectarLink</source>
-        <translation type="unfinished"></translation>
+        <translation>Pantalla del teléfono · NectarLink</translation>
     </message>
     <message>
         <location filename="../../qml/MirrorWindow.qml" line="359"/>
         <source>Copy screenshot (Ctrl+Shift+C)</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar captura de pantalla (Ctrl+Shift+C)</translation>
     </message>
     <message>
         <location filename="../../qml/MirrorWindow.qml" line="366"/>
         <source>Save screenshot (Ctrl+S)</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar captura de pantalla (Ctrl+S)</translation>
     </message>
     <message>
         <location filename="../../qml/MirrorWindow.qml" line="373"/>
         <source>Stop recording (Ctrl+R)</source>
-        <translation type="unfinished"></translation>
+        <translation>Detener grabación (Ctrl+R)</translation>
     </message>
     <message>
         <location filename="../../qml/MirrorWindow.qml" line="373"/>
         <source>Record video (Ctrl+R)</source>
-        <translation type="unfinished"></translation>
+        <translation>Grabar video (Ctrl+R)</translation>
     </message>
     <message>
         <location filename="../../qml/MirrorWindow.qml" line="391"/>
         <source>Phone stays awake while mirroring (turn off)</source>
-        <translation type="unfinished"></translation>
+        <translation>El teléfono permanece activo durante la duplicación (desactivar)</translation>
     </message>
     <message>
         <location filename="../../qml/MirrorWindow.qml" line="392"/>
         <source>Keep phone awake while mirroring</source>
-        <translation type="unfinished"></translation>
+        <translation>Mantener el teléfono activo durante la duplicación</translation>
     </message>
     <message>
         <location filename="../../qml/MirrorWindow.qml" line="401"/>
         <source>Turn phone screen back on</source>
-        <translation type="unfinished"></translation>
+        <translation>Volver a encender la pantalla del teléfono</translation>
     </message>
     <message>
         <location filename="../../qml/MirrorWindow.qml" line="402"/>
         <source>Turn phone screen off while mirroring</source>
-        <translation type="unfinished"></translation>
+        <translation>Apagar la pantalla del teléfono durante la duplicación</translation>
     </message>
     <message>
         <location filename="../../qml/MirrorWindow.qml" line="410"/>
         <location filename="../../qml/MirrorWindow.qml" line="437"/>
         <source>Play the phone&apos;s sound here</source>
-        <translation type="unfinished"></translation>
+        <translation>Reproducir aquí el audio del teléfono</translation>
     </message>
     <message>
         <location filename="../../qml/MirrorWindow.qml" line="410"/>
         <source>Mute the phone&apos;s sound here</source>
-        <translation type="unfinished"></translation>
+        <translation>Silenciar aquí el audio del teléfono</translation>
     </message>
     <message>
         <location filename="../../qml/MirrorWindow.qml" line="446"/>
         <source>Release to send files to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Suelta para enviar archivos a %1</translation>
     </message>
     <message>
         <location filename="../../qml/MirrorWindow.qml" line="446"/>
         <source>phone</source>
-        <translation type="unfinished"></translation>
+        <translation>teléfono</translation>
     </message>
     <message>
         <location filename="../../qml/MirrorWindow.qml" line="514"/>
         <source>To control the phone, turn on Control from your PC in NectarLink&apos;s settings on the phone.</source>
-        <translation type="unfinished"></translation>
+        <translation>Para controlar el teléfono, activa Control desde tu PC en los ajustes de NectarLink del teléfono.</translation>
     </message>
     <message>
         <location filename="../../qml/MirrorWindow.qml" line="523"/>
         <source>Notify phone</source>
-        <translation type="unfinished"></translation>
+        <translation>Notificar al teléfono</translation>
     </message>
     <message>
         <location filename="../../qml/MirrorWindow.qml" line="534"/>
@@ -5217,47 +5217,47 @@ Qué necesita
     <message>
         <location filename="../../qml/MirrorWindow.qml" line="572"/>
         <source>Opening %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Abriendo %1</translation>
     </message>
     <message>
         <location filename="../../qml/MirrorWindow.qml" line="572"/>
         <source>Allow it on your phone</source>
-        <translation type="unfinished"></translation>
+        <translation>Permitirlo en tu teléfono</translation>
     </message>
     <message>
         <location filename="../../qml/MirrorWindow.qml" line="573"/>
         <source>%1 closed</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 se cerró</translation>
     </message>
     <message>
         <location filename="../../qml/MirrorWindow.qml" line="573"/>
         <source>Mirroring stopped</source>
-        <translation type="unfinished"></translation>
+        <translation>Duplicación detenida</translation>
     </message>
     <message>
         <location filename="../../qml/MirrorWindow.qml" line="574"/>
         <source>Starting…</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciando…</translation>
     </message>
     <message>
         <location filename="../../qml/MirrorWindow.qml" line="583"/>
         <source>Tap the notification on %1, then choose to share the entire screen.</source>
-        <translation type="unfinished"></translation>
+        <translation>Toca la notificación en %1 y después elige compartir toda la pantalla.</translation>
     </message>
     <message>
         <location filename="../../qml/MirrorWindow.qml" line="585"/>
         <source>The app closed on %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>La app se cerró en %1.</translation>
     </message>
     <message>
         <location filename="../../qml/MirrorWindow.qml" line="586"/>
         <source>The phone stopped sharing its screen.</source>
-        <translation type="unfinished"></translation>
+        <translation>El teléfono dejó de compartir su pantalla.</translation>
     </message>
     <message>
         <location filename="../../qml/MirrorWindow.qml" line="593"/>
         <source>Open again</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir de nuevo</translation>
     </message>
     <message>
         <location filename="../../qml/MirrorWindow.qml" line="593"/>
@@ -5270,7 +5270,7 @@ Qué necesita
     <message>
         <location filename="../rust_strings.h" line="379"/>
         <source>No video frames were recorded yet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Todavía no se grabaron fotogramas de video.</translation>
     </message>
 </context>
 <context>
@@ -5278,7 +5278,7 @@ Qué necesita
     <message>
         <location filename="../../qml/components/NotificationItem.qml" line="59"/>
         <source>LIVE</source>
-        <translation type="unfinished"></translation>
+        <translation>EN VIVO</translation>
     </message>
     <message>
         <location filename="../../qml/components/NotificationItem.qml" line="83"/>
@@ -5288,7 +5288,7 @@ Qué necesita
     <message>
         <location filename="../../qml/components/NotificationItem.qml" line="139"/>
         <source>now</source>
-        <translation type="unfinished"></translation>
+        <translation>ahora</translation>
     </message>
     <message numerus="yes">
         <location filename="../../qml/components/NotificationItem.qml" line="140"/>
@@ -5300,28 +5300,28 @@ Qué necesita
     <message>
         <location filename="../../qml/components/NotificationItem.qml" line="511"/>
         <source>Sending: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviando: %1</translation>
     </message>
     <message>
         <location filename="../../qml/components/NotificationItem.qml" line="511"/>
         <source>You: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Tú: %1</translation>
     </message>
     <message>
         <location filename="../../qml/components/NotificationItem.qml" line="526"/>
         <source>Copy code</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar código</translation>
     </message>
     <message>
         <location filename="../../qml/components/NotificationItem.qml" line="533"/>
         <source>Reply</source>
-        <translation type="unfinished"></translation>
+        <translation>Responder</translation>
     </message>
     <message>
         <location filename="../../qml/components/NotificationItem.qml" line="574"/>
         <location filename="../../qml/components/NotificationItem.qml" line="581"/>
         <source>Reply to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Responder a %1</translation>
     </message>
     <message>
         <location filename="../../qml/components/NotificationItem.qml" line="590"/>
@@ -5331,7 +5331,7 @@ Qué necesita
     <message>
         <location filename="../../qml/components/NotificationItem.qml" line="610"/>
         <source>Show less</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar menos</translation>
     </message>
     <message>
         <location filename="../../qml/components/NotificationItem.qml" line="611"/>
@@ -5341,17 +5341,17 @@ Qué necesita
     <message>
         <location filename="../../qml/components/NotificationItem.qml" line="620"/>
         <source>Clear %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Borrar %1</translation>
     </message>
     <message>
         <location filename="../../qml/components/NotificationItem.qml" line="631"/>
         <source>Options for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Opciones de %1</translation>
     </message>
     <message>
         <location filename="../../qml/components/NotificationItem.qml" line="646"/>
         <source>Dismiss %1 notifications from %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Descartar %1 notificaciones de %2</translation>
     </message>
     <message>
         <location filename="../../qml/components/NotificationItem.qml" line="647"/>
@@ -5364,47 +5364,47 @@ Qué necesita
     <message>
         <location filename="../rust_strings.h" line="380"/>
         <source>Code copied</source>
-        <translation type="unfinished"></translation>
+        <translation>Código copiado</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="381"/>
         <source>Copy code</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar código</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="382"/>
         <source>Dismissed %1 from %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Se descartó %1 de %2</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="383"/>
         <source>Dismissed %1 notifications</source>
-        <translation type="unfinished"></translation>
+        <translation>Se descartaron %1 notificaciones</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="384"/>
         <source>Dismissed from %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Descartado de %1</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="385"/>
         <source>Notification dismissed</source>
-        <translation type="unfinished"></translation>
+        <translation>Notificación descartada</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="386"/>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="387"/>
         <source>Reply</source>
-        <translation type="unfinished"></translation>
+        <translation>Responder</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="388"/>
         <source>That notification is gone from the phone.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esa notificación ya no está en el teléfono.</translation>
     </message>
 </context>
 <context>
@@ -5737,7 +5737,7 @@ Qué necesita
     <message>
         <location filename="../rust_strings.h" line="398"/>
         <source>The phone isn&apos;t connected.</source>
-        <translation type="unfinished"></translation>
+        <translation>El teléfono no está conectado.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="399"/>
@@ -6052,7 +6052,7 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/PhotosPage.qml" line="542"/>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PhotosPage.qml" line="555"/>
@@ -6925,7 +6925,7 @@ Qué necesita
         <location filename="../../qml/pages/SettingsPage.qml" line="3384"/>
         <location filename="../../qml/pages/SettingsPage.qml" line="3397"/>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1631"/>
@@ -8208,7 +8208,7 @@ Qué necesita
     <message>
         <location filename="../../qml/ShelfWindow.qml" line="53"/>
         <source>phone</source>
-        <translation type="unfinished"></translation>
+        <translation>teléfono</translation>
     </message>
     <message>
         <location filename="../../qml/ShelfWindow.qml" line="158"/>
@@ -8318,7 +8318,7 @@ Qué necesita
     <message>
         <location filename="../../qml/ShelfWindow.qml" line="744"/>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir</translation>
     </message>
     <message>
         <location filename="../../qml/ShelfWindow.qml" line="840"/>
@@ -8677,7 +8677,7 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/TimelinePage.qml" line="563"/>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir</translation>
     </message>
     <message>
         <location filename="../../qml/pages/TimelinePage.qml" line="572"/>
@@ -8845,7 +8845,7 @@ Qué necesita
     <message>
         <location filename="../../qml/components/TransferItem.qml" line="259"/>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir</translation>
     </message>
     <message>
         <location filename="../../qml/components/TransferItem.qml" line="265"/>
