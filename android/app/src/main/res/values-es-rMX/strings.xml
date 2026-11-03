@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- SPDX-License-Identifier: GPL-3.0-or-later -->
+<!-- Traducción parcial es-MX; no habilitar hasta completar el catálogo. -->
+<resources>
+    <string name="app_name">NectarLink</string>
+
+    <!-- Vinculación -->
+    <string name="pair_title">Vincular con tu PC</string>
+    <string name="pair_show_title">Vincular un teléfono o una tableta</string>
+    <string name="pair_show_hint">En tu otro teléfono o tableta, abre NectarLink, toca Vincular y escanea este código.</string>
+    <string name="pair_show_qr_desc">Código de vinculación para otro teléfono o tableta</string>
+    <string name="action_show_code">Vincular un teléfono o una tableta de otra forma</string>
+    <string name="pair_scan_hint">En tu PC, abre NectarLink. Apunta la cámara al código que aparece. En otro teléfono o tableta, el código está en Vincular un teléfono o una tableta.</string>
+    <string name="pair_nearby_title">Vincular dispositivo cercano</string>
+    <string name="pair_nearby_hint">Abre NectarLink en tu PC y deja abierta la pantalla de vinculación. Tu PC aparecerá aquí.</string>
+    <string name="pair_looking">Buscando PC…</string>
+    <string name="pair_joining">Vinculando…</string>
+    <string name="pair_connecting">Conectando con %1$s…</string>
+    <string name="pair_waiting">Esperando a %1$s…</string>
+    <string name="pair_check_code">Verifica el código</string>
+    <string name="pair_compare_hint">Asegúrate de que %1$s muestre el mismo código. Así evitarás que otro dispositivo se vincule en medio del proceso.</string>
+    <string name="pair_done_title">Vinculado</string>
+    <string name="pair_done">%1$s quedó vinculado con este teléfono.</string>
+    <string name="pair_failed_title">No se pudo vincular</string>
+    <string name="pair_failed_rejected">Los códigos no coincidieron, así que no se vinculó ningún dispositivo.</string>
+    <string name="pair_failed_declined">Uno de los dispositivos rechazó la vinculación.</string>
+    <string name="pair_failed_expired">El código venció. Genera uno nuevo en tu PC.</string>
+    <string name="pair_failed_unreachable">No se pudo conectar con la PC. Asegúrate de que ambos dispositivos estén en la misma red.</string>
+    <string name="pair_failed_other">Ese no es un código de vinculación de NectarLink o algo salió mal.</string>
+    <string name="your_pc">tu PC</string>
+    <string name="camera_permission_needed">NectarLink necesita acceso a la cámara para escanear el código de vinculación. No se graba nada.</string>
+
+    <!-- Inicio -->
+    <string name="home_title">Inicio</string>
+    <string name="link_online">Conectado</string>
+    <string name="link_online_rtt">Conectado · %1$d ms</string>
+    <string name="link_usb">Por USB</string>
+    <string name="link_usb_rtt">Por USB · %1$d ms</string>
+    <string name="link_away">Conectado a distancia</string>
+    <string name="link_connecting">Conectando…</string>
+    <string name="link_offline_seen">Sin conexión · visto %1$s</string>
+    <string name="link_offline_now">Sin conexión · visto hace un momento</string>
+    <string name="link_never">Aún no se ha conectado</string>
+    <string name="link_not_reconnecting">No se está reconectando</string>
+    <string name="battery_level">%1$d%%</string>
+    <string name="battery_charging">%1$d%% · cargando</string>
+    <string name="ringing_title">%1$s está llamando a tu teléfono</string>
+    <string name="ringing_title_unknown">Tu PC está llamando a tu teléfono</string>
+    <string name="connected">Conectado</string>
+    <string name="not_connected">Sin conexión</string>
+
+    <!-- Ajustes -->
+    <string name="settings_title">Ajustes</string>
+    <string name="settings_appearance">Apariencia</string>
+    <string name="settings_theme">Tema</string>
+    <string name="settings_mode">Modo</string>
+    <string name="settings_language">Idioma</string>
+    <string name="settings_language_more">Más</string>
+    <string name="settings_dynamic_color">Colores del fondo de pantalla</string>
+    <string name="settings_dynamic_color_hint">Usar los colores de tu fondo de pantalla.</string>
+    <string name="settings_devices">PC</string>
+    <string name="settings_about">Acerca de</string>
+    <string name="settings_notifications">Notificaciones</string>
+    <string name="notifications_title">Mostrar notificaciones en tu PC</string>
+    <string name="notifications_on">Activado. Las notificaciones aparecen en tus PC vinculadas, donde puedes responderlas o descartarlas.</string>
+    <string name="notifications_off">NectarLink necesita acceso a las notificaciones para mostrar en tu PC las de este teléfono.</string>
+    <string name="notifications_restricted">¿El interruptor está deshabilitado? Abre Información de la aplicación, toca ⋮, elige «Permitir ajustes restringidos» y vuelve a intentarlo.</string>
+    <string name="action_allow">Permitir</string>
+    <string name="clip_share_label">Enviar a la PC</string>
+    <string name="channel_transfers">Transferencias de archivos</string>
+    <string name="channel_received">Archivos recibidos</string>
+    <string name="channel_pc_media">Contenido multimedia de tu PC</string>
+    <string name="media_on">%1$s en %2$s</string>
+    <string name="media_play">Reproducir</string>
+    <string name="media_pause">Pausar</string>
+    <string name="media_next">Siguiente</string>
+    <string name="media_previous">Anterior</string>
+    <string name="action_send_files">Enviar archivos</string>
+    <string name="action_send_folder">Enviar una carpeta</string>
+</resources>
