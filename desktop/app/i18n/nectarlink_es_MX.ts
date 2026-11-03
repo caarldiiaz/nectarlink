@@ -998,37 +998,37 @@
     <message>
         <location filename="../rust_strings.h" line="91"/>
         <source>Mute %1&apos;s ringer</source>
-        <translation type="unfinished"></translation>
+        <translation>Silenciar el tono de %1</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="92"/>
         <source>No physical network adapter found for Wake-on-LAN.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se encontró un adaptador de red físico para Wake-on-LAN.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="93"/>
         <source>Open %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir %1</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="94"/>
         <source>Open %1 in a window from %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir %1 en una ventana desde %2</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="95"/>
         <source>Open %1&apos;s Cloud Files folder in Explorer</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir la carpeta de archivos en la nube de %1 en el Explorador</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="96"/>
         <source>Open Shelf</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir panel</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="97"/>
         <source>Open conversation on %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir conversación en %1</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="98"/>
@@ -1038,107 +1038,107 @@
     <message>
         <location filename="../rust_strings.h" line="99"/>
         <source>Open copied location in Maps on phone</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir en Mapas del teléfono la ubicación copiada</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="100"/>
         <source>Open last photo</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir la última foto</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="101"/>
         <source>Open last photo from %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir la última foto de %1</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="102"/>
         <source>Open newest photo or screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir la foto o captura más reciente</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="103"/>
         <source>Open the newest photo or screenshot from %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir la foto o captura más reciente de %1</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="104"/>
         <source>Open voice recordings folder for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir la carpeta de grabaciones de voz de %1</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="105"/>
         <source>Opened Recordings folder. Start a voice note in NectarLink on %1 to send it here.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se abrió la carpeta Grabaciones. Inicia una nota de voz en NectarLink en %1 para enviarla aquí.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="106"/>
         <source>Pair a new phone</source>
-        <translation type="unfinished"></translation>
+        <translation>Vincular un teléfono nuevo</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="107"/>
         <source>Place a phone call or open in dialer</source>
-        <translation type="unfinished"></translation>
+        <translation>Realizar una llamada o abrir el marcador</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="108"/>
         <source>Place call on %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Llamar desde %1</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="109"/>
         <source>Quick Toggles</source>
-        <translation type="unfinished"></translation>
+        <translation>Accesos rápidos</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="110"/>
         <source>Re-open the step-by-step setup walkthrough</source>
-        <translation type="unfinished"></translation>
+        <translation>Volver a abrir la guía de configuración paso a paso</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="111"/>
         <source>Ready on %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Listo en %1</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="112"/>
         <source>Recent Activity</source>
-        <translation type="unfinished"></translation>
+        <translation>Actividad reciente</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="113"/>
         <source>Reconnect paired phones and refresh notifications and media</source>
-        <translation type="unfinished"></translation>
+        <translation>Reconectar teléfonos vinculados y actualizar notificaciones y contenido multimedia</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="114"/>
         <source>Record voice</source>
-        <translation type="unfinished"></translation>
+        <translation>Grabar voz</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="115"/>
         <source>Ringer: Silent</source>
-        <translation type="unfinished"></translation>
+        <translation>Tono: silencio</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="116"/>
         <source>Ringer: Sound</source>
-        <translation type="unfinished"></translation>
+        <translation>Tono: sonido</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="117"/>
         <source>Ringer: Vibrate</source>
-        <translation type="unfinished"></translation>
+        <translation>Tono: vibración</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="118"/>
         <source>Ringing %1…</source>
-        <translation type="unfinished"></translation>
+        <translation>Llamando a %1…</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="119"/>
         <source>Scan a document on your phone and paste it into the active window</source>
-        <translation type="unfinished"></translation>
+        <translation>Escanea un documento con tu teléfono y pégalo en la ventana activa</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="120"/>
@@ -1148,37 +1148,37 @@
     <message>
         <location filename="../rust_strings.h" line="121"/>
         <source>Send a document to %1 and open it automatically upon arrival</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar un documento a %1 y abrirlo automáticamente al recibirlo</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="122"/>
         <source>Send clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar portapapeles</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="123"/>
         <source>Send clipboard to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar portapapeles a %1</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="124"/>
         <source>Send copied text or image</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar texto o imagen copiados</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="125"/>
         <source>Send copied text or image to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar texto o imagen copiados a %1</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="126"/>
         <source>Send live keystrokes and text to %1 without screen mirroring</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar pulsaciones y texto en tiempo real a %1 sin duplicar la pantalla</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="127"/>
         <source>Set %1&apos;s ringer mode to normal sound</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurar el tono de %1 en sonido normal</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="128"/>
@@ -1188,87 +1188,87 @@
     <message>
         <location filename="../rust_strings.h" line="129"/>
         <source>Setup walkthrough</source>
-        <translation type="unfinished"></translation>
+        <translation>Guía de configuración</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="130"/>
         <source>Show QR code and pairing code to link another phone</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar código QR y código de vinculación para conectar otro teléfono</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="131"/>
         <source>Slide-out edge panel with latest photo, screenshot, clipboard, and recent files</source>
-        <translation type="unfinished"></translation>
+        <translation>Panel lateral deslizable con la última foto, captura, portapapeles y archivos recientes</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="132"/>
         <source>Start a new message conversation</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciar una conversación nueva</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="133"/>
         <source>Starting phone webcam…</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciando cámara web del teléfono…</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="134"/>
         <source>Stop phone webcam</source>
-        <translation type="unfinished"></translation>
+        <translation>Detener cámara web del teléfono</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="135"/>
         <source>Stop typing on phone</source>
-        <translation type="unfinished"></translation>
+        <translation>Detener escritura en el teléfono</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="136"/>
         <source>Stopped phone webcam.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cámara web del teléfono detenida.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="137"/>
         <source>Stream %1&apos;s camera into the NectarLink virtual webcam</source>
-        <translation type="unfinished"></translation>
+        <translation>Transmitir la cámara de %1 a la cámara web virtual de NectarLink</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="138"/>
         <source>Stream %1&apos;s screen in a desktop window</source>
-        <translation type="unfinished"></translation>
+        <translation>Transmitir la pantalla de %1 en una ventana del escritorio</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="139"/>
         <source>Switch Bluetooth on %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Activar Bluetooth en %1</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="140"/>
         <source>Switch Do Not Disturb on %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Activar No molestar en %1</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="141"/>
         <source>Switch Wi-Fi on %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Activar Wi-Fi en %1</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="142"/>
         <source>Switch to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambiar a %1</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="143"/>
         <source>Switch torch / flashlight on %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Activar la linterna de %1</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="144"/>
         <source>Sync now</source>
-        <translation type="unfinished"></translation>
+        <translation>Sincronizar ahora</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="145"/>
         <source>Syncing devices…</source>
-        <translation type="unfinished"></translation>
+        <translation>Sincronizando dispositivos…</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="146"/>
@@ -1288,12 +1288,12 @@
     <message>
         <location filename="../rust_strings.h" line="149"/>
         <source>Toggle Bluetooth</source>
-        <translation type="unfinished"></translation>
+        <translation>Activar o desactivar Bluetooth</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="150"/>
         <source>Toggle Do Not Disturb</source>
-        <translation type="unfinished"></translation>
+        <translation>Activar o desactivar No molestar</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="151"/>
@@ -2470,7 +2470,7 @@
     <message>
         <location filename="../../qml/pages/FeaturesGuidePage.qml" line="633"/>
         <source>Setup walkthrough</source>
-        <translation type="unfinished"></translation>
+        <translation>Guía de configuración</translation>
     </message>
     <message>
         <location filename="../../qml/pages/FeaturesGuidePage.qml" line="668"/>
@@ -3304,7 +3304,7 @@ What it needs
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="452"/>
         <source>Setup walkthrough</source>
-        <translation type="unfinished"></translation>
+        <translation>Guía de configuración</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="458"/>
@@ -3462,7 +3462,7 @@ What it needs
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1326"/>
         <source>Send clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar portapapeles</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1332"/>
@@ -7187,7 +7187,7 @@ What it needs
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2318"/>
         <source>Sync now</source>
-        <translation type="unfinished"></translation>
+        <translation>Sincronizar ahora</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2346"/>
@@ -7634,7 +7634,7 @@ What it needs
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3379"/>
         <source>Setup walkthrough</source>
-        <translation type="unfinished"></translation>
+        <translation>Guía de configuración</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3380"/>
