@@ -3049,7 +3049,14 @@ Where to find it
 
 What it needs
 - Paired phone; works online or queues automatically when your phone is offline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Qué hace
+Envía a tu teléfono enlaces web, enlaces de video con su posición de reproducción, coordenadas o direcciones y documentos para abrirlos de inmediato en la app adecuada.
+
+Dónde encontrarlo
+- Paleta de comandos › Abrir en el teléfono el enlace copiado y Enviar documento al teléfono.
+
+Qué necesita
+- Teléfono vinculado; funciona en línea o se pone en cola automáticamente si el teléfono está desconectado.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="326"/>
@@ -3063,7 +3070,16 @@ Where to find it
 What it needs
 - Automatic PC-to-phone clipboard send works whenever your phone is connected.
 - Background phone-to-PC clipboard sync on Android 10+ uses notifications, the NectarLink quick tile, or Elevated mode.</source>
-        <translation type="unfinished"></translation>
+        <translation>Qué hace
+Comparte texto copiado, texto enriquecido HTML/RTF, imágenes y pequeños conjuntos de archivos entre tu PC y teléfono. Conserva un historial local cifrado de hasta 50 elementos, con opción de fijarlos y accesos contextuales para enlaces, números telefónicos, direcciones y códigos de rastreo.
+
+Dónde encontrarlo
+- Inicio › Enviar portapapeles.
+- Ajustes › General › Sincronizar portapapeles con el teléfono.
+
+Qué necesita
+- El envío automático del portapapeles de la PC al teléfono funciona cuando el teléfono está conectado.
+- En Android 10 o posterior, la sincronización en segundo plano del teléfono a la PC usa notificaciones, el mosaico rápido de NectarLink o el modo Avanzado.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="327"/>
@@ -3077,7 +3093,16 @@ Where to find it
 What it needs
 - Phone, Call Log, and Contacts permissions on your Android phone.
 - Call audio stays on your phone (or a headset paired to your phone); Elevated mode on Android 12+ unlocks mute, speakerphone, hold, and keypad controls.</source>
-        <translation type="unfinished"></translation>
+        <translation>Qué hace
+Muestra en tu PC las llamadas entrantes y activas del teléfono, con opciones para contestar, rechazar o rechazar con SMS, además de historial de llamadas, contactos y teclado de marcación.
+
+Dónde encontrarlo
+- Barra de navegación lateral › Llamadas.
+- Aviso de llamada entrante en Inicio y Nectar Island.
+
+Qué necesita
+- Permisos de Teléfono, Registro de llamadas y Contactos en Android.
+- El audio de las llamadas permanece en el teléfono (o en unos audífonos vinculados a él); el modo Avanzado en Android 12 o posterior habilita silenciar, altavoz, espera y teclado.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="328"/>
@@ -3090,7 +3115,15 @@ Where to find it
 
 What it needs
 - Paired phone connected over local Wi-Fi or USB.</source>
-        <translation type="unfinished"></translation>
+        <translation>Qué hace
+Transmite en tiempo real el audio del sistema de tu PC a tu teléfono conectado mediante una conexión cifrada, para escucharlo en las bocinas del teléfono o con audífonos.
+
+Dónde encontrarlo
+- Inicio › Usar el teléfono como altavoz.
+- Ajustes › Cámara y audio › Transmitir audio de la PC al teléfono.
+
+Qué necesita
+- Teléfono vinculado y conectado por Wi-Fi local o USB.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="329"/>
@@ -3103,7 +3136,15 @@ Where to find it
 
 What it needs
 - The per-device Share PC screen to phone switch on your PC, or one-time approval when your phone requests to view your screen.</source>
-        <translation type="unfinished"></translation>
+        <translation>Qué hace
+Transmite la pantalla de tu PC al teléfono para que puedas ver el escritorio desde cualquier lugar de la habitación y usar el teléfono como panel táctil o apuntador láser.
+
+Dónde encontrarlo
+- Se inicia desde la app NectarLink del teléfono.
+- Ajustes › Dispositivos › Compartir pantalla de la PC con el teléfono.
+
+Qué necesita
+- Activar en tu PC la opción Compartir pantalla de la PC con el teléfono para ese dispositivo, o aprobar una vez cuando el teléfono solicite ver la pantalla.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="330"/>
@@ -3117,7 +3158,16 @@ Where to find it
 What it needs
 - Camera permission on your phone.
 - For other apps to see it: Virtual camera add-on in Settings › Camera &amp; Audio.</source>
-        <translation type="unfinished"></translation>
+        <translation>Qué hace
+Transmite la cámara del teléfono a la Cámara virtual de NectarLink en Windows para que Zoom, Teams, Meet, Discord y OBS puedan usar la cámara frontal o trasera del teléfono hasta en 4K.
+
+Dónde encontrarlo
+- Inicio › Usar el teléfono como cámara web.
+- Ajustes › Cámara y audio › Iniciar cámara web.
+
+Qué necesita
+- Permiso de cámara en el teléfono.
+- Para que otras apps la detecten: complemento de cámara virtual en Ajustes › Cámara y audio.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="331"/>
@@ -3132,7 +3182,17 @@ What it needs
 - Standard mode mirrors the full phone screen after you tap Start now on Android&apos;s screen capture prompt.
 - Elevated mode (Wireless debugging or root) skips the prompt and unlocks individual app windows.
 - Assist mode or Elevated mode lets you click, scroll, and type inside the mirrored window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Qué hace
+Transmite la pantalla del teléfono en una ventana de escritorio de baja latencia con decodificación acelerada por hardware, o abre apps individuales de Android en ventanas propias de tu PC.
+
+Dónde encontrarlo
+- Barra de navegación lateral › Apps.
+- Inicio › Acción rápida Duplicar pantalla.
+
+Qué necesita
+- El modo estándar duplica toda la pantalla después de tocar Iniciar ahora en el aviso de captura de Android.
+- El modo Avanzado (Depuración inalámbrica o root) omite el aviso y habilita ventanas de apps individuales.
+- El modo Asistencia o Avanzado permite hacer clic, desplazarse y escribir dentro de la ventana duplicada.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="332"/>
@@ -3144,7 +3204,14 @@ Where to find it
 
 What it needs
 - Paired phone over any active connection.</source>
-        <translation type="unfinished"></translation>
+        <translation>Qué hace
+Sincroniza la reproducción multimedia entre tu teléfono y PC, cambia los dispositivos de salida de audio y micrófono de Windows, y convierte tu teléfono en una cuadrícula personalizable de mosaicos de acceso directo, macros y controles de volumen.
+
+Dónde encontrarlo
+- Barra de navegación lateral › Panel de controles.
+
+Qué necesita
+- Teléfono vinculado mediante cualquier conexión activa.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="333"/>
@@ -3157,7 +3224,15 @@ Where to find it
 
 What it needs
 - Camera permission on your phone.</source>
-        <translation type="unfinished"></translation>
+        <translation>Qué hace
+Activa la cámara del teléfono desde cualquier app de Windows para tomar una foto o escanear un documento. Después copia el resultado al portapapeles de Windows y lo pega en la ventana activa.
+
+Dónde encontrarlo
+- Atajos globales Ctrl+Alt+C (Tomar foto con el teléfono) y Ctrl+Alt+D (Escanear documento con el teléfono).
+- Inicio › Cámara de continuidad.
+
+Qué necesita
+- Permiso de cámara en el teléfono.</translation>
     </message>
 </context>
 <context>
@@ -3165,12 +3240,12 @@ What it needs
     <message>
         <location filename="../../qml/components/HistoryItem.qml" line="22"/>
         <source>Open %1 in an app window</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir %1 en una ventana de app</translation>
     </message>
     <message>
         <location filename="../../qml/components/HistoryItem.qml" line="35"/>
         <source>Yesterday %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ayer %1</translation>
     </message>
 </context>
 <context>
@@ -3178,37 +3253,37 @@ What it needs
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="94"/>
         <source>%1 B</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 B</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="95"/>
         <source>%1 KB</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 KB</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="95"/>
         <source>%1 MB</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 MB</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="95"/>
         <source>%1 GB</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 GB</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="95"/>
         <source>%1 TB</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 TB</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="105"/>
         <source>Send files via LocalSend</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar archivos mediante LocalSend</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="134"/>
         <source>never</source>
-        <translation type="unfinished"></translation>
+        <translation>nunca</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="136"/>
@@ -3232,69 +3307,69 @@ What it needs
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="147"/>
         <source>~%1 min to full</source>
-        <translation type="unfinished"></translation>
+        <translation>~%1 min para completar la carga</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="150"/>
         <source>~%1h %2m to full</source>
-        <translation type="unfinished"></translation>
+        <translation>~%1 h %2 min para completar la carga</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="150"/>
         <source>~%1h to full</source>
-        <translation type="unfinished"></translation>
+        <translation>~%1 h para completar la carga</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="279"/>
         <source>New: Features guide</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuevo: guía de funciones</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="286"/>
         <source>See what each feature needs and where to find it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Descubre qué necesita cada función y dónde encontrarla.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="298"/>
         <location filename="../../qml/pages/HomePage.qml" line="1562"/>
         <location filename="../../qml/pages/HomePage.qml" line="1728"/>
         <source>Dismiss</source>
-        <translation type="unfinished"></translation>
+        <translation>Descartar</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="305"/>
         <source>Open features guide</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir guía de funciones</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="371"/>
         <source>Try Hive, the new theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Prueba Hive, el nuevo tema</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="378"/>
         <source>Honey on charcoal or warm wax, with a living honeycomb behind the app. Change it any time in Settings › Appearance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Miel sobre carbón o cera cálida, con un panal animado de fondo. Cámbialo cuando quieras en Ajustes › Apariencia.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="390"/>
         <source>Not now</source>
-        <translation type="unfinished"></translation>
+        <translation>Ahora no</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="397"/>
         <source>Try Hive</source>
-        <translation type="unfinished"></translation>
+        <translation>Probar Hive</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="425"/>
         <source>No phone paired yet</source>
-        <translation type="unfinished"></translation>
+        <translation>Todavía no hay un teléfono vinculado</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="432"/>
         <source>Pair your Android phone over Wi-Fi or USB.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vincula tu teléfono Android por Wi-Fi o USB.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="445"/>
@@ -3309,71 +3384,71 @@ What it needs
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="458"/>
         <source>Pair a phone</source>
-        <translation type="unfinished"></translation>
+        <translation>Vincular un teléfono</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="507"/>
         <location filename="../../qml/pages/HomePage.qml" line="1588"/>
         <source>Transfers</source>
-        <translation type="unfinished"></translation>
+        <translation>Transferencias</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="516"/>
         <location filename="../../qml/pages/HomePage.qml" line="1605"/>
         <source>Clear finished</source>
-        <translation type="unfinished"></translation>
+        <translation>Borrar completadas</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="581"/>
         <source>Drop to send to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Suelta para enviar a %1</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="588"/>
         <source>Hold Shift while dropping a document to open it on arrival</source>
-        <translation type="unfinished"></translation>
+        <translation>Mantén presionada Mayús al soltar un documento para abrirlo al llegar</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1072"/>
         <location filename="../../qml/pages/HomePage.qml" line="1164"/>
         <source>Charging</source>
-        <translation type="unfinished"></translation>
+        <translation>Cargando</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1075"/>
         <source>Low</source>
-        <translation type="unfinished"></translation>
+        <translation>Baja</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1132"/>
         <source>Android %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Android %1</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1146"/>
         <source>Away · %1 ms</source>
-        <translation type="unfinished"></translation>
+        <translation>A distancia · %1 ms</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1146"/>
         <source>Away</source>
-        <translation type="unfinished"></translation>
+        <translation>A distancia</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1148"/>
         <source>USB · %1 ms</source>
-        <translation type="unfinished"></translation>
+        <translation>USB · %1 ms</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1148"/>
         <source>USB</source>
-        <translation type="unfinished"></translation>
+        <translation>USB</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1150"/>
         <location filename="../../qml/pages/HomePage.qml" line="1154"/>
         <source>Wi‑Fi · %1 ms</source>
-        <translation type="unfinished"></translation>
+        <translation>Wi‑Fi · %1 ms</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1150"/>
@@ -3381,47 +3456,47 @@ What it needs
         <location filename="../../qml/pages/HomePage.qml" line="2044"/>
         <location filename="../../qml/pages/HomePage.qml" line="2045"/>
         <source>Wi‑Fi</source>
-        <translation type="unfinished"></translation>
+        <translation>Wi-Fi</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1152"/>
         <source>Cellular</source>
-        <translation type="unfinished"></translation>
+        <translation>Datos móviles</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1153"/>
         <source> · %1 ms</source>
-        <translation type="unfinished"></translation>
+        <translation> · %1 ms</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1155"/>
         <source>Not reconnecting</source>
-        <translation type="unfinished"></translation>
+        <translation>No se está reconectando</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1156"/>
         <source>Offline · %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin conexión · %1</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1157"/>
         <source>Offline</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin conexión</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1179"/>
         <source>Troubleshoot</source>
-        <translation type="unfinished"></translation>
+        <translation>Solucionar problemas</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1171"/>
         <source>Stop reconnecting</source>
-        <translation type="unfinished"></translation>
+        <translation>Detener reconexión</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1171"/>
         <source>Disconnect</source>
-        <translation type="unfinished"></translation>
+        <translation>Desconectar</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1179"/>
@@ -3431,17 +3506,17 @@ What it needs
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1263"/>
         <source>Media player</source>
-        <translation type="unfinished"></translation>
+        <translation>Reproductor multimedia</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1270"/>
         <source>Nothing playing</source>
-        <translation type="unfinished"></translation>
+        <translation>Nada en reproducción</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1291"/>
         <source>Mirror screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Duplicar pantalla</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1306"/>
@@ -4535,7 +4610,7 @@ What it needs
         <location filename="../../qml/MainWindow.qml" line="1091"/>
         <location filename="../../qml/MainWindow.qml" line="1139"/>
         <source>Not now</source>
-        <translation type="unfinished"></translation>
+        <translation>Ahora no</translation>
     </message>
     <message>
         <location filename="../../qml/MainWindow.qml" line="1095"/>
@@ -5208,7 +5283,7 @@ What it needs
     <message>
         <location filename="../../qml/components/NotificationItem.qml" line="83"/>
         <source>Open %1 in an app window</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir %1 en una ventana de app</translation>
     </message>
     <message>
         <location filename="../../qml/components/NotificationItem.qml" line="139"/>
@@ -5281,7 +5356,7 @@ What it needs
     <message>
         <location filename="../../qml/components/NotificationItem.qml" line="647"/>
         <source>Dismiss</source>
-        <translation type="unfinished"></translation>
+        <translation>Descartar</translation>
     </message>
 </context>
 <context>
@@ -5829,27 +5904,27 @@ What it needs
     <message>
         <location filename="../../qml/pages/PhotosPage.qml" line="111"/>
         <source>%1 B</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 B</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PhotosPage.qml" line="112"/>
         <source>%1 KB</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 KB</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PhotosPage.qml" line="112"/>
         <source>%1 MB</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 MB</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PhotosPage.qml" line="112"/>
         <source>%1 GB</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 GB</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PhotosPage.qml" line="112"/>
         <source>%1 TB</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 TB</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PhotosPage.qml" line="236"/>
@@ -6360,27 +6435,27 @@ What it needs
         <location filename="../../qml/pages/SettingsPage.qml" line="148"/>
         <location filename="../../qml/pages/SettingsPage.qml" line="150"/>
         <source>%1 B</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 B</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="152"/>
         <source>%1 KB</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 KB</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="154"/>
         <source>%1 MB</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 MB</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="156"/>
         <source>%1 GB</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 GB</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="157"/>
         <source>%1 TB</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 TB</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="164"/>
@@ -6719,7 +6794,7 @@ What it needs
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1090"/>
         <source>Transfers</source>
-        <translation type="unfinished"></translation>
+        <translation>Transferencias</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1091"/>
@@ -6799,7 +6874,7 @@ What it needs
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1369"/>
         <source>Pair a phone</source>
-        <translation type="unfinished"></translation>
+        <translation>Vincular un teléfono</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1410"/>
@@ -8138,22 +8213,22 @@ What it needs
     <message>
         <location filename="../../qml/ShelfWindow.qml" line="158"/>
         <source>%1 B</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 B</translation>
     </message>
     <message>
         <location filename="../../qml/ShelfWindow.qml" line="160"/>
         <source>%1 KB</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 KB</translation>
     </message>
     <message>
         <location filename="../../qml/ShelfWindow.qml" line="162"/>
         <source>%1 MB</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 MB</translation>
     </message>
     <message>
         <location filename="../../qml/ShelfWindow.qml" line="163"/>
         <source>%1 GB</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 GB</translation>
     </message>
     <message>
         <location filename="../../qml/ShelfWindow.qml" line="309"/>
@@ -8635,27 +8710,27 @@ What it needs
     <message>
         <location filename="../../qml/components/TransferItem.qml" line="34"/>
         <source>%1 B</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 B</translation>
     </message>
     <message>
         <location filename="../../qml/components/TransferItem.qml" line="35"/>
         <source>%1 KB</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 KB</translation>
     </message>
     <message>
         <location filename="../../qml/components/TransferItem.qml" line="35"/>
         <source>%1 MB</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 MB</translation>
     </message>
     <message>
         <location filename="../../qml/components/TransferItem.qml" line="35"/>
         <source>%1 GB</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 GB</translation>
     </message>
     <message>
         <location filename="../../qml/components/TransferItem.qml" line="35"/>
         <source>%1 TB</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 TB</translation>
     </message>
     <message>
         <location filename="../../qml/components/TransferItem.qml" line="46"/>
@@ -9114,7 +9189,7 @@ What it needs
     <message>
         <location filename="../../qml/pages/WalkthroughPage.qml" line="1752"/>
         <source>Open features guide</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir guía de funciones</translation>
     </message>
 </context>
 <context>
