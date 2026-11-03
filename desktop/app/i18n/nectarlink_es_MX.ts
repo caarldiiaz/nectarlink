@@ -7630,81 +7630,81 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3213"/>
         <source>Off in Windows</source>
-        <translation type="unfinished"></translation>
+        <translation>Desactivado en Windows</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3213"/>
         <source>Off in the adapter&apos;s settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Desactivado en los ajustes del adaptador</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3214"/>
         <source>Check settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Revisar ajustes</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3215"/>
         <source>No adapter</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin adaptador</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3223"/>
         <location filename="../../qml/pages/SettingsPage.qml" line="3262"/>
         <source>Local automation API</source>
-        <translation type="unfinished"></translation>
+        <translation>API de automatización local</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3225"/>
         <source>Listening on 127.0.0.1:%1 · Token in %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Escuchando en 127.0.0.1:%1 · Token en %2</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3226"/>
         <source>Local HTTP/SSE server (127.0.0.1:%1) for scripts and tools.</source>
-        <translation type="unfinished"></translation>
+        <translation>Servidor HTTP/SSE local (127.0.0.1:%1) para scripts y herramientas.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3272"/>
         <source>NectarLink %1</source>
-        <translation type="unfinished"></translation>
+        <translation>NectarLink %1</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3275"/>
         <source>This PC: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta PC: %1</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3287"/>
         <source>Update download</source>
-        <translation type="unfinished"></translation>
+        <translation>Descarga de actualización</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3308"/>
         <source>Update to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizar a %1</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3309"/>
         <location filename="../../qml/pages/SettingsPage.qml" line="3328"/>
         <location filename="../../qml/pages/SettingsPage.qml" line="3333"/>
         <source>Check for updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscar actualizaciones</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3318"/>
         <source>Open logs</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir registros</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3361"/>
         <location filename="../../qml/pages/SettingsPage.qml" line="3364"/>
         <source>Install updates automatically</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalar actualizaciones automáticamente</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3362"/>
         <source>When nobody is using the PC and nothing is in progress.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuando nadie esté usando la PC y no haya procesos en curso.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3379"/>
@@ -7714,7 +7714,7 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3380"/>
         <source>Re-open the setup guide.</source>
-        <translation type="unfinished"></translation>
+        <translation>Volver a abrir la guía de configuración.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3392"/>
@@ -7724,88 +7724,88 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3393"/>
         <source>What each feature needs and where to find it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Qué necesita cada función y dónde encontrarla.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3468"/>
         <source>Sync a folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Sincronizar una carpeta</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3474"/>
         <source>The phone asks once to let this PC in. NectarLink there also needs All files access, or this folder under Selected folders only.</source>
-        <translation type="unfinished"></translation>
+        <translation>El teléfono solicitará una autorización única para permitir el acceso de esta PC. NectarLink también necesita Acceso a todos los archivos o que esta carpeta esté incluida en Solo carpetas seleccionadas.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3477"/>
         <location filename="../../qml/pages/SettingsPage.qml" line="3508"/>
         <source>Folder on the phone</source>
-        <translation type="unfinished"></translation>
+        <translation>Carpeta del teléfono</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3513"/>
         <source>Folder on this PC</source>
-        <translation type="unfinished"></translation>
+        <translation>Carpeta de esta PC</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3528"/>
         <source>Choose…</source>
-        <translation type="unfinished"></translation>
+        <translation>Elegir…</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3538"/>
         <source>Phone to PC</source>
-        <translation type="unfinished"></translation>
+        <translation>Del teléfono a la PC</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3539"/>
         <source>Both ways</source>
-        <translation type="unfinished"></translation>
+        <translation>En ambos sentidos</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3550"/>
         <source>Changes on either side are copied to the other. When a file changed on both, both versions are kept.</source>
-        <translation type="unfinished"></translation>
+        <translation>Los cambios de cualquiera de los lados se copian al otro. Si un archivo cambió en ambos, se conservan las dos versiones.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3551"/>
         <source>New and changed files on the phone are copied to the PC. Nothing on the PC goes to the phone.</source>
-        <translation type="unfinished"></translation>
+        <translation>Los archivos nuevos y modificados del teléfono se copian a la PC. Nada de la PC se envía al teléfono.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3559"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Agregar</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3580"/>
         <source>Phone&apos;s hotspot network</source>
-        <translation type="unfinished"></translation>
+        <translation>Red del punto de acceso del teléfono</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3588"/>
         <source>Wi-Fi networks this PC has joined before. Your system keeps their passwords; NectarLink never sees them.</source>
-        <translation type="unfinished"></translation>
+        <translation>Redes Wi-Fi a las que esta PC se ha conectado antes. El sistema conserva sus contraseñas; NectarLink nunca las ve.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3589"/>
         <source>This PC hasn&apos;t saved any Wi-Fi networks yet. Join the phone&apos;s hotspot once from your system Wi-Fi list first.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta PC todavía no tiene redes Wi-Fi guardadas. Primero conéctate una vez al punto de acceso del teléfono desde la lista Wi-Fi del sistema.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3591"/>
         <source>Wi-Fi networks this PC has joined before. Windows keeps their passwords; NectarLink never sees them.</source>
-        <translation type="unfinished"></translation>
+        <translation>Redes Wi-Fi a las que esta PC se ha conectado antes. Windows conserva sus contraseñas; NectarLink nunca las ve.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3592"/>
         <source>This PC hasn&apos;t saved any Wi-Fi networks yet. Join the phone&apos;s hotspot once from Windows&apos; Wi-Fi list first.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta PC todavía no tiene redes Wi-Fi guardadas. Primero conéctate una vez al punto de acceso del teléfono desde la lista Wi-Fi de Windows.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3622"/>
         <source>Don&apos;t join</source>
-        <translation type="unfinished"></translation>
+        <translation>No conectar</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3631"/>
@@ -7817,17 +7817,17 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3670"/>
         <source>Play the phone&apos;s microphone into</source>
-        <translation type="unfinished"></translation>
+        <translation>Reproducir el micrófono del teléfono en</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3700"/>
         <source>Unpair %1?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Desvincular %1?</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3706"/>
         <source>Both devices forget each other. You can pair them again any time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ambos dispositivos se olvidarán entre sí. Puedes volver a vincularlos cuando quieras.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3557"/>
@@ -7840,77 +7840,77 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2325"/>
         <source>Add folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Agregar carpeta</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3330"/>
         <source>Looks for a new build every couple of hours, and tells your phone.</source>
-        <translation type="unfinished"></translation>
+        <translation>Busca una nueva compilación cada pocas horas y avisa a tu teléfono.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3331"/>
         <source>Looks for a new release twice a day, and tells your phone.</source>
-        <translation type="unfinished"></translation>
+        <translation>Busca una nueva versión dos veces al día y avisa a tu teléfono.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3342"/>
         <source>Update channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Canal de actualización</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3344"/>
         <source>The newest build from every couple of hours, with the latest fixes and features, and sometimes new bugs. Back on Stable, this PC keeps its build until the next release is newer.</source>
-        <translation type="unfinished"></translation>
+        <translation>La compilación más reciente, publicada cada pocas horas, con las últimas correcciones y funciones, y a veces también errores nuevos. Al volver a Estable, esta PC conserva su compilación hasta que una versión publicada sea más reciente.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3345"/>
         <source>Releases, tested and less often.</source>
-        <translation type="unfinished"></translation>
+        <translation>Versiones publicadas, probadas y menos frecuentes.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3348"/>
         <source>Stable</source>
-        <translation type="unfinished"></translation>
+        <translation>Estable</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3349"/>
         <source>Nightly</source>
-        <translation type="unfinished"></translation>
+        <translation>Nightly</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3777"/>
         <source>Clear all local history &amp; caches?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Borrar todo el historial y las cachés locales?</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3786"/>
         <source>Deletes clipboard history, Timeline, notification history, cached messages, photo thumbnails and transfer history on this PC. Paired devices, settings and downloaded files are kept.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elimina de esta PC el historial del portapapeles, historial general, historial de notificaciones, mensajes en caché, miniaturas de fotos e historial de transferencias. Se conservan los dispositivos vinculados, los ajustes y los archivos descargados.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3794"/>
         <source>Clear everything</source>
-        <translation type="unfinished"></translation>
+        <translation>Borrar todo</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1171"/>
         <source>Full charge target</source>
-        <translation type="unfinished"></translation>
+        <translation>Objetivo de carga completa</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1172"/>
         <source>Alert at 100%, or at 80% if your phone has battery protection enabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Avisar al 100%, o al 80% si tu teléfono tiene activada la protección de batería.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1175"/>
         <source>100% (Standard)</source>
-        <translation type="unfinished"></translation>
+        <translation>100% (Estándar)</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1176"/>
         <source>80% (Protect battery)</source>
-        <translation type="unfinished"></translation>
+        <translation>80% (Proteger batería)</translation>
     </message>
 </context>
 <context>
@@ -7918,27 +7918,27 @@ Qué necesita
     <message>
         <location filename="../rust_strings.h" line="444"/>
         <source>Choose a folder on a drive inside this PC, not a USB or network drive.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elige una carpeta en una unidad interna de esta PC, no en una unidad USB ni de red.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="445"/>
         <source>Choose a folder on one of this PC&apos;s drives.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elige una carpeta en una de las unidades de esta PC.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="446"/>
         <source>Couldn&apos;t start setup: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo iniciar la configuración: %1</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="447"/>
         <source>Couldn&apos;t uninstall NectarLink: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo desinstalar NectarLink: %1</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="448"/>
         <source>Setup can&apos;t use that folder. Choose another one.</source>
-        <translation type="unfinished"></translation>
+        <translation>La configuración no puede usar esa carpeta. Elige otra.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="449"/>
