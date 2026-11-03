@@ -392,4 +392,54 @@
     <string name="timeline_action_folder">Mostrar en carpeta</string>
     <string name="timeline_action_copy">Copiar</string>
 
+
+    <!-- Accesibilidad, control del dispositivo y depuración inalámbrica -->
+    <string name="input_service_label">NectarLink: control desde tu PC</string>
+    <string name="input_service_description">Permite que el mouse y el teclado de tu PC toquen, deslicen y escriban en este teléfono mientras compartes su pantalla con una PC vinculada. No accede a nada más.</string>
+    <string name="settings_control">Control desde tu PC</string>
+    <string name="control_title">Usar el mouse y el teclado de tu PC</string>
+    <string name="control_on">Activado: mientras se muestra la pantalla en tu PC, puedes tocar, deslizar y escribir desde ella.</string>
+    <string name="control_off">Toca, desliza y escribe desde tu PC mientras muestra esta pantalla. Activa NectarLink en Accesibilidad.</string>
+    <string name="dnd_access_title">No molestar y modo silencioso</string>
+    <string name="dnd_access_on">Activado: tu PC puede activar o desactivar No molestar y poner el tono de llamada en silencio.</string>
+    <string name="dnd_access_off">Permite que tu PC active o desactive No molestar y ponga el tono de llamada en silencio.</string>
+    <string name="write_settings_title">Brillo de pantalla</string>
+    <string name="write_settings_on">Activado: tu PC puede ajustar el brillo de la pantalla de este teléfono.</string>
+    <string name="write_settings_off">Permite que tu PC ajuste el brillo de la pantalla de este teléfono.</string>
+    <string name="local_network_title">Conectarse a tu PC en esta red</string>
+    <string name="local_network_text">Android solicita permiso antes de que una app se comunique con dispositivos de tu red. NectarLink lo necesita para conectarse a tu PC.</string>
+    <string name="channel_elevated">Configuración de depuración inalámbrica</string>
+    <string name="elevated_title">Toques y teclas reales (depuración inalámbrica)</string>
+    <string name="elevated_not_set_up">Toques en tiempo real, todas las teclas y controles de silencio, espera y teclado numérico en llamadas desde tu PC. Usa la depuración inalámbrica de Android.</string>
+    <string name="elevated_waiting">Esperando la depuración inalámbrica. Actívala en Opciones de desarrollador.</string>
+    <string name="elevated_starting">Iniciando…</string>
+    <string name="elevated_running">Activado: el mouse y teclado de tu PC funcionan como una pantalla táctil y un teclado reales.</string>
+    <string name="elevated_failed">No se pudo iniciar. Verifica que la depuración inalámbrica esté activada e inténtalo de nuevo.</string>
+    <string name="elevated_not_paired">El teléfono olvidó la vinculación de NectarLink. Configúrala de nuevo.</string>
+    <string name="elevated_set_up">Configurar</string>
+    <string name="elevated_use_root">Usar root</string>
+    <string name="elevated_root_hint">Este teléfono tiene root, así que Elevated puede iniciarse mediante root: no requiere vinculación y se recupera automáticamente tras reiniciar o al salir del Wi-Fi. Obtiene los mismos permisos que con la depuración inalámbrica.</string>
+    <string name="elevated_running_root">Activado mediante root: el mouse y teclado de tu PC funcionan como una pantalla táctil y un teclado reales.</string>
+    <string name="elevated_root_failed">No se autorizó root o el administrador de root no puede iniciar el auxiliar de NectarLink como usuario shell. Puedes configurarlo mediante depuración inalámbrica.</string>
+    <string name="elevated_use_shizuku">Usar Shizuku</string>
+    <string name="elevated_shizuku_hint">Shizuku está instalado, así que Elevated puede iniciarse mediante él: no requiere una vinculación propia y funciona fuera del Wi-Fi mientras Shizuku esté activo. Obtiene los mismos permisos que con la depuración inalámbrica.</string>
+    <string name="elevated_running_shizuku">Activado mediante Shizuku: el mouse y teclado de tu PC funcionan como una pantalla táctil y un teclado reales.</string>
+    <string name="elevated_shizuku_waiting">Esperando a Shizuku. Inícialo en la app Shizuku y después abre NectarLink.</string>
+    <string name="elevated_shizuku_not_running">Shizuku no está activo. Inícialo en la app Shizuku e inténtalo de nuevo.</string>
+    <string name="elevated_shizuku_denied">Shizuku no permitió el acceso a NectarLink. Autorízalo en Shizuku (y actualízalo si es una versión antigua) e inténtalo de nuevo.</string>
+    <string name="elevated_shizuku_root">Shizuku se está ejecutando con root, pero Elevated solo inicia su auxiliar como usuario shell. Inicia Shizuku mediante depuración inalámbrica o usa root.</string>
+    <string name="elevated_open_shizuku">Abrir Shizuku</string>
+    <string name="elevated_turn_off">Desactivar</string>
+    <string name="elevated_try_again">Volver a intentar</string>
+    <string name="elevated_steps_title">Configurar la depuración inalámbrica</string>
+    <string name="elevated_steps">Los códigos de un solo uso que Android oculta como sensibles también llegan a tu PC.\n\n1. Activa las Opciones de desarrollador: en Ajustes › Acerca del teléfono, toca 7 veces Número de compilación.\n2. En Opciones de desarrollador, activa Depuración inalámbrica (con Wi-Fi), ábrela y toca Vincular dispositivo con código.\n3. Escribe el código de 6 dígitos en la notificación de NectarLink sin cerrar la pantalla del código.</string>
+    <string name="elevated_open_developer">Abrir Opciones de desarrollador</string>
+    <string name="elevated_pair_title">Vincular NectarLink mediante depuración inalámbrica</string>
+    <string name="elevated_pair_text">En Depuración inalámbrica, toca Vincular dispositivo con código y después escribe el código aquí.</string>
+    <string name="elevated_pair_action">Ingresar código</string>
+    <string name="elevated_pair_hint">Código de vinculación de 6 dígitos</string>
+    <string name="elevated_pairing">Vinculando…</string>
+    <string name="elevated_no_dialog">No aparece el código de vinculación. En Depuración inalámbrica, toca Vincular dispositivo con código y escríbelo aquí.</string>
+    <string name="elevated_wrong_code">El código no funcionó. Verifícalo y escríbelo de nuevo.</string>
+
 </resources>
