@@ -8253,7 +8253,7 @@ Qué necesita
     <message>
         <location filename="../../qml/ShelfWindow.qml" line="390"/>
         <source>Release to send to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Suelta para enviar a %1</translation>
     </message>
     <message>
         <location filename="../../qml/ShelfWindow.qml" line="393"/>
@@ -8263,7 +8263,7 @@ Qué necesita
     <message>
         <location filename="../../qml/ShelfWindow.qml" line="394"/>
         <source>Queued for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>En cola para %1</translation>
     </message>
     <message>
         <location filename="../../qml/ShelfWindow.qml" line="396"/>
@@ -8273,12 +8273,12 @@ Qué necesita
     <message>
         <location filename="../../qml/ShelfWindow.qml" line="397"/>
         <source>Drop or flick items here to send</source>
-        <translation type="unfinished"></translation>
+        <translation>Suelta o desliza elementos aquí para enviarlos</translation>
     </message>
     <message>
         <location filename="../../qml/ShelfWindow.qml" line="432"/>
         <source>Sending %1 to %2…</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviando %1 a %2…</translation>
     </message>
     <message>
         <location filename="../../qml/ShelfWindow.qml" line="433"/>
@@ -8293,22 +8293,22 @@ Qué necesita
     <message>
         <location filename="../../qml/ShelfWindow.qml" line="483"/>
         <source>Latest photo</source>
-        <translation type="unfinished"></translation>
+        <translation>Foto más reciente</translation>
     </message>
     <message>
         <location filename="../../qml/ShelfWindow.qml" line="484"/>
         <source>No recent photo</source>
-        <translation type="unfinished"></translation>
+        <translation>No hay fotos recientes</translation>
     </message>
     <message>
         <location filename="../../qml/ShelfWindow.qml" line="490"/>
         <source>Latest screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Captura más reciente</translation>
     </message>
     <message>
         <location filename="../../qml/ShelfWindow.qml" line="491"/>
         <source>No recent screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>No hay capturas recientes</translation>
     </message>
     <message>
         <location filename="../../qml/ShelfWindow.qml" line="732"/>
@@ -8323,50 +8323,50 @@ Qué necesita
     <message>
         <location filename="../../qml/ShelfWindow.qml" line="840"/>
         <source>Current clip</source>
-        <translation type="unfinished"></translation>
+        <translation>Elemento actual del portapapeles</translation>
     </message>
     <message>
         <location filename="../../qml/ShelfWindow.qml" line="857"/>
         <source>Send clip to phone</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar elemento al teléfono</translation>
     </message>
     <message>
         <location filename="../../qml/ShelfWindow.qml" line="861"/>
         <location filename="../../qml/ShelfWindow.qml" line="980"/>
         <source>the copied image</source>
-        <translation type="unfinished"></translation>
+        <translation>la imagen copiada</translation>
     </message>
     <message>
         <location filename="../../qml/ShelfWindow.qml" line="863"/>
         <location filename="../../qml/ShelfWindow.qml" line="983"/>
         <source>the copied text</source>
-        <translation type="unfinished"></translation>
+        <translation>el texto copiado</translation>
     </message>
     <message>
         <location filename="../../qml/ShelfWindow.qml" line="871"/>
         <source>Copy clip</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar elemento</translation>
     </message>
     <message>
         <location filename="../../qml/ShelfWindow.qml" line="905"/>
         <location filename="../../qml/ShelfWindow.qml" line="926"/>
         <source>Clipboard is empty</source>
-        <translation type="unfinished"></translation>
+        <translation>El portapapeles está vacío</translation>
     </message>
     <message>
         <location filename="../../qml/ShelfWindow.qml" line="925"/>
         <source>Current clip: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Elemento actual: %1</translation>
     </message>
     <message>
         <location filename="../../qml/ShelfWindow.qml" line="1042"/>
         <source>Recent received files</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivos recibidos recientes</translation>
     </message>
     <message>
         <location filename="../../qml/ShelfWindow.qml" line="1057"/>
         <source>No received files yet</source>
-        <translation type="unfinished"></translation>
+        <translation>Todavía no hay archivos recibidos</translation>
     </message>
     <message>
         <location filename="../../qml/ShelfWindow.qml" line="1241"/>
@@ -8376,7 +8376,7 @@ Qué necesita
     <message>
         <location filename="../../qml/ShelfWindow.qml" line="1252"/>
         <source>Open file</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir archivo</translation>
     </message>
     <message>
         <location filename="../../qml/ShelfWindow.qml" line="1260"/>
@@ -8386,7 +8386,7 @@ Qué necesita
     <message>
         <location filename="../../qml/ShelfWindow.qml" line="1275"/>
         <source>Flick any card up to send to phone, drag out to use, or drop files in</source>
-        <translation type="unfinished"></translation>
+        <translation>Desliza cualquier tarjeta hacia arriba para enviarla al teléfono, arrástrala hacia afuera para usarla o suelta archivos aquí</translation>
     </message>
 </context>
 <context>
@@ -8394,17 +8394,17 @@ Qué necesita
     <message>
         <location filename="../rust_strings.h" line="458"/>
         <source>%1&apos;s files aren&apos;t shared with this PC</source>
-        <translation type="unfinished"></translation>
+        <translation>Los archivos de %1 no se comparten con esta PC</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="459"/>
         <source>On the phone, allow All files access for NectarLink.</source>
-        <translation type="unfinished"></translation>
+        <translation>En el teléfono, permite el Acceso a todos los archivos para NectarLink.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="460"/>
         <source>On the phone, turn on Browse this phone&apos;s storage in File Explorer in NectarLink.</source>
-        <translation type="unfinished"></translation>
+        <translation>En el teléfono, activa Explorar el almacenamiento de este teléfono en el Explorador de archivos dentro de NectarLink.</translation>
     </message>
 </context>
 <context>
@@ -8412,12 +8412,12 @@ Qué necesita
     <message>
         <location filename="../rust_strings.h" line="461"/>
         <source>App window #%1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ventana de app #%1</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="462"/>
         <source>Clip (removed from clipboard history)</source>
-        <translation type="unfinished"></translation>
+        <translation>Elemento copiado (quitado del historial del portapapeles)</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="463"/>
@@ -8427,7 +8427,7 @@ Qué necesita
     <message>
         <location filename="../rust_strings.h" line="464"/>
         <source>Copied link to clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enlace copiado al portapapeles.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="465"/>
@@ -8442,7 +8442,7 @@ Qué necesita
     <message>
         <location filename="../rust_strings.h" line="467"/>
         <source>In progress</source>
-        <translation type="unfinished"></translation>
+        <translation>En curso</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="468"/>
@@ -8452,32 +8452,32 @@ Qué necesita
     <message>
         <location filename="../rust_strings.h" line="469"/>
         <source>Opened from %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Abierto desde %1</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="470"/>
         <source>Opened on %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Abierto en %1</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="471"/>
         <source>Phone microphone</source>
-        <translation type="unfinished"></translation>
+        <translation>Micrófono del teléfono</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="472"/>
         <source>Phone webcam</source>
-        <translation type="unfinished"></translation>
+        <translation>Cámara web del teléfono</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="473"/>
         <source>Recorded on %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Grabado en %1</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="474"/>
         <source>Saved from %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardado desde %1</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="475"/>
@@ -8492,7 +8492,7 @@ Qué necesita
     <message>
         <location filename="../rust_strings.h" line="477"/>
         <source>Sent clip to %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elemento enviado a %1.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="478"/>
@@ -8502,7 +8502,7 @@ Qué necesita
     <message>
         <location filename="../rust_strings.h" line="479"/>
         <source>Session</source>
-        <translation type="unfinished"></translation>
+        <translation>Sesión</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="480"/>
@@ -8512,27 +8512,27 @@ Qué necesita
     <message>
         <location filename="../rust_strings.h" line="481"/>
         <source>That entry couldn&apos;t be removed. Try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo quitar esa entrada. Inténtalo de nuevo.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="482"/>
         <source>That file was moved or deleted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ese archivo se movió o se eliminó.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="483"/>
         <source>That isn&apos;t a web link.</source>
-        <translation type="unfinished"></translation>
+        <translation>Eso no es un enlace web.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="484"/>
         <source>That photo was moved or deleted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esa foto se movió o se eliminó.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="485"/>
         <source>The Timeline couldn&apos;t be cleared. Try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo borrar el historial. Inténtalo de nuevo.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="486"/>
@@ -8542,17 +8542,17 @@ Qué necesita
     <message>
         <location filename="../rust_strings.h" line="487"/>
         <source>Voice recording</source>
-        <translation type="unfinished"></translation>
+        <translation>Grabación de voz</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="488"/>
         <source>With %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Con %1</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="489"/>
         <source>device</source>
-        <translation type="unfinished"></translation>
+        <translation>dispositivo</translation>
     </message>
 </context>
 <context>
