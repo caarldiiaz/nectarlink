@@ -771,4 +771,37 @@
     <string name="walkthrough_restricted_note">Esta opción aparece en el menú solo después de intentar conceder el permiso una vez. En algunos teléfonos tiene otro nombre.</string>
     <string name="walkthrough_restricted_open">Abrir información de la aplicación</string>
 
+
+    <!-- Permisos y vinculación del asistente -->
+    <string name="walkthrough_perm_battery_title">Batería sin restricciones</string>
+    <string name="walkthrough_perm_battery_does">Mantén tu teléfono disponible aunque la pantalla esté apagada.</string>
+    <string name="walkthrough_perm_battery_requires">Mantiene activa la conexión con tu PC mientras el teléfono está bloqueado.</string>
+    <string name="walkthrough_perm_calls_title">Llamadas</string>
+    <string name="walkthrough_perm_calls_does">Ve las llamadas entrantes en tu PC y contesta, rechaza o marca desde el escritorio.</string>
+    <string name="walkthrough_perm_calls_requires">Android requiere permisos de Teléfono y Registro de llamadas.</string>
+    <string name="walkthrough_perm_sms_title">Mensajes</string>
+    <string name="walkthrough_perm_sms_does">Lee y envía mensajes SMS y MMS desde tu PC con los nombres de tus contactos.</string>
+    <string name="walkthrough_perm_sms_requires">Android requiere permisos de SMS y Contactos.</string>
+    <string name="walkthrough_perm_photos_title">Fotos</string>
+    <string name="walkthrough_perm_photos_does">Explora las fotos recientes del teléfono desde tu PC y guarda los originales.</string>
+    <string name="walkthrough_perm_photos_requires">Android requiere acceso a fotos y videos.</string>
+    <string name="walkthrough_perm_storage_title">Almacenamiento en el Explorador de archivos</string>
+    <string name="walkthrough_perm_storage_does">Explora las carpetas de tu teléfono desde el Explorador de archivos de la PC.</string>
+    <string name="walkthrough_perm_storage_requires">Android requiere acceso a todos los archivos o a carpetas seleccionadas.</string>
+    <string name="walkthrough_perm_access_title">Asistencia</string>
+    <string name="walkthrough_perm_access_does">Controla desde tu PC la pantalla compartida del teléfono con mouse y teclado.</string>
+    <string name="walkthrough_perm_access_requires">Android requiere el servicio de Accesibilidad de NectarLink o Elevated.</string>
+    <string name="walkthrough_pair_title">Vincular con tu PC</string>
+    <string name="walkthrough_pair_subtitle">Abre NectarLink en tu PC. Escanea su código QR o selecciona tu PC abajo.</string>
+    <string name="walkthrough_pair_ready_title">PC vinculada</string>
+    <string name="walkthrough_pair_badge_paired">Vinculada</string>
+    <string name="walkthrough_pair_device_online">%1$s · Conectado</string>
+    <string name="walkthrough_pair_device_offline">%1$s · Sin conexión</string>
+    <string name="walkthrough_pair_scan_qr">Escanear código QR</string>
+    <string name="walkthrough_pair_hide_qr">Ocultar escáner QR</string>
+    <string name="walkthrough_pair_nearby_heading">PC cercanas</string>
+    <string name="walkthrough_pair_nearby_tap">Toca para vincular en tu red local</string>
+    <string name="walkthrough_pair_usb_title">Vinculación automática por USB</string>
+    <string name="walkthrough_pair_usb_hint">Conecta un cable USB con la depuración USB activada para vincular automáticamente.</string>
+
 </resources>
