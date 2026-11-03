@@ -4453,22 +4453,22 @@ Qué necesita
     <message>
         <location filename="../../qml/components/LockChip.qml" line="58"/>
         <source>Open NectarLink on your phone and grant this permission in Settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Abre NectarLink en tu teléfono y concede este permiso en Ajustes.</translation>
     </message>
     <message>
         <location filename="../../qml/components/LockChip.qml" line="60"/>
         <source>Open Settings › Camera &amp; Audio to set up the NectarLink virtual camera add-on.</source>
-        <translation type="unfinished"></translation>
+        <translation>Abre Ajustes › Cámara y audio para configurar el complemento de cámara virtual de NectarLink.</translation>
     </message>
     <message>
         <location filename="../../qml/components/LockChip.qml" line="62"/>
         <source>Open Settings › Connection &amp; About and turn on Connect over mobile data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Abre Ajustes › Conexión e información y activa Conectarse mediante datos móviles.</translation>
     </message>
     <message>
         <location filename="../../qml/components/LockChip.qml" line="64"/>
         <source>This feature is turned off for this phone in Settings › Devices.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta función está desactivada para este teléfono en Ajustes › Dispositivos.</translation>
     </message>
 </context>
 <context>
@@ -4477,7 +4477,7 @@ Qué necesita
         <location filename="../../qml/MainWindow.qml" line="587"/>
         <location filename="../../qml/MainWindow.qml" line="713"/>
         <source>Home</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicio</translation>
     </message>
     <message>
         <location filename="../../qml/MainWindow.qml" line="598"/>
@@ -4512,23 +4512,23 @@ Qué necesita
     <message>
         <location filename="../../qml/MainWindow.qml" line="653"/>
         <source>Guide</source>
-        <translation type="unfinished"></translation>
+        <translation>Guía</translation>
     </message>
     <message>
         <location filename="../../qml/MainWindow.qml" line="664"/>
         <location filename="../../qml/MainWindow.qml" line="721"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajustes</translation>
     </message>
     <message>
         <location filename="../../qml/MainWindow.qml" line="679"/>
         <source>Pair a new device</source>
-        <translation type="unfinished"></translation>
+        <translation>Vincular un dispositivo nuevo</translation>
     </message>
     <message>
         <location filename="../../qml/MainWindow.qml" line="704"/>
         <source>Back to Home</source>
-        <translation type="unfinished"></translation>
+        <translation>Volver a Inicio</translation>
     </message>
     <message>
         <location filename="../../qml/MainWindow.qml" line="714"/>
@@ -4544,12 +4544,12 @@ Qué necesita
     <message>
         <location filename="../../qml/MainWindow.qml" line="732"/>
         <source>Sharing screen with %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Compartiendo pantalla con %1</translation>
     </message>
     <message>
         <location filename="../../qml/MainWindow.qml" line="733"/>
         <source>Sharing screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Compartiendo pantalla</translation>
     </message>
     <message>
         <location filename="../../qml/MainWindow.qml" line="802"/>
@@ -4559,27 +4559,27 @@ Qué necesita
     <message>
         <location filename="../../qml/MainWindow.qml" line="803"/>
         <source>Stop sharing this PC&apos;s screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Dejar de compartir la pantalla de esta PC</translation>
     </message>
     <message>
         <location filename="../../qml/MainWindow.qml" line="820"/>
         <source>Commands</source>
-        <translation type="unfinished"></translation>
+        <translation>Comandos</translation>
     </message>
     <message>
         <location filename="../../qml/MainWindow.qml" line="822"/>
         <source>Command palette (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Paleta de comandos (%1)</translation>
     </message>
     <message>
         <location filename="../../qml/MainWindow.qml" line="823"/>
         <source>Command palette (Ctrl+K)</source>
-        <translation type="unfinished"></translation>
+        <translation>Paleta de comandos (Ctrl+K)</translation>
     </message>
     <message>
         <location filename="../../qml/MainWindow.qml" line="835"/>
         <source>Files, clips, links, photos, recordings and sessions</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivos, elementos copiados, enlaces, fotos, grabaciones y sesiones</translation>
     </message>
     <message>
         <location filename="../../qml/MainWindow.qml" line="847"/>
@@ -4589,7 +4589,7 @@ Qué necesita
     <message>
         <location filename="../../qml/MainWindow.qml" line="1042"/>
         <source>%1 is ringing this PC</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 está haciendo sonar esta PC</translation>
     </message>
     <message>
         <location filename="../../qml/MainWindow.qml" line="1048"/>
@@ -4599,12 +4599,12 @@ Qué necesita
     <message>
         <location filename="../../qml/MainWindow.qml" line="1074"/>
         <source>Allow %1 to control this PC?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Permitir que %1 controle esta PC?</translation>
     </message>
     <message>
         <location filename="../../qml/MainWindow.qml" line="1081"/>
         <source>%1 wants to use this PC&apos;s mouse and keyboard. You can change this in Settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 quiere usar el mouse y teclado de esta PC. Puedes cambiar esto en Ajustes.</translation>
     </message>
     <message>
         <location filename="../../qml/MainWindow.qml" line="1091"/>
@@ -4621,32 +4621,32 @@ Qué necesita
     <message>
         <location filename="../../qml/MainWindow.qml" line="1122"/>
         <source>Allow %1 to view this PC&apos;s screen?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Permitir que %1 vea la pantalla de esta PC?</translation>
     </message>
     <message>
         <location filename="../../qml/MainWindow.qml" line="1129"/>
         <source>%1 wants to view this PC&apos;s screen. Control needs Remote mouse, keyboard &amp; Deck in Settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 quiere ver la pantalla de esta PC. Para controlarla, se requiere activar Mouse, teclado y panel remoto en Ajustes.</translation>
     </message>
     <message>
         <location filename="../../qml/MainWindow.qml" line="1148"/>
         <source>Allow for this device</source>
-        <translation type="unfinished"></translation>
+        <translation>Permitir para este dispositivo</translation>
     </message>
     <message>
         <location filename="../../qml/MainWindow.qml" line="1177"/>
         <source>Photo ready on clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Foto lista en el portapapeles</translation>
     </message>
     <message>
         <location filename="../../qml/MainWindow.qml" line="1194"/>
         <source>Keep on clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Conservar en el portapapeles</translation>
     </message>
     <message>
         <location filename="../../qml/MainWindow.qml" line="1198"/>
         <source>Paste into active window</source>
-        <translation type="unfinished"></translation>
+        <translation>Pegar en la ventana activa</translation>
     </message>
 </context>
 <context>
@@ -4654,17 +4654,17 @@ Qué necesita
     <message>
         <location filename="../rust_strings.h" line="349"/>
         <source>Media is turned off for that device.</source>
-        <translation type="unfinished"></translation>
+        <translation>El contenido multimedia está desactivado para ese dispositivo.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="350"/>
         <source>That player can&apos;t do that.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ese reproductor no puede realizar esa acción.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="351"/>
         <source>That player isn&apos;t playing anymore.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ese reproductor ya no está reproduciendo.</translation>
     </message>
 </context>
 <context>
@@ -4672,22 +4672,22 @@ Qué necesita
     <message>
         <location filename="../rust_strings.h" line="352"/>
         <source>Attachment is %1 (MMS supports up to 900 KB)</source>
-        <translation type="unfinished"></translation>
+        <translation>El archivo adjunto pesa %1 (MMS admite hasta 900 KB)</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="353"/>
         <source>Group texts can&apos;t be sent from the PC yet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Todavía no se pueden enviar mensajes grupales desde la PC.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="354"/>
         <source>Only image or voice-note audio files can be attached.</source>
-        <translation type="unfinished"></translation>
+        <translation>Solo se pueden adjuntar imágenes o archivos de audio de notas de voz.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="355"/>
         <source>The text wasn&apos;t sent: this conversation isn&apos;t loaded yet. Try again in a moment.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se envió el mensaje: la conversación aún no se ha cargado. Inténtalo de nuevo en un momento.</translation>
     </message>
 </context>
 <context>
@@ -4695,22 +4695,22 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/MessagesPage.qml" line="57"/>
         <source>Attach image or voice note</source>
-        <translation type="unfinished"></translation>
+        <translation>Adjuntar imagen o nota de voz</translation>
     </message>
     <message>
         <location filename="../../qml/pages/MessagesPage.qml" line="59"/>
         <source>Media (*.png *.jpg *.jpeg *.webp *.gif *.bmp *.m4a *.mp3 *.aac *.ogg *.wav *.amr *.3gp)</source>
-        <translation type="unfinished"></translation>
+        <translation>Multimedia (*.png *.jpg *.jpeg *.webp *.gif *.bmp *.m4a *.mp3 *.aac *.ogg *.wav *.amr *.3gp)</translation>
     </message>
     <message>
         <location filename="../../qml/pages/MessagesPage.qml" line="60"/>
         <source>Images (*.png *.jpg *.jpeg *.webp *.gif *.bmp)</source>
-        <translation type="unfinished"></translation>
+        <translation>Imágenes (*.png *.jpg *.jpeg *.webp *.gif *.bmp)</translation>
     </message>
     <message>
         <location filename="../../qml/pages/MessagesPage.qml" line="61"/>
         <source>Audio (*.m4a *.mp3 *.aac *.ogg *.wav *.amr *.3gp)</source>
-        <translation type="unfinished"></translation>
+        <translation>Audio (*.m4a *.mp3 *.aac *.ogg *.wav *.amr *.3gp)</translation>
     </message>
     <message>
         <location filename="../../qml/pages/MessagesPage.qml" line="91"/>
@@ -4726,7 +4726,7 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/MessagesPage.qml" line="233"/>
         <source>Text from your PC</source>
-        <translation type="unfinished"></translation>
+        <translation>Mensaje desde tu PC</translation>
     </message>
     <message>
         <location filename="../../qml/pages/MessagesPage.qml" line="234"/>
@@ -4736,42 +4736,42 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/MessagesPage.qml" line="235"/>
         <source>Messages are off for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Los mensajes están desactivados para %1</translation>
     </message>
     <message>
         <location filename="../../qml/pages/MessagesPage.qml" line="236"/>
         <source>Allow texting on %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Permite enviar mensajes en %1</translation>
     </message>
     <message>
         <location filename="../../qml/pages/MessagesPage.qml" line="237"/>
         <source>Couldn&apos;t load messages</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudieron cargar los mensajes</translation>
     </message>
     <message>
         <location filename="../../qml/pages/MessagesPage.qml" line="245"/>
         <source>Pair your phone to read and send texts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vincula tu teléfono para leer y enviar mensajes.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/MessagesPage.qml" line="246"/>
         <source>Connect %1 to view messages.</source>
-        <translation type="unfinished"></translation>
+        <translation>Conecta %1 para ver los mensajes.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/MessagesPage.qml" line="247"/>
         <source>Enable Messages in Settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Activa Mensajes en Ajustes.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/MessagesPage.qml" line="248"/>
         <source>Grant SMS permission on %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Concede el permiso de SMS en %1.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/MessagesPage.qml" line="249"/>
         <source>Unable to load messages.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudieron cargar los mensajes.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/MessagesPage.qml" line="255"/>
@@ -6592,7 +6592,7 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="515"/>
         <source>Pair a new device</source>
-        <translation type="unfinished"></translation>
+        <translation>Vincular un dispositivo nuevo</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="535"/>
