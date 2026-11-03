@@ -728,4 +728,47 @@
     <string name="send_queue_full">La cola de envío está llena. Borra elementos o espera a que terminen los pendientes.</string>
     <string name="send_queue_dropped_unpair">Se quitaron %1$d elemento(s) pendientes para %2$s (dispositivo desvinculado).</string>
 
+
+    <!-- Asistente de configuración inicial -->
+    <string name="walkthrough_step_progress">Paso %1$d de %2$d</string>
+    <string name="walkthrough_stage_desc">Etapa de configuración del panal, paso %1$d de %2$d</string>
+    <string name="walkthrough_action_skip">Omitir configuración</string>
+    <string name="walkthrough_action_back">Atrás</string>
+    <string name="walkthrough_action_get_started">Comenzar</string>
+    <string name="walkthrough_action_continue">Continuar</string>
+    <string name="walkthrough_action_pair_later">Vincular más tarde</string>
+    <string name="walkthrough_action_done">Listo</string>
+    <string name="walkthrough_action_open_guide">Abrir guía de funciones</string>
+    <string name="walkthrough_welcome_title">Vincula tu teléfono y tu PC</string>
+    <string name="walkthrough_welcome_subtitle">Comparte con tu PC notificaciones, llamadas, mensajes, archivos, portapapeles, cámara y pantalla.</string>
+    <string name="walkthrough_welcome_card_heading">Privacidad desde el diseño</string>
+    <string name="walkthrough_welcome_tls_title">Cifrado de extremo a extremo (TLS 1.3)</string>
+    <string name="walkthrough_welcome_tls_body">Cada conexión utiliza certificados de dispositivo verificados mutuamente.</string>
+    <string name="walkthrough_welcome_lan_title">Conexión directa por Wi-Fi, Ethernet o USB</string>
+    <string name="walkthrough_welcome_lan_body">El tráfico permanece en tu red. Solo se usa un relay cuando está activada la conexión por datos móviles.</string>
+    <string name="walkthrough_welcome_local_title">Sin cuenta ni almacenamiento en la nube</string>
+    <string name="walkthrough_welcome_local_body">Las claves del dispositivo están protegidas por Windows DPAPI y Android Keystore.</string>
+    <string name="walkthrough_permissions_title">Permisos</string>
+    <string name="walkthrough_permissions_subtitle">Concede únicamente los permisos que uses. Puedes cambiar cualquiera después en Ajustes.</string>
+    <string name="walkthrough_permissions_granted_badge">%1$d de %2$d concedidos</string>
+    <string name="walkthrough_perm_counter">Permiso %1$d de %2$d</string>
+    <string name="walkthrough_perm_counter_optional">Permiso %1$d de %2$d · Opcional</string>
+    <string name="walkthrough_perm_status_granted">Concedido</string>
+    <string name="walkthrough_perm_status_not_granted">No concedido</string>
+    <string name="walkthrough_perm_action_grant">Conceder</string>
+    <string name="walkthrough_perm_action_manage">Administrar</string>
+    <string name="walkthrough_perm_action_next">Siguiente</string>
+    <string name="walkthrough_perm_dot_desc">%1$s, %2$s</string>
+    <string name="walkthrough_perm_pill_number" translatable="false">%1$d</string>
+    <string name="walkthrough_perm_notif_title">Notificaciones</string>
+    <string name="walkthrough_perm_notif_does">Consulta, descarta y responde notificaciones del teléfono y controla el contenido multimedia desde tu PC.</string>
+    <string name="walkthrough_perm_notif_requires">Android requiere acceso a las notificaciones y permiso para mostrarlas.</string>
+    <string name="walkthrough_restricted_title">Android bloqueó este ajuste</string>
+    <string name="walkthrough_restricted_body">Android restringe algunos permisos de las aplicaciones instaladas desde un archivo en lugar de una tienda. Para permitir este:</string>
+    <string name="walkthrough_restricted_step1">Toca Abrir información de la aplicación.</string>
+    <string name="walkthrough_restricted_step2">Toca ⋮ en la esquina superior derecha, luego Permitir ajustes restringidos y confirma.</string>
+    <string name="walkthrough_restricted_step3">Regresa aquí y vuelve a tocar Conceder.</string>
+    <string name="walkthrough_restricted_note">Esta opción aparece en el menú solo después de intentar conceder el permiso una vez. En algunos teléfonos tiene otro nombre.</string>
+    <string name="walkthrough_restricted_open">Abrir información de la aplicación</string>
+
 </resources>
