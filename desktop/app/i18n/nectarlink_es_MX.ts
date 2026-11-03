@@ -5423,7 +5423,7 @@ Qué necesita
     <message>
         <location filename="../../qml/components/NowPlaying.qml" line="359"/>
         <source>PC</source>
-        <translation type="unfinished"></translation>
+        <translation>PC</translation>
     </message>
     <message>
         <location filename="../../qml/components/NowPlaying.qml" line="374"/>
@@ -5433,71 +5433,71 @@ Qué necesita
     <message>
         <location filename="../../qml/components/NowPlaying.qml" line="392"/>
         <source>Play on %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Reproducir en %1</translation>
     </message>
     <message>
         <location filename="../../qml/components/NowPlaying.qml" line="404"/>
         <source>Artwork color sync is on (click to turn off)</source>
-        <translation type="unfinished"></translation>
+        <translation>La sincronización de colores con la carátula está activa (haz clic para desactivarla)</translation>
     </message>
     <message>
         <location filename="../../qml/components/NowPlaying.qml" line="405"/>
         <source>Sync app colors &amp; blur to playing artwork</source>
-        <translation type="unfinished"></translation>
+        <translation>Sincronizar los colores y el desenfoque de la app con la carátula en reproducción</translation>
     </message>
     <message>
         <location filename="../../qml/components/NowPlaying.qml" line="416"/>
         <source>Compact player</source>
-        <translation type="unfinished"></translation>
+        <translation>Reproductor compacto</translation>
     </message>
     <message>
         <location filename="../../qml/components/NowPlaying.qml" line="416"/>
         <source>More controls</source>
-        <translation type="unfinished"></translation>
+        <translation>Más controles</translation>
     </message>
     <message>
         <location filename="../../qml/components/NowPlaying.qml" line="529"/>
         <location filename="../../qml/components/NowPlaying.qml" line="694"/>
         <source>Previous</source>
-        <translation type="unfinished"></translation>
+        <translation>Anterior</translation>
     </message>
     <message>
         <location filename="../../qml/components/NowPlaying.qml" line="539"/>
         <location filename="../../qml/components/NowPlaying.qml" line="704"/>
         <source>Pause</source>
-        <translation type="unfinished"></translation>
+        <translation>Pausar</translation>
     </message>
     <message>
         <location filename="../../qml/components/NowPlaying.qml" line="539"/>
         <location filename="../../qml/components/NowPlaying.qml" line="704"/>
         <source>Play</source>
-        <translation type="unfinished"></translation>
+        <translation>Reproducir</translation>
     </message>
     <message>
         <location filename="../../qml/components/NowPlaying.qml" line="548"/>
         <location filename="../../qml/components/NowPlaying.qml" line="712"/>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>Siguiente</translation>
     </message>
     <message>
         <location filename="../../qml/components/NowPlaying.qml" line="567"/>
         <source>Playback position</source>
-        <translation type="unfinished"></translation>
+        <translation>Posición de reproducción</translation>
     </message>
     <message>
         <location filename="../../qml/components/NowPlaying.qml" line="686"/>
         <source>Rewind 10 seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>Retroceder 10 segundos</translation>
     </message>
     <message>
         <location filename="../../qml/components/NowPlaying.qml" line="721"/>
         <source>Forward 10 seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>Avanzar 10 segundos</translation>
     </message>
     <message>
         <location filename="../../qml/components/NowPlaying.qml" line="739"/>
         <source>Unmute</source>
-        <translation type="unfinished"></translation>
+        <translation>Activar sonido</translation>
     </message>
     <message>
         <location filename="../../qml/components/NowPlaying.qml" line="739"/>
@@ -5507,12 +5507,12 @@ Qué necesita
     <message>
         <location filename="../../qml/components/NowPlaying.qml" line="825"/>
         <source>Phone speaker</source>
-        <translation type="unfinished"></translation>
+        <translation>Altavoz del teléfono</translation>
     </message>
     <message>
         <location filename="../../qml/components/NowPlaying.qml" line="825"/>
         <source>PC speaker</source>
-        <translation type="unfinished"></translation>
+        <translation>Altavoz de la PC</translation>
     </message>
 </context>
 <context>
@@ -5520,17 +5520,17 @@ Qué necesita
     <message>
         <location filename="../rust_strings.h" line="389"/>
         <source>OBS isn&apos;t reachable on port %1. Turn on its WebSocket server.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede conectar con OBS en el puerto %1. Activa su servidor WebSocket.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="390"/>
         <source>OBS: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>OBS: %1</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="391"/>
         <source>The service on that port isn&apos;t OBS.</source>
-        <translation type="unfinished"></translation>
+        <translation>El servicio de ese puerto no es OBS.</translation>
     </message>
 </context>
 <context>
@@ -5538,92 +5538,92 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/PairingPanel.qml" line="79"/>
         <source>Check the code</source>
-        <translation type="unfinished"></translation>
+        <translation>Verificar el código</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PairingPanel.qml" line="80"/>
         <source>Paired</source>
-        <translation type="unfinished"></translation>
+        <translation>Vinculado</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PairingPanel.qml" line="81"/>
         <source>Pairing didn&apos;t work</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo vincular</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PairingPanel.qml" line="82"/>
         <source>Pair nearby</source>
-        <translation type="unfinished"></translation>
+        <translation>Vincular dispositivo cercano</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PairingPanel.qml" line="82"/>
         <location filename="../../qml/pages/PairingPanel.qml" line="180"/>
         <source>Scan with your phone</source>
-        <translation type="unfinished"></translation>
+        <translation>Escanea con tu teléfono</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PairingPanel.qml" line="102"/>
         <location filename="../../qml/pages/PairingPanel.qml" line="163"/>
         <source>Pairing QR code</source>
-        <translation type="unfinished"></translation>
+        <translation>Código QR de vinculación</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PairingPanel.qml" line="114"/>
         <source>Install NectarLink</source>
-        <translation type="unfinished"></translation>
+        <translation>Instala NectarLink</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PairingPanel.qml" line="114"/>
         <location filename="../../qml/pages/PairingPanel.qml" line="187"/>
         <source>Tap “Pair with PC”</source>
-        <translation type="unfinished"></translation>
+        <translation>Toca «Vincular con PC»</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PairingPanel.qml" line="114"/>
         <source>Scan this code</source>
-        <translation type="unfinished"></translation>
+        <translation>Escanea este código</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PairingPanel.qml" line="135"/>
         <location filename="../../qml/pages/PairingPanel.qml" line="209"/>
         <source>Code refreshes in %1:%2 · Works on this network</source>
-        <translation type="unfinished"></translation>
+        <translation>El código se renueva en %1:%2 · Funciona en esta red</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PairingPanel.qml" line="143"/>
         <location filename="../../qml/pages/PairingPanel.qml" line="217"/>
         <source>Pair nearby instead</source>
-        <translation type="unfinished"></translation>
+        <translation>Vincular dispositivo cercano en su lugar</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PairingPanel.qml" line="187"/>
         <source>Open NectarLink on your phone</source>
-        <translation type="unfinished"></translation>
+        <translation>Abre NectarLink en tu teléfono</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PairingPanel.qml" line="187"/>
         <source>Scan this QR code</source>
-        <translation type="unfinished"></translation>
+        <translation>Escanea este código QR</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PairingPanel.qml" line="235"/>
         <source>On your phone, open NectarLink and choose “Pair nearby”. It shows up here.</source>
-        <translation type="unfinished"></translation>
+        <translation>En tu teléfono, abre NectarLink y elige «Vincular dispositivo cercano». Aparecerá aquí.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PairingPanel.qml" line="265"/>
         <source>Pair</source>
-        <translation type="unfinished"></translation>
+        <translation>Vincular</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PairingPanel.qml" line="275"/>
         <source>Looking for devices…</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscando dispositivos…</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PairingPanel.qml" line="281"/>
         <source>Show the QR code</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar el código QR</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PairingPanel.qml" line="296"/>
@@ -5633,57 +5633,57 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/PairingPanel.qml" line="297"/>
         <source>Waiting for %1…</source>
-        <translation type="unfinished"></translation>
+        <translation>Esperando a %1…</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PairingPanel.qml" line="312"/>
         <source>Make sure %1 shows the same code. This keeps anyone else from pairing in between.</source>
-        <translation type="unfinished"></translation>
+        <translation>Asegúrate de que %1 muestre el mismo código. Así evitas que alguien más se vincule en el proceso.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PairingPanel.qml" line="313"/>
         <source>your phone</source>
-        <translation type="unfinished"></translation>
+        <translation>tu teléfono</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PairingPanel.qml" line="320"/>
         <source>They don&apos;t match</source>
-        <translation type="unfinished"></translation>
+        <translation>No coinciden</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PairingPanel.qml" line="321"/>
         <source>Codes match</source>
-        <translation type="unfinished"></translation>
+        <translation>Los códigos coinciden</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PairingPanel.qml" line="344"/>
         <source>%1 is paired with this PC.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 está vinculado con esta PC.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PairingPanel.qml" line="347"/>
         <source>Pairing was cancelled or the codes didn&apos;t match, so nothing was paired. Try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se canceló la vinculación o los códigos no coincidían; no se vinculó ningún dispositivo. Inténtalo de nuevo.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PairingPanel.qml" line="348"/>
         <source>Pairing was declined on one of the devices.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uno de los dispositivos rechazó la vinculación.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PairingPanel.qml" line="349"/>
         <source>Couldn&apos;t reach the phone. Make sure both devices are on the same network.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo contactar al teléfono. Asegúrate de que ambos dispositivos estén en la misma red.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PairingPanel.qml" line="350"/>
         <source>The code expired.</source>
-        <translation type="unfinished"></translation>
+        <translation>El código venció.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PairingPanel.qml" line="351"/>
         <source>Something went wrong. Try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Algo salió mal. Inténtalo de nuevo.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PairingPanel.qml" line="358"/>
@@ -5701,7 +5701,7 @@ Qué necesita
     <message>
         <location filename="../rust_strings.h" line="392"/>
         <source>Can&apos;t find the player&apos;s window. Play the video on this PC again, then turn on Play on phone.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se encuentra la ventana del reproductor. Reproduce el video de nuevo en esta PC y después activa Reproducir en el teléfono.</translation>
     </message>
 </context>
 <context>
@@ -5709,17 +5709,17 @@ Qué necesita
     <message>
         <location filename="../rust_strings.h" line="393"/>
         <source>Tap Start on %1 to use its microphone.</source>
-        <translation type="unfinished"></translation>
+        <translation>Toca Iniciar en %1 para usar su micrófono.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="394"/>
         <source>The microphone is turned off for this PC on %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>El micrófono está desactivado para esta PC en %1.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="395"/>
         <source>Update NectarLink on %1 to use its microphone.</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualiza NectarLink en %1 para usar su micrófono.</translation>
     </message>
 </context>
 <context>
@@ -5727,7 +5727,7 @@ Qué necesita
     <message>
         <location filename="../rust_strings.h" line="396"/>
         <source>%1 couldn&apos;t ask to share its sound. Check that NectarLink can show notifications on the phone.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 no pudo solicitar compartir su audio. Comprueba que NectarLink pueda mostrar notificaciones en el teléfono.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="397"/>
@@ -6265,7 +6265,7 @@ Qué necesita
     <message>
         <location filename="../rust_strings.h" line="443"/>
         <source>Waiting for %1…</source>
-        <translation type="unfinished"></translation>
+        <translation>Esperando a %1…</translation>
     </message>
 </context>
 <context>
@@ -8855,7 +8855,7 @@ Qué necesita
     <message>
         <location filename="../../qml/components/TransferItem.qml" line="271"/>
         <source>Pause</source>
-        <translation type="unfinished"></translation>
+        <translation>Pausar</translation>
     </message>
     <message>
         <location filename="../../qml/components/TransferItem.qml" line="277"/>
@@ -9060,7 +9060,7 @@ Qué necesita
         <location filename="../../qml/pages/WalkthroughPage.qml" line="1126"/>
         <location filename="../../qml/pages/WalkthroughPage.qml" line="1303"/>
         <source>your phone</source>
-        <translation type="unfinished"></translation>
+        <translation>tu teléfono</translation>
     </message>
     <message>
         <location filename="../../qml/pages/WalkthroughPage.qml" line="1193"/>
