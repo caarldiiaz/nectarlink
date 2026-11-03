@@ -268,4 +268,73 @@
     <string name="pc_mirror_quality_desc">Calidad de transmisión: %1$s</string>
     <string name="pc_mirror_viewport_desc">Pantalla de %1$s</string>
 
+
+    <!-- Micrófono, grabadora y Deck -->
+    <string name="action_record_pc">Grabar</string>
+    <string name="channel_recorder">Grabadora de voz</string>
+    <string name="channel_mic">Micrófono para tu PC</string>
+    <string name="channel_mic_requests">Solicitudes de micrófono</string>
+    <string name="mic_notification_title">Micrófono activo para %1$s</string>
+    <string name="mic_notification_text">Tu PC recibe el audio del micrófono de este teléfono.</string>
+    <string name="mic_request_title">%1$s quiere usar el micrófono de este teléfono</string>
+    <string name="mic_request_text">Toca para iniciar. Permanecerá activo hasta que tú o la PC lo detengan.</string>
+    <string name="mic_request_start">Iniciar</string>
+    <string name="mic_request_card_text">Permanecerá activo hasta que tú o la PC lo detengan.</string>
+    <string name="mic_pc_toggle">Usar este teléfono como micrófono</string>
+    <string name="mic_pc_toggle_hint">Activado de forma predeterminada. Esta PC puede solicitar el micrófono; solo se activa cuando tocas Iniciar.</string>
+    <string name="mic_pc_toggle_hint_auto">Activado de forma predeterminada. Esta PC puede solicitar el micrófono y se activa de inmediato.</string>
+    <string name="start_without_asking_toggle">Iniciar la cámara y el micrófono sin preguntar</string>
+    <string name="start_without_asking_hint">Cuando esta PC lo solicite, se activarán de inmediato, sin tocar el teléfono. Requiere Elevated. Si no está disponible, el teléfono preguntará como siempre.</string>
+    <string name="recorder_notification_recording">Grabando para %1$s</string>
+    <string name="recorder_notification_paused">Grabación en pausa (%1$s)</string>
+    <string name="recorder_permission_title">Permitir acceso al micrófono</string>
+    <string name="recorder_permission_text">NectarLink usa el micrófono únicamente mientras grabas una nota de voz para enviarla a %1$s.</string>
+    <string name="recorder_allow_mic">Permitir micrófono</string>
+    <string name="recorder_offline_hint">Las grabaciones se guardan en este teléfono y se envían automáticamente cuando %1$s se conecta.</string>
+    <string name="recorder_status_ready">Listo para grabar para %1$s</string>
+    <string name="recorder_status_recording">Grabando para %1$s</string>
+    <string name="recorder_status_paused">En pausa</string>
+    <string name="recorder_start">Iniciar grabación</string>
+    <string name="recorder_pause">Pausar</string>
+    <string name="recorder_resume">Reanudar</string>
+    <string name="recorder_marker_hint">Nombre de la marca (opcional)</string>
+    <string name="recorder_add_marker">Agregar marca</string>
+    <string name="recorder_marker_default">Marca %1$d</string>
+    <string name="recorder_saved_title">Grabaciones</string>
+    <string name="recorder_send_now">Enviar</string>
+    <string name="recorder_send_again">Volver a enviar</string>
+    <string name="recorder_delete">Eliminar</string>
+    <string name="recorder_denied_text">Las grabaciones de voz están desactivadas para este teléfono en %1$s.</string>
+    <plurals name="recorder_markers_count">
+        <item quantity="one">%1$d marca</item>
+        <item quantity="other">%1$d marcas</item>
+    </plurals>
+    <string name="action_deck_pc">Deck</string>
+    <string name="action_desk_pc">Reloj de escritorio</string>
+    <string name="deck_fullscreen">Pantalla completa</string>
+    <string name="deck_exit_fullscreen">Salir de pantalla completa</string>
+    <string name="deck_playing">Reproduciendo</string>
+    <string name="deck_paused">En pausa</string>
+    <string name="deck_muted">Silenciado</string>
+    <string name="deck_live">En vivo</string>
+    <string name="deck_volume_percent">%1$d%%</string>
+    <string name="deck_empty_page">Aún no hay controles en esta página. Agrega controles en NectarLink en %1$s.</string>
+    <string name="deck_commands_denied_title">Permitir comandos en %1$s</string>
+    <string name="deck_commands_denied_text">Para ejecutar comandos de shell desde este teléfono, activa «Ejecutar comandos de Deck» para este teléfono en NectarLink › Ajustes › Dispositivos en %1$s.</string>
+    <string name="deck_hint">Personaliza los controles en Deck en %1$s</string>
+    <string name="pc_audio_volume">Volumen</string>
+    <string name="pc_audio_mute">Silenciar</string>
+    <string name="pc_audio_unmute">Activar sonido</string>
+    <string name="pc_audio_muted">Silenciado</string>
+    <string name="pc_audio_output">Salida: %1$s</string>
+    <string name="pc_audio_outputs_title">Salidas de audio en %1$s</string>
+    <string name="pc_audio_default_badge">Predeterminada</string>
+    <string name="pc_audio_outputs_hint">Dispositivos de reproducción activos en %1$s.</string>
+    <string name="pc_audio_use_phone_speaker">Usar el teléfono como bocina</string>
+    <string name="pc_audio_use_phone_speaker_sub">Reproducir el audio de la PC en este teléfono</string>
+    <string name="pc_audio_use_phone_speaker_on">Transmitiendo el audio de la PC a este teléfono</string>
+    <string name="pc_audio_use_phone_mic">Usar el teléfono como micrófono</string>
+    <string name="pc_audio_use_phone_mic_sub">Enviar el audio del micrófono de este teléfono a la PC</string>
+    <string name="pc_audio_use_phone_mic_on">La PC recibe el audio del micrófono de este teléfono</string>
+
 </resources>
