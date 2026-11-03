@@ -337,4 +337,59 @@
     <string name="pc_audio_use_phone_mic_sub">Enviar el audio del micrófono de este teléfono a la PC</string>
     <string name="pc_audio_use_phone_mic_on">La PC recibe el audio del micrófono de este teléfono</string>
 
+
+    <!-- Almacenamiento, cámara web y línea de tiempo -->
+    <string name="storage_all_files_title">Acceso a todos los archivos</string>
+    <string name="storage_all_files_on">Activado. Las PC que autorices pueden explorar, abrir y copiar los archivos de este teléfono desde el Explorador de archivos.</string>
+    <string name="storage_all_files_off">Explora las carpetas de este teléfono desde el Explorador de archivos de tu PC. Requiere acceso a todos los archivos o seleccionar carpetas específicas abajo.</string>
+    <string name="storage_saf_title">Solo carpetas seleccionadas</string>
+    <string name="storage_saf_hint">Comparte únicamente las carpetas que elijas.</string>
+    <string name="storage_add_folder">Agregar carpeta</string>
+    <string name="storage_remove_folder">Quitar</string>
+    <string name="storage_pc_toggle">Explorar el almacenamiento del teléfono desde el Explorador de archivos</string>
+    <string name="storage_pc_toggle_hint">Desactivado de forma predeterminada. Permite que esta PC liste, abra, suba, renombre y elimine tus archivos compartidos.</string>
+    <string name="storage_request_title">%1$s quiere explorar el almacenamiento de este teléfono</string>
+    <string name="storage_request_text">¿Permitir que %1$s explore el almacenamiento compartido (o las carpetas seleccionadas) desde el Explorador de archivos?</string>
+    <string name="action_not_now">Ahora no</string>
+    <string name="action_webcam_pc">Cámara web</string>
+    <string name="channel_webcam">Cámara web</string>
+    <string name="channel_webcam_requests">Solicitudes de cámara web</string>
+    <string name="webcam_notification_streaming">Transmitiendo video a %1$s</string>
+    <string name="webcam_notification_detail">%1$d × %2$d · cámara %3$s</string>
+    <string name="webcam_request_title">%1$s quiere usar tu cámara</string>
+    <string name="webcam_request_text">Toca para abrir los controles de la cámara web e iniciar la transmisión.</string>
+    <string name="webcam_permission_title">Permitir acceso a la cámara</string>
+    <string name="webcam_permission_text">NectarLink usa la cámara únicamente mientras transmites video a %1$s como cámara web.</string>
+    <string name="webcam_allow_camera">Permitir cámara</string>
+    <string name="webcam_status_connecting">Conectando la cámara con %1$s…</string>
+    <string name="webcam_status_ready">Listo para transmitir a %1$s</string>
+    <string name="webcam_start">Iniciar cámara web</string>
+    <string name="webcam_stop">Detener cámara web</string>
+    <string name="webcam_camera_back">Trasera</string>
+    <string name="webcam_camera_front">Frontal</string>
+    <string name="webcam_switch_to_front">Cambiar a la cámara frontal</string>
+    <string name="webcam_switch_to_back">Cambiar a la cámara trasera</string>
+    <string name="webcam_turn_torch_on">Encender la linterna</string>
+    <string name="webcam_turn_torch_off">Apagar la linterna</string>
+    <string name="webcam_switch_camera">Cambiar cámara</string>
+    <string name="webcam_zoom_label">Zoom %1$.1f×</string>
+    <string name="webcam_resolution_label">Resolución</string>
+    <string name="webcam_denied_text">La cámara web está desactivada para este teléfono en %1$s.</string>
+    <string name="webcam_offline_hint">Conecta %1$s a la misma red para comenzar a transmitir desde la cámara.</string>
+    <string name="timeline_title">Línea de tiempo</string>
+    <string name="timeline_subtitle">Archivos, elementos copiados, enlaces, fotos y sesiones compartidos con tus PC.</string>
+    <string name="timeline_search">Buscar en la línea de tiempo</string>
+    <string name="timeline_empty">Aún no hay nada en tu línea de tiempo.</string>
+    <string name="timeline_no_match">No hay resultados para «%1$s».</string>
+    <string name="timeline_filter_all">Todo</string>
+    <string name="timeline_filter_files">Archivos</string>
+    <string name="timeline_filter_clips">Portapapeles</string>
+    <string name="timeline_filter_links">Enlaces</string>
+    <string name="timeline_filter_photos">Fotos</string>
+    <string name="timeline_filter_recordings">Grabaciones</string>
+    <string name="timeline_filter_sessions">Sesiones</string>
+    <string name="timeline_action_open">Abrir</string>
+    <string name="timeline_action_folder">Mostrar en carpeta</string>
+    <string name="timeline_action_copy">Copiar</string>
+
 </resources>
