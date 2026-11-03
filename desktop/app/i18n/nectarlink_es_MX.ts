@@ -3521,7 +3521,7 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1306"/>
         <source>Open an app</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir una app</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1313"/>
@@ -3532,7 +3532,7 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1319"/>
         <source>Send a folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar una carpeta</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1326"/>
@@ -3543,42 +3543,42 @@ Qué necesita
         <location filename="../../qml/pages/HomePage.qml" line="1332"/>
         <location filename="../../qml/pages/HomePage.qml" line="2878"/>
         <source>Clipboard history</source>
-        <translation type="unfinished"></translation>
+        <translation>Historial del portapapeles</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1342"/>
         <source>Stop ringing</source>
-        <translation type="unfinished"></translation>
+        <translation>Detener tono</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1342"/>
         <source>Find phone</source>
-        <translation type="unfinished"></translation>
+        <translation>Encontrar teléfono</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1356"/>
         <source>Send to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar a %1</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1362"/>
         <source>Hand off &amp; open on %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar y abrir en %1</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1378"/>
         <source>Send a folder to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar una carpeta a %1</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1408"/>
         <source>Waiting to send · %1</source>
-        <translation type="unfinished"></translation>
+        <translation>En espera de envío · %1</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1409"/>
         <source>Waiting to send</source>
-        <translation type="unfinished"></translation>
+        <translation>En espera de envío</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1420"/>
@@ -3588,12 +3588,12 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1427"/>
         <source>Cancel all</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar todo</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1529"/>
         <source>Sending to %1 · %2%</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviando a %1 · %2%</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1531"/>
@@ -3603,32 +3603,32 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1536"/>
         <source>Failed · %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Error · %1</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1537"/>
         <source>Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Falló</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1541"/>
         <source>Expired</source>
-        <translation type="unfinished"></translation>
+        <translation>Vencido</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1544"/>
         <source>Waiting for %1 · %2</source>
-        <translation type="unfinished"></translation>
+        <translation>En espera de %1 · %2</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1545"/>
         <source>Waiting for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>En espera de %1</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1557"/>
         <source>Retry</source>
-        <translation type="unfinished"></translation>
+        <translation>Reintentar</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1562"/>
@@ -3647,7 +3647,7 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1653"/>
         <source>Notifications · %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Notificaciones · %1</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1653"/>
@@ -3657,83 +3657,83 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1661"/>
         <source>History</source>
-        <translation type="unfinished"></translation>
+        <translation>Historial</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1662"/>
         <source>Notification history (last 24 hours)</source>
-        <translation type="unfinished"></translation>
+        <translation>Historial de notificaciones (últimas 24 horas)</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1675"/>
         <source>Clear all</source>
-        <translation type="unfinished"></translation>
+        <translation>Borrar todo</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1721"/>
         <source>Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>Deshacer</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1778"/>
         <source>No notifications</source>
-        <translation type="unfinished"></translation>
+        <translation>No hay notificaciones</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1780"/>
         <source>Notifications unavailable</source>
-        <translation type="unfinished"></translation>
+        <translation>Notificaciones no disponibles</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1781"/>
         <source>Connect %1 to view notifications</source>
-        <translation type="unfinished"></translation>
+        <translation>Conecta %1 para ver las notificaciones</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1807"/>
         <source>Desktop notifications are off. Turn them on in your system&apos;s notification settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Las notificaciones de escritorio están desactivadas. Actívalas en los ajustes de notificaciones del sistema.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1808"/>
         <source>Windows notifications are off.</source>
-        <translation type="unfinished"></translation>
+        <translation>Las notificaciones de Windows están desactivadas.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1815"/>
         <source>Turn on</source>
-        <translation type="unfinished"></translation>
+        <translation>Activar</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1875"/>
         <source>Webcam</source>
-        <translation type="unfinished"></translation>
+        <translation>Cámara web</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1886"/>
         <source>Streaming from %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Transmitiendo desde %1</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1897"/>
         <location filename="../../qml/pages/HomePage.qml" line="2358"/>
         <source>Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>Detener</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1919"/>
         <source>Back</source>
-        <translation type="unfinished"></translation>
+        <translation>Trasera</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1920"/>
         <source>Front</source>
-        <translation type="unfinished"></translation>
+        <translation>Frontal</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1938"/>
         <source>Mirror</source>
-        <translation type="unfinished"></translation>
+        <translation>Duplicar</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1999"/>
@@ -3743,52 +3743,52 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2008"/>
         <source>Less</source>
-        <translation type="unfinished"></translation>
+        <translation>Menos</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2008"/>
         <source>Sound &amp; display</source>
-        <translation type="unfinished"></translation>
+        <translation>Sonido y pantalla</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2023"/>
         <source>DND</source>
-        <translation type="unfinished"></translation>
+        <translation>No molestar</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2024"/>
         <source>Do Not Disturb</source>
-        <translation type="unfinished"></translation>
+        <translation>No molestar</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2034"/>
         <source>Torch</source>
-        <translation type="unfinished"></translation>
+        <translation>Linterna</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2035"/>
         <source>Flashlight</source>
-        <translation type="unfinished"></translation>
+        <translation>Linterna</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2059"/>
         <source>BT</source>
-        <translation type="unfinished"></translation>
+        <translation>BT</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2060"/>
         <source>Bluetooth</source>
-        <translation type="unfinished"></translation>
+        <translation>Bluetooth</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2069"/>
         <source>Hotspot</source>
-        <translation type="unfinished"></translation>
+        <translation>Punto de acceso</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2070"/>
         <source>Instant Hotspot</source>
-        <translation type="unfinished"></translation>
+        <translation>Punto de acceso instantáneo</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2084"/>
@@ -3798,32 +3798,32 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2085"/>
         <source>Streaming PC audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Transmitiendo audio de la PC</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2096"/>
         <source>Play on phone</source>
-        <translation type="unfinished"></translation>
+        <translation>Reproducir en el teléfono</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2099"/>
         <source>Watching on %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Reproduciendo en %1</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2100"/>
         <source>Tap the notification on %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Toca la notificación en %1</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2102"/>
         <source>Play a video on this PC first</source>
-        <translation type="unfinished"></translation>
+        <translation>Primero reproduce un video en esta PC</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2112"/>
         <source>Phone sound on this PC</source>
-        <translation type="unfinished"></translation>
+        <translation>Audio del teléfono en esta PC</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2114"/>
@@ -4554,7 +4554,7 @@ Qué necesita
     <message>
         <location filename="../../qml/MainWindow.qml" line="802"/>
         <source>Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>Detener</translation>
     </message>
     <message>
         <location filename="../../qml/MainWindow.qml" line="803"/>
@@ -4594,7 +4594,7 @@ Qué necesita
     <message>
         <location filename="../../qml/MainWindow.qml" line="1048"/>
         <source>Stop ringing</source>
-        <translation type="unfinished"></translation>
+        <translation>Detener tono</translation>
     </message>
     <message>
         <location filename="../../qml/MainWindow.qml" line="1074"/>
@@ -5800,7 +5800,7 @@ Qué necesita
     <message>
         <location filename="../rust_strings.h" line="410"/>
         <source>Waiting for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>En espera de %1</translation>
     </message>
 </context>
 <context>
@@ -6522,7 +6522,7 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="176"/>
         <source>Webcam</source>
-        <translation type="unfinished"></translation>
+        <translation>Cámara web</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="177"/>
@@ -6998,7 +6998,7 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1717"/>
         <source>Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>Detener</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1726"/>
@@ -7058,12 +7058,12 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1825"/>
         <source>Back</source>
-        <translation type="unfinished"></translation>
+        <translation>Trasera</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1826"/>
         <source>Front</source>
-        <translation type="unfinished"></translation>
+        <translation>Frontal</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1856"/>
@@ -7413,7 +7413,7 @@ Qué necesita
         <location filename="../../qml/pages/SettingsPage.qml" line="2886"/>
         <location filename="../../qml/pages/SettingsPage.qml" line="2910"/>
         <source>Clipboard history</source>
-        <translation type="unfinished"></translation>
+        <translation>Historial del portapapeles</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2890"/>
@@ -8288,7 +8288,7 @@ Qué necesita
     <message>
         <location filename="../../qml/ShelfWindow.qml" line="443"/>
         <source>Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>Deshacer</translation>
     </message>
     <message>
         <location filename="../../qml/ShelfWindow.qml" line="483"/>
@@ -8632,7 +8632,7 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/TimelinePage.qml" line="213"/>
         <source>Clear all</source>
-        <translation type="unfinished"></translation>
+        <translation>Borrar todo</translation>
     </message>
     <message>
         <location filename="../../qml/pages/TimelinePage.qml" line="267"/>
@@ -8770,7 +8770,7 @@ Qué necesita
     <message>
         <location filename="../../qml/components/TransferItem.qml" line="60"/>
         <source>Waiting for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>En espera de %1</translation>
     </message>
     <message>
         <location filename="../../qml/components/TransferItem.qml" line="64"/>
@@ -9184,7 +9184,7 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/WalkthroughPage.qml" line="1740"/>
         <source>Back</source>
-        <translation type="unfinished"></translation>
+        <translation>Trasera</translation>
     </message>
     <message>
         <location filename="../../qml/pages/WalkthroughPage.qml" line="1752"/>
