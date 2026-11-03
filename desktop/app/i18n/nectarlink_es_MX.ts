@@ -1623,47 +1623,47 @@
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="109"/>
         <source>Run shell command</source>
-        <translation type="unfinished"></translation>
+        <translation>Ejecutar comando de shell</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="146"/>
         <source>Choose an application or shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Elige una aplicación o un acceso directo</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="148"/>
         <source>Applications and launchers (*.desktop *.AppImage *)</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicaciones e iniciadores (*.desktop *.AppImage *)</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="148"/>
         <source>All files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Todos los archivos (*)</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="149"/>
         <source>Applications and shortcuts (*.exe *.lnk)</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicaciones y accesos directos (*.exe *.lnk)</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="154"/>
         <source>Launch app</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciar app</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="191"/>
         <source>Control Deck</source>
-        <translation type="unfinished"></translation>
+        <translation>Panel de controles</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="197"/>
         <source>Drag to reorder · click to edit.</source>
-        <translation type="unfinished"></translation>
+        <translation>Arrastra para reordenar · haz clic para editar.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="208"/>
         <source>Reset defaults</source>
-        <translation type="unfinished"></translation>
+        <translation>Restablecer valores predeterminados</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="215"/>
@@ -1671,217 +1671,217 @@
         <location filename="../../qml/pages/DeckPage.qml" line="582"/>
         <location filename="../../qml/pages/DeckPage.qml" line="650"/>
         <source>Add tile</source>
-        <translation type="unfinished"></translation>
+        <translation>Agregar mosaico</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="241"/>
         <source>Speaker muted (%1%)</source>
-        <translation type="unfinished"></translation>
+        <translation>Altavoz silenciado (%1%)</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="242"/>
         <source>Speaker %1%</source>
-        <translation type="unfinished"></translation>
+        <translation>Altavoz %1%</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="257"/>
         <source>Mic muted</source>
-        <translation type="unfinished"></translation>
+        <translation>Micrófono silenciado</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="258"/>
         <source>Mic live</source>
-        <translation type="unfinished"></translation>
+        <translation>Micrófono activo</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="259"/>
         <source>No mic</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin micrófono</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="274"/>
         <source>Media playing</source>
-        <translation type="unfinished"></translation>
+        <translation>Multimedia en reproducción</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="274"/>
         <source>Media paused</source>
-        <translation type="unfinished"></translation>
+        <translation>Multimedia en pausa</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="309"/>
         <location filename="../../qml/pages/DeckPage.qml" line="1003"/>
         <source>New page</source>
-        <translation type="unfinished"></translation>
+        <translation>Página nueva</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="312"/>
         <source>Page %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Página %1</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="327"/>
         <location filename="../../qml/pages/DeckPage.qml" line="1003"/>
         <source>Rename page</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambiar nombre de página</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="339"/>
         <source>Delete page</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar página</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="450"/>
         <source>Test %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Probar %1</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="650"/>
         <source>Edit tile</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar mosaico</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="658"/>
         <source>Phones see only each tile&apos;s label and icon. Paths and commands stay on this PC.</source>
-        <translation type="unfinished"></translation>
+        <translation>Los teléfonos solo ven la etiqueta y el ícono de cada mosaico. Las rutas y los comandos permanecen en esta PC.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="703"/>
         <source>Action</source>
-        <translation type="unfinished"></translation>
+        <translation>Acción</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="739"/>
         <source>Ctrl</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="745"/>
         <source>Alt</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="751"/>
         <source>Shift</source>
-        <translation type="unfinished"></translation>
+        <translation>Mayús</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="757"/>
         <source>Win</source>
-        <translation type="unfinished"></translation>
+        <translation>Win</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="757"/>
         <source>Super</source>
-        <translation type="unfinished"></translation>
+        <translation>Super</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="765"/>
         <source>Key (e.g. c, v, z, f5, tab, enter, space, escape, up, down):</source>
-        <translation type="unfinished"></translation>
+        <translation>Tecla (p. ej., c, v, z, f5, tab, enter, espacio, escape, arriba, abajo):</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="766"/>
         <source>Website address (https://…):</source>
-        <translation type="unfinished"></translation>
+        <translation>Dirección del sitio web (https://…):</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="767"/>
         <source>Text snippet to type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Fragmento de texto que se escribirá:</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="768"/>
         <source>Application or launcher path (/usr/bin/…, .desktop, or .AppImage):</source>
-        <translation type="unfinished"></translation>
+        <translation>Ruta de aplicación o iniciador (/usr/bin/…, .desktop o .AppImage):</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="768"/>
         <source>Application or shortcut path (.exe or .lnk):</source>
-        <translation type="unfinished"></translation>
+        <translation>Ruta de aplicación o acceso directo (.exe o .lnk):</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="769"/>
         <source>Shell command to run on this PC:</source>
-        <translation type="unfinished"></translation>
+        <translation>Comando de shell que se ejecutará en esta PC:</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="799"/>
         <source>Action parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetro de acción</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="809"/>
         <source>Browse…</source>
-        <translation type="unfinished"></translation>
+        <translation>Examinar…</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="820"/>
         <source>Requires &quot;Allow running Deck commands&quot; to be turned on for the phone in Settings → Devices.</source>
-        <translation type="unfinished"></translation>
+        <translation>Requiere activar «Permitir ejecutar comandos del panel» para el teléfono en Ajustes → Dispositivos.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="828"/>
         <source>Label</source>
-        <translation type="unfinished"></translation>
+        <translation>Etiqueta</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="854"/>
         <source>Tile label</source>
-        <translation type="unfinished"></translation>
+        <translation>Etiqueta del mosaico</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="863"/>
         <source>Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Ícono</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="926"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="936"/>
         <source>Test</source>
-        <translation type="unfinished"></translation>
+        <translation>Probar</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="948"/>
         <location filename="../../qml/pages/DeckPage.qml" line="1036"/>
         <location filename="../../qml/pages/DeckPage.qml" line="1064"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="953"/>
         <location filename="../../qml/pages/DeckPage.qml" line="1039"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="1027"/>
         <source>Page name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre de la página</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="1039"/>
         <source>Create</source>
-        <translation type="unfinished"></translation>
+        <translation>Crear</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="1053"/>
         <source>Reset Deck to defaults?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Restablecer el panel de controles?</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="1059"/>
         <source>This replaces your custom pages and tiles with the default 11-tile Deck.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esto reemplazará tus páginas y mosaicos personalizados por el panel predeterminado de 11 mosaicos.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/DeckPage.qml" line="1067"/>
         <source>Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>Restablecer</translation>
     </message>
 </context>
 <context>
@@ -1889,42 +1889,42 @@
     <message>
         <location filename="../rust_strings.h" line="187"/>
         <source>%1 Open NectarLink on the phone and keep both on the same network. If the phone asks to run in the background, allow it.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 Abre NectarLink en el teléfono y mantén ambos dispositivos en la misma red. Si el teléfono solicita ejecutarse en segundo plano, permite la opción.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="188"/>
         <source>%1 announces itself at %2, which isn&apos;t in a private range such as 192.168.x.x. NectarLink connects on such a network once both apps are up to date. Until then, turn on Connect over mobile data on both, or connect with a USB cable.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 anuncia su dirección como %2, que no pertenece a un rango privado como 192.168.x.x. NectarLink podrá conectarse en esa red cuando ambas apps estén actualizadas. Mientras tanto, activa Conectarse mediante datos móviles en ambos dispositivos o usa un cable USB.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="189"/>
         <source>%1 days ago</source>
-        <translation type="unfinished"></translation>
+        <translation>Hace %1 días</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="190"/>
         <source>%1 hours ago</source>
-        <translation type="unfinished"></translation>
+        <translation>Hace %1 horas</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="191"/>
         <source>%1 is connected</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 está conectado</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="192"/>
         <source>%1 is on this Wi-Fi at an address outside the usual home ranges</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 está conectado a este Wi-Fi con una dirección fuera de los rangos domésticos habituales</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="193"/>
         <source>%1 is on this Wi-Fi, but the router blocks direct connections (AP isolation)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 está conectado a este Wi-Fi, pero el router bloquea las conexiones directas (aislamiento de clientes)</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="194"/>
         <source>%1 is set as a public network</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 está configurada como red pública</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="195"/>
@@ -3561,7 +3561,7 @@ What it needs
         <location filename="../../qml/pages/HomePage.qml" line="2246"/>
         <location filename="../../qml/pages/HomePage.qml" line="2721"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1597"/>
@@ -3929,7 +3929,7 @@ What it needs
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2726"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2747"/>
@@ -4038,7 +4038,7 @@ What it needs
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="3080"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="3368"/>
@@ -5618,7 +5618,7 @@ What it needs
     <message>
         <location filename="../../qml/pages/PairingPanel.qml" line="368"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
 </context>
 <context>
@@ -5911,7 +5911,7 @@ What it needs
     <message>
         <location filename="../../qml/pages/PhotosPage.qml" line="435"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PhotosPage.qml" line="445"/>
@@ -5988,7 +5988,7 @@ What it needs
         <location filename="../../qml/pages/PhotosPage.qml" line="556"/>
         <location filename="../../qml/pages/PhotosPage.qml" line="842"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PhotosPage.qml" line="567"/>
@@ -7130,7 +7130,7 @@ What it needs
         <location filename="../../qml/pages/SettingsPage.qml" line="2555"/>
         <location filename="../../qml/pages/SettingsPage.qml" line="2630"/>
         <source>Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>Restablecer</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2209"/>
@@ -7322,7 +7322,7 @@ What it needs
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2828"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2839"/>
@@ -7760,7 +7760,7 @@ What it needs
         <location filename="../../qml/pages/SettingsPage.qml" line="3755"/>
         <location filename="../../qml/pages/SettingsPage.qml" line="3791"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2325"/>
@@ -8572,7 +8572,7 @@ What it needs
     <message>
         <location filename="../../qml/pages/TimelinePage.qml" line="355"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="../../qml/pages/TimelinePage.qml" line="362"/>
@@ -8790,7 +8790,7 @@ What it needs
     <message>
         <location filename="../../qml/components/TransferItem.qml" line="283"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
 </context>
 <context>
