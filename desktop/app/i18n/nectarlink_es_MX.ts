@@ -3828,57 +3828,57 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2114"/>
         <source>Playing %1&apos;s sound</source>
-        <translation type="unfinished"></translation>
+        <translation>Reproduciendo el audio de %1</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2115"/>
         <source>Allow it on %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Permitirlo en %1</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2145"/>
         <source>Turning off Wi‑Fi may disconnect %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Desactivar Wi-Fi puede desconectar %1.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2160"/>
         <source>Turn off</source>
-        <translation type="unfinished"></translation>
+        <translation>Desactivar</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2185"/>
         <source>Ring</source>
-        <translation type="unfinished"></translation>
+        <translation>Hacer sonar</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2186"/>
         <source>Vibrate</source>
-        <translation type="unfinished"></translation>
+        <translation>Vibrar</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2187"/>
         <source>Silent</source>
-        <translation type="unfinished"></translation>
+        <translation>Silencio</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2204"/>
         <source>Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2215"/>
         <source>Brightness</source>
-        <translation type="unfinished"></translation>
+        <translation>Brillo</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2236"/>
         <source>Continuity Camera</source>
-        <translation type="unfinished"></translation>
+        <translation>Cámara de continuidad</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2247"/>
         <source>Scan document</source>
-        <translation type="unfinished"></translation>
+        <translation>Escanear documento</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2260"/>
@@ -3888,7 +3888,7 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2263"/>
         <source>Streaming</source>
-        <translation type="unfinished"></translation>
+        <translation>Transmitiendo</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2334"/>
@@ -3899,23 +3899,23 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2345"/>
         <source>Sent: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviado: %1</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2346"/>
         <source>Listening for keys</source>
-        <translation type="unfinished"></translation>
+        <translation>Esperando pulsaciones</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2347"/>
         <location filename="../../qml/pages/HomePage.qml" line="3195"/>
         <source>When connected</source>
-        <translation type="unfinished"></translation>
+        <translation>Al conectarse</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2358"/>
         <source>Start</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciar</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2410"/>
@@ -3926,72 +3926,72 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2470"/>
         <source>Type here: keys go to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Escribe aquí: las teclas se envían a %1</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2471"/>
         <source>Click to focus keyboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Haz clic para activar el teclado</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2478"/>
         <source>Ctrl+V pastes · Esc stops</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+V pega · Esc detiene</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2487"/>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Pegar</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2532"/>
         <source>View all</source>
-        <translation type="unfinished"></translation>
+        <translation>Ver todo</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2542"/>
         <source>No recent activity</source>
-        <translation type="unfinished"></translation>
+        <translation>No hay actividad reciente</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2631"/>
         <source>%1 notifications</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 notificaciones</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2634"/>
         <source>Show</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2635"/>
         <source>No pop-ups</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin ventanas emergentes</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2636"/>
         <source>Hide</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocultar</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2650"/>
         <source>Hidden on this PC.</source>
-        <translation type="unfinished"></translation>
+        <translation>Oculto en esta PC.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2652"/>
         <source>Shown in feed without pop-ups.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se muestra en el feed sin ventanas emergentes.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2654"/>
         <source>Shown in feed and as desktop pop-ups.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se muestra en el feed y como ventana emergente del escritorio.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2655"/>
         <source>Shown in feed and as Windows pop-ups.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se muestra en el feed y como notificación emergente de Windows.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2659"/>
@@ -4009,51 +4009,51 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2747"/>
         <source>Notification history</source>
-        <translation type="unfinished"></translation>
+        <translation>Historial de notificaciones</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2755"/>
         <location filename="../../qml/pages/HomePage.qml" line="2886"/>
         <source>Clear history</source>
-        <translation type="unfinished"></translation>
+        <translation>Borrar historial</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2765"/>
         <source>Dismissed notifications from the last 24 hours.</source>
-        <translation type="unfinished"></translation>
+        <translation>Notificaciones descartadas durante las últimas 24 horas.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2766"/>
         <source>No recent notifications.</source>
-        <translation type="unfinished"></translation>
+        <translation>No hay notificaciones recientes.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2808"/>
         <location filename="../../qml/pages/HomePage.qml" line="2814"/>
         <source>Search notification history</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscar en el historial de notificaciones</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2851"/>
         <location filename="../../qml/pages/HomePage.qml" line="3094"/>
         <source>Nothing matches “%1”.</source>
-        <translation type="unfinished"></translation>
+        <translation>No hay coincidencias con “%1”.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2896"/>
         <source>Last 50 shared clips.</source>
-        <translation type="unfinished"></translation>
+        <translation>Últimos 50 elementos compartidos del portapapeles.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2897"/>
         <source>No shared clips yet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Todavía no hay elementos compartidos.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2937"/>
         <location filename="../../qml/pages/HomePage.qml" line="2943"/>
         <source>Search clipboard history</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscar en el historial del portapapeles</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2963"/>
@@ -4063,52 +4063,52 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2963"/>
         <source>From phone</source>
-        <translation type="unfinished"></translation>
+        <translation>Del teléfono</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2964"/>
         <source>Sent to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviado a %1</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2964"/>
         <source>From this PC</source>
-        <translation type="unfinished"></translation>
+        <translation>De esta PC</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2970"/>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagen</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="3008"/>
         <source>Pinned</source>
-        <translation type="unfinished"></translation>
+        <translation>Fijado</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="3052"/>
         <source>Open on phone</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir en el teléfono</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="3061"/>
         <source>Send to phone</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar al teléfono</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="3069"/>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="3075"/>
         <source>Unpin</source>
-        <translation type="unfinished"></translation>
+        <translation>Desfijar</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="3075"/>
         <source>Pin</source>
-        <translation type="unfinished"></translation>
+        <translation>Fijar</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="3080"/>
@@ -4119,17 +4119,17 @@ Qué necesita
         <location filename="../../qml/pages/HomePage.qml" line="3368"/>
         <location filename="../../qml/pages/HomePage.qml" line="3379"/>
         <source>%1%</source>
-        <translation type="unfinished"></translation>
+        <translation>%1%</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="3520"/>
         <source>LocalSend nearby · %1</source>
-        <translation type="unfinished"></translation>
+        <translation>LocalSend cercano · %1</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="3521"/>
         <source>LocalSend nearby</source>
-        <translation type="unfinished"></translation>
+        <translation>LocalSend cercano</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="3530"/>
@@ -4345,7 +4345,7 @@ Qué necesita
     <message>
         <location filename="../rust_strings.h" line="345"/>
         <source>Sent to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviado a %1</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="346"/>
@@ -5212,7 +5212,7 @@ Qué necesita
     <message>
         <location filename="../../qml/MirrorWindow.qml" line="534"/>
         <source>Hide</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocultar</translation>
     </message>
     <message>
         <location filename="../../qml/MirrorWindow.qml" line="572"/>
@@ -6006,7 +6006,7 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/PhotosPage.qml" line="455"/>
         <source>Scan document</source>
-        <translation type="unfinished"></translation>
+        <translation>Escanear documento</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PhotosPage.qml" line="480"/>
@@ -6047,7 +6047,7 @@ Qué necesita
         <location filename="../../qml/pages/PhotosPage.qml" line="531"/>
         <location filename="../../qml/pages/PhotosPage.qml" line="820"/>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PhotosPage.qml" line="542"/>
@@ -6255,7 +6255,7 @@ Qué necesita
     <message>
         <location filename="../rust_strings.h" line="441"/>
         <source>Sent to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviado a %1</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="442"/>
@@ -6993,7 +6993,7 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1717"/>
         <source>Start</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciar</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1717"/>
@@ -7010,7 +7010,7 @@ Qué necesita
         <location filename="../../qml/pages/SettingsPage.qml" line="1727"/>
         <location filename="../../qml/pages/SettingsPage.qml" line="1735"/>
         <source>%1%</source>
-        <translation type="unfinished"></translation>
+        <translation>%1%</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1746"/>
@@ -7136,17 +7136,17 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2066"/>
         <source>Show</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2067"/>
         <source>No pop-ups</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin ventanas emergentes</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2068"/>
         <source>Hide</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocultar</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2109"/>
@@ -7322,7 +7322,7 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2621"/>
         <source>Scan document</source>
-        <translation type="unfinished"></translation>
+        <translation>Escanear documento</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2622"/>
@@ -7445,7 +7445,7 @@ Qué necesita
         <location filename="../../qml/pages/SettingsPage.qml" line="2943"/>
         <location filename="../../qml/pages/SettingsPage.qml" line="2965"/>
         <source>Notification history</source>
-        <translation type="unfinished"></translation>
+        <translation>Historial de notificaciones</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2947"/>
@@ -8258,7 +8258,7 @@ Qué necesita
     <message>
         <location filename="../../qml/ShelfWindow.qml" line="393"/>
         <source>Sent to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviado a %1</translation>
     </message>
     <message>
         <location filename="../../qml/ShelfWindow.qml" line="394"/>
@@ -8313,7 +8313,7 @@ Qué necesita
     <message>
         <location filename="../../qml/ShelfWindow.qml" line="732"/>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar</translation>
     </message>
     <message>
         <location filename="../../qml/ShelfWindow.qml" line="744"/>
@@ -8371,7 +8371,7 @@ Qué necesita
     <message>
         <location filename="../../qml/ShelfWindow.qml" line="1241"/>
         <source>Send to phone</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar al teléfono</translation>
     </message>
     <message>
         <location filename="../../qml/ShelfWindow.qml" line="1252"/>
@@ -8497,7 +8497,7 @@ Qué necesita
     <message>
         <location filename="../rust_strings.h" line="478"/>
         <source>Sent to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviado a %1</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="479"/>
@@ -8662,7 +8662,7 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/TimelinePage.qml" line="400"/>
         <source>No recent activity</source>
-        <translation type="unfinished"></translation>
+        <translation>No hay actividad reciente</translation>
     </message>
     <message>
         <location filename="../../qml/pages/TimelinePage.qml" line="409"/>
@@ -8687,7 +8687,7 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/TimelinePage.qml" line="581"/>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar</translation>
     </message>
     <message>
         <location filename="../../qml/pages/TimelinePage.qml" line="590"/>
@@ -8830,7 +8830,7 @@ Qué necesita
     <message>
         <location filename="../../qml/components/TransferItem.qml" line="127"/>
         <source>%1%</source>
-        <translation type="unfinished"></translation>
+        <translation>%1%</translation>
     </message>
     <message>
         <location filename="../../qml/components/TransferItem.qml" line="245"/>
