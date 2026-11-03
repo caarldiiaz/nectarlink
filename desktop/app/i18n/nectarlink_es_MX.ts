@@ -8570,12 +8570,12 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/TimelinePage.qml" line="32"/>
         <source>Clips</source>
-        <translation type="unfinished"></translation>
+        <translation>Elementos copiados</translation>
     </message>
     <message>
         <location filename="../../qml/pages/TimelinePage.qml" line="33"/>
         <source>Links</source>
-        <translation type="unfinished"></translation>
+        <translation>Enlaces</translation>
     </message>
     <message>
         <location filename="../../qml/pages/TimelinePage.qml" line="34"/>
@@ -8585,24 +8585,24 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/TimelinePage.qml" line="35"/>
         <source>Recordings</source>
-        <translation type="unfinished"></translation>
+        <translation>Grabaciones</translation>
     </message>
     <message>
         <location filename="../../qml/pages/TimelinePage.qml" line="36"/>
         <source>Sessions</source>
-        <translation type="unfinished"></translation>
+        <translation>Sesiones</translation>
     </message>
     <message>
         <location filename="../../qml/pages/TimelinePage.qml" line="41"/>
         <location filename="../../qml/pages/TimelinePage.qml" line="657"/>
         <location filename="../../qml/pages/TimelinePage.qml" line="686"/>
         <source>All devices</source>
-        <translation type="unfinished"></translation>
+        <translation>Todos los dispositivos</translation>
     </message>
     <message>
         <location filename="../../qml/pages/TimelinePage.qml" line="44"/>
         <source>A removed device</source>
-        <translation type="unfinished"></translation>
+        <translation>Dispositivo eliminado</translation>
     </message>
     <message>
         <location filename="../../qml/pages/TimelinePage.qml" line="87"/>
@@ -8617,12 +8617,12 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/TimelinePage.qml" line="171"/>
         <source>Search timeline</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscar en el historial</translation>
     </message>
     <message>
         <location filename="../../qml/pages/TimelinePage.qml" line="184"/>
         <source>Search timeline…</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscar en el historial…</translation>
     </message>
     <message>
         <location filename="../../qml/pages/TimelinePage.qml" line="194"/>
@@ -8637,12 +8637,12 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/TimelinePage.qml" line="267"/>
         <source>Device filter: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtro de dispositivo: %1</translation>
     </message>
     <message>
         <location filename="../../qml/pages/TimelinePage.qml" line="345"/>
         <source>Clear timeline history? Saved files on disk are kept.</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Borrar el historial? Los archivos guardados en disco se conservarán.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/TimelinePage.qml" line="355"/>
@@ -8652,12 +8652,12 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/TimelinePage.qml" line="362"/>
         <source>Clear timeline</source>
-        <translation type="unfinished"></translation>
+        <translation>Borrar historial</translation>
     </message>
     <message>
         <location filename="../../qml/pages/TimelinePage.qml" line="399"/>
         <source>No matching items</source>
-        <translation type="unfinished"></translation>
+        <translation>No hay elementos coincidentes</translation>
     </message>
     <message>
         <location filename="../../qml/pages/TimelinePage.qml" line="400"/>
@@ -8667,12 +8667,12 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/TimelinePage.qml" line="409"/>
         <source>Clear the search or filter.</source>
-        <translation type="unfinished"></translation>
+        <translation>Borra la búsqueda o el filtro.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/TimelinePage.qml" line="410"/>
         <source>Shared files, clips, links, and photos appear here.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aquí aparecen los archivos, elementos copiados, enlaces y fotos compartidos.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/TimelinePage.qml" line="563"/>
@@ -8692,17 +8692,17 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/TimelinePage.qml" line="590"/>
         <source>Send again</source>
-        <translation type="unfinished"></translation>
+        <translation>Volver a enviar</translation>
     </message>
     <message>
         <location filename="../../qml/pages/TimelinePage.qml" line="597"/>
         <source>Remove from timeline</source>
-        <translation type="unfinished"></translation>
+        <translation>Quitar del historial</translation>
     </message>
     <message>
         <location filename="../../qml/pages/TimelinePage.qml" line="612"/>
         <source>Load more</source>
-        <translation type="unfinished"></translation>
+        <translation>Cargar más</translation>
     </message>
 </context>
 <context>
@@ -8735,27 +8735,27 @@ Qué necesita
     <message>
         <location filename="../../qml/components/TransferItem.qml" line="46"/>
         <source>A few seconds left</source>
-        <translation type="unfinished"></translation>
+        <translation>Quedan unos segundos</translation>
     </message>
     <message>
         <location filename="../../qml/components/TransferItem.qml" line="47"/>
         <source>%1 s left</source>
-        <translation type="unfinished"></translation>
+        <translation>Quedan %1 s</translation>
     </message>
     <message>
         <location filename="../../qml/components/TransferItem.qml" line="48"/>
         <source>%1 min left</source>
-        <translation type="unfinished"></translation>
+        <translation>Queda %1 min</translation>
     </message>
     <message>
         <location filename="../../qml/components/TransferItem.qml" line="49"/>
         <source>%1 h %2 min left</source>
-        <translation type="unfinished"></translation>
+        <translation>Quedan %1 h %2 min</translation>
     </message>
     <message>
         <location filename="../../qml/components/TransferItem.qml" line="55"/>
         <source>%1 wants to send this · %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 quiere enviar esto · %2</translation>
     </message>
     <message>
         <location filename="../../qml/components/TransferItem.qml" line="56"/>
@@ -8765,7 +8765,7 @@ Qué necesita
     <message>
         <location filename="../../qml/components/TransferItem.qml" line="59"/>
         <source>Paused; continues when %1 is back</source>
-        <translation type="unfinished"></translation>
+        <translation>En pausa; continuará cuando %1 vuelva</translation>
     </message>
     <message>
         <location filename="../../qml/components/TransferItem.qml" line="60"/>
@@ -8775,57 +8775,57 @@ Qué necesita
     <message>
         <location filename="../../qml/components/TransferItem.qml" line="64"/>
         <source>%1 of %2 · %3/s</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 de %2 · %3/s</translation>
     </message>
     <message>
         <location filename="../../qml/components/TransferItem.qml" line="65"/>
         <source>%1 of %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 de %2</translation>
     </message>
     <message>
         <location filename="../../qml/components/TransferItem.qml" line="69"/>
         <source>Paused · %1 of %2</source>
-        <translation type="unfinished"></translation>
+        <translation>En pausa · %1 de %2</translation>
     </message>
     <message>
         <location filename="../../qml/components/TransferItem.qml" line="71"/>
         <source>From %1 · %2</source>
-        <translation type="unfinished"></translation>
+        <translation>De %1 · %2</translation>
     </message>
     <message>
         <location filename="../../qml/components/TransferItem.qml" line="72"/>
         <source>Sent to %1 · %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviado a %1 · %2</translation>
     </message>
     <message>
         <location filename="../../qml/components/TransferItem.qml" line="74"/>
         <source>Cancelled</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelado</translation>
     </message>
     <message>
         <location filename="../../qml/components/TransferItem.qml" line="77"/>
         <source>%1 doesn&apos;t accept files from this PC</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 no acepta archivos de esta PC</translation>
     </message>
     <message>
         <location filename="../../qml/components/TransferItem.qml" line="78"/>
         <source>Couldn&apos;t reach %1</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo contactar a %1</translation>
     </message>
     <message>
         <location filename="../../qml/components/TransferItem.qml" line="79"/>
         <source>Not enough space on %1</source>
-        <translation type="unfinished"></translation>
+        <translation>No hay suficiente espacio en %1</translation>
     </message>
     <message>
         <location filename="../../qml/components/TransferItem.qml" line="80"/>
         <source>Integrity check failed · partial file kept to resume</source>
-        <translation type="unfinished"></translation>
+        <translation>Falló la verificación de integridad · se conservó el archivo parcial para reanudar</translation>
     </message>
     <message>
         <location filename="../../qml/components/TransferItem.qml" line="81"/>
         <source>Didn&apos;t go through</source>
-        <translation type="unfinished"></translation>
+        <translation>No se completó</translation>
     </message>
     <message>
         <location filename="../../qml/components/TransferItem.qml" line="127"/>
@@ -8835,12 +8835,12 @@ Qué necesita
     <message>
         <location filename="../../qml/components/TransferItem.qml" line="245"/>
         <source>Accept</source>
-        <translation type="unfinished"></translation>
+        <translation>Aceptar</translation>
     </message>
     <message>
         <location filename="../../qml/components/TransferItem.qml" line="252"/>
         <source>Decline</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechazar</translation>
     </message>
     <message>
         <location filename="../../qml/components/TransferItem.qml" line="259"/>
