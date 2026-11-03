@@ -4139,22 +4139,22 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="3541"/>
         <source>Listening for LocalSend devices on your Wi‑Fi network.</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscando dispositivos LocalSend en tu red Wi-Fi.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="3542"/>
         <source>LocalSend port 53317 is busy on this PC (another LocalSend app may be running).</source>
-        <translation type="unfinished"></translation>
+        <translation>El puerto 53317 de LocalSend está ocupado en esta PC (quizá haya otra app LocalSend en ejecución).</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="3581"/>
         <source>Nearby device</source>
-        <translation type="unfinished"></translation>
+        <translation>Dispositivo cercano</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="3637"/>
         <source>Image preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Vista previa de imagen</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="3644"/>
@@ -4164,27 +4164,27 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="3672"/>
         <source>Open externally</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir externamente</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1120"/>
         <source>Set nickname</source>
-        <translation type="unfinished"></translation>
+        <translation>Establecer apodo</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1120"/>
         <source>Change nickname</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambiar apodo</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2688"/>
         <source>Phone nickname</source>
-        <translation type="unfinished"></translation>
+        <translation>Apodo del teléfono</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2696"/>
         <source>Set a custom name for this phone on your PC. Leave blank to use &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Asigna un nombre personalizado a este teléfono en tu PC. Déjalo en blanco para usar «%1».</translation>
     </message>
 </context>
 <context>
@@ -4192,17 +4192,17 @@ Qué necesita
     <message>
         <location filename="../rust_strings.h" line="334"/>
         <source>%1&apos;s hotspot didn&apos;t show up. Check that it&apos;s on, then pick %2 in Windows&apos; Wi-Fi list.</source>
-        <translation type="unfinished"></translation>
+        <translation>No apareció el punto de acceso de %1. Comprueba que esté activo y selecciona %2 en la lista de Wi-Fi de Windows.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="335"/>
         <source>Connected to %1&apos;s hotspot.</source>
-        <translation type="unfinished"></translation>
+        <translation>Conectado al punto de acceso de %1.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="336"/>
         <source>Couldn&apos;t join %1&apos;s hotspot. Pick %2 in Windows&apos; Wi-Fi list.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo conectar al punto de acceso de %1. Selecciona %2 en la lista de Wi-Fi de Windows.</translation>
     </message>
 </context>
 <context>
@@ -4215,49 +4215,49 @@ Qué necesita
     <message>
         <location filename="../../qml/IslandWindow.qml" line="223"/>
         <source>Phone call</source>
-        <translation type="unfinished"></translation>
+        <translation>Llamada telefónica</translation>
     </message>
     <message>
         <location filename="../../qml/IslandWindow.qml" line="226"/>
         <source>Transfer complete</source>
-        <translation type="unfinished"></translation>
+        <translation>Transferencia completada</translation>
     </message>
     <message>
         <location filename="../../qml/IslandWindow.qml" line="229"/>
         <source>Transferring %1 file(s)…</source>
-        <translation type="unfinished"></translation>
+        <translation>Transfiriendo %1 archivo(s)…</translation>
     </message>
     <message>
         <location filename="../../qml/IslandWindow.qml" line="232"/>
         <source>Now playing</source>
-        <translation type="unfinished"></translation>
+        <translation>En reproducción</translation>
     </message>
     <message>
         <location filename="../../qml/IslandWindow.qml" line="234"/>
         <source>%1 phone notification(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 notificación(es) del teléfono</translation>
     </message>
     <message>
         <location filename="../../qml/IslandWindow.qml" line="236"/>
         <location filename="../../qml/IslandWindow.qml" line="255"/>
         <location filename="../../qml/IslandWindow.qml" line="264"/>
         <source>%1 waiting</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 en espera</translation>
     </message>
     <message>
         <location filename="../../qml/IslandWindow.qml" line="238"/>
         <source>Nectar Island · %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nectar Island · %1</translation>
     </message>
     <message>
         <location filename="../../qml/IslandWindow.qml" line="239"/>
         <source>Nectar Island · Ready</source>
-        <translation type="unfinished"></translation>
+        <translation>Nectar Island · Lista</translation>
     </message>
     <message>
         <location filename="../../qml/IslandWindow.qml" line="244"/>
         <source>Incoming call</source>
-        <translation type="unfinished"></translation>
+        <translation>Llamada entrante</translation>
     </message>
     <message>
         <location filename="../../qml/IslandWindow.qml" line="245"/>
@@ -4267,37 +4267,37 @@ Qué necesita
     <message>
         <location filename="../../qml/IslandWindow.qml" line="246"/>
         <source>Call in progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Llamada en curso</translation>
     </message>
     <message>
         <location filename="../../qml/IslandWindow.qml" line="259"/>
         <source>This PC</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta PC</translation>
     </message>
     <message>
         <location filename="../../qml/IslandWindow.qml" line="259"/>
         <source>Phone</source>
-        <translation type="unfinished"></translation>
+        <translation>Teléfono</translation>
     </message>
     <message>
         <location filename="../../qml/IslandWindow.qml" line="268"/>
         <source>Click to view in NectarLink</source>
-        <translation type="unfinished"></translation>
+        <translation>Haz clic para ver en NectarLink</translation>
     </message>
     <message>
         <location filename="../../qml/IslandWindow.qml" line="271"/>
         <source>Will send when %1 is back</source>
-        <translation type="unfinished"></translation>
+        <translation>Se enviará cuando %1 vuelva a estar conectado</translation>
     </message>
     <message>
         <location filename="../../qml/IslandWindow.qml" line="272"/>
         <source>Will send when connected</source>
-        <translation type="unfinished"></translation>
+        <translation>Se enviará al conectarse</translation>
     </message>
     <message>
         <location filename="../../qml/IslandWindow.qml" line="274"/>
         <source>Live calls, transfers &amp; media</source>
-        <translation type="unfinished"></translation>
+        <translation>Llamadas, transferencias y multimedia en vivo</translation>
     </message>
 </context>
 <context>
@@ -4305,42 +4305,42 @@ Qué necesita
     <message>
         <location filename="../rust_strings.h" line="337"/>
         <source>%1: tap the notification on your phone to continue watching.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: toca la notificación en tu teléfono para seguir viendo.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="338"/>
         <source>%1: tap the notification on your phone to open in Maps.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: toca la notificación en tu teléfono para abrir en Mapas.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="339"/>
         <source>Copy a link or address first</source>
-        <translation type="unfinished"></translation>
+        <translation>Primero copia un enlace o una dirección</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="340"/>
         <source>Copy a web link (https://…), geo: URI, or street address, then choose this again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Copia un enlace web (https://…), una URI geo: o una dirección y vuelve a elegir esta opción.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="341"/>
         <source>Copy a web link, video URL, or street address, then choose this again to open it on your phone.</source>
-        <translation type="unfinished"></translation>
+        <translation>Copia un enlace web, una URL de video o una dirección y vuelve a elegir esta opción para abrirlo en tu teléfono.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="342"/>
         <source>Couldn&apos;t send it</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo enviar</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="343"/>
         <source>No phone to open it on</source>
-        <translation type="unfinished"></translation>
+        <translation>No hay un teléfono donde abrirlo</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="344"/>
         <source>Pair a phone first, or enable opening links on your phone.</source>
-        <translation type="unfinished"></translation>
+        <translation>Primero vincula un teléfono o activa la opción de abrir enlaces en tu teléfono.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="345"/>
@@ -4350,17 +4350,17 @@ Qué necesita
     <message>
         <location filename="../rust_strings.h" line="346"/>
         <source>Tap the notification on your phone to open it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Toca la notificación en tu teléfono para abrirlo.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="347"/>
         <source>That&apos;s not a link or address</source>
-        <translation type="unfinished"></translation>
+        <translation>Eso no es un enlace ni una dirección</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="348"/>
         <source>Update NectarLink on %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualiza NectarLink en %1.</translation>
     </message>
 </context>
 <context>
@@ -4368,87 +4368,87 @@ Qué necesita
     <message>
         <location filename="../../qml/components/LockChip.qml" line="15"/>
         <source>Elevated</source>
-        <translation type="unfinished"></translation>
+        <translation>Avanzado</translation>
     </message>
     <message>
         <location filename="../../qml/components/LockChip.qml" line="15"/>
         <source>Assist</source>
-        <translation type="unfinished"></translation>
+        <translation>Asistencia</translation>
     </message>
     <message>
         <location filename="../../qml/components/LockChip.qml" line="17"/>
         <source>Notification access</source>
-        <translation type="unfinished"></translation>
+        <translation>Acceso a notificaciones</translation>
     </message>
     <message>
         <location filename="../../qml/components/LockChip.qml" line="18"/>
         <source>DND access</source>
-        <translation type="unfinished"></translation>
+        <translation>Acceso a No molestar</translation>
     </message>
     <message>
         <location filename="../../qml/components/LockChip.qml" line="19"/>
         <source>System settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajustes del sistema</translation>
     </message>
     <message>
         <location filename="../../qml/components/LockChip.qml" line="20"/>
         <source>Permission needed</source>
-        <translation type="unfinished"></translation>
+        <translation>Se requiere permiso</translation>
     </message>
     <message>
         <location filename="../../qml/components/LockChip.qml" line="21"/>
         <source>Add-on</source>
-        <translation type="unfinished"></translation>
+        <translation>Complemento</translation>
     </message>
     <message>
         <location filename="../../qml/components/LockChip.qml" line="22"/>
         <source>Connect over mobile data</source>
-        <translation type="unfinished"></translation>
+        <translation>Conectarse mediante datos móviles</translation>
     </message>
     <message>
         <location filename="../../qml/components/LockChip.qml" line="23"/>
         <source>Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Desactivado</translation>
     </message>
     <message>
         <location filename="../../qml/components/LockChip.qml" line="24"/>
         <source>Update app</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizar app</translation>
     </message>
     <message>
         <location filename="../../qml/components/LockChip.qml" line="25"/>
         <source>Unavailable</source>
-        <translation type="unfinished"></translation>
+        <translation>No disponible</translation>
     </message>
     <message>
         <location filename="../../qml/components/LockChip.qml" line="46"/>
         <source>On your phone, open NectarLink › Settings › Control from your PC and turn on the Accessibility service.</source>
-        <translation type="unfinished"></translation>
+        <translation>En tu teléfono, abre NectarLink › Ajustes › Control desde tu PC y activa el servicio de Accesibilidad.</translation>
     </message>
     <message>
         <location filename="../../qml/components/LockChip.qml" line="48"/>
         <source>Needs Elevated: set up Wireless debugging in NectarLink › Settings › Control from your PC, or connect the phone over USB with USB debugging allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Requiere el modo Avanzado: configura Depuración inalámbrica en NectarLink › Ajustes › Control desde tu PC, o conecta el teléfono por USB con Depuración USB autorizada.</translation>
     </message>
     <message>
         <location filename="../../qml/components/LockChip.qml" line="50"/>
         <source>On your phone, set NectarLink as the default SMS/Caller ID app when prompted.</source>
-        <translation type="unfinished"></translation>
+        <translation>En tu teléfono, establece NectarLink como app predeterminada de SMS/identificación de llamadas cuando se te solicite.</translation>
     </message>
     <message>
         <location filename="../../qml/components/LockChip.qml" line="53"/>
         <source>On your phone, open NectarLink and allow Notification access.</source>
-        <translation type="unfinished"></translation>
+        <translation>En tu teléfono, abre NectarLink y permite el Acceso a notificaciones.</translation>
     </message>
     <message>
         <location filename="../../qml/components/LockChip.qml" line="55"/>
         <source>On your phone, open NectarLink and allow Do Not Disturb access.</source>
-        <translation type="unfinished"></translation>
+        <translation>En tu teléfono, abre NectarLink y permite el acceso a No molestar.</translation>
     </message>
     <message>
         <location filename="../../qml/components/LockChip.qml" line="57"/>
         <source>On your phone, open NectarLink and allow Modify system settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>En tu teléfono, abre NectarLink y permite Modificar ajustes del sistema.</translation>
     </message>
     <message>
         <location filename="../../qml/components/LockChip.qml" line="58"/>
@@ -4995,7 +4995,7 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/MessagesPage.qml" line="1457"/>
         <source>Open externally</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir externamente</translation>
     </message>
     <message>
         <location filename="../../qml/pages/MessagesPage.qml" line="1461"/>
@@ -5412,13 +5412,13 @@ Qué necesita
     <message>
         <location filename="../../qml/components/NowPlaying.qml" line="297"/>
         <source>This PC</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta PC</translation>
     </message>
     <message>
         <location filename="../../qml/components/NowPlaying.qml" line="297"/>
         <location filename="../../qml/components/NowPlaying.qml" line="330"/>
         <source>Phone</source>
-        <translation type="unfinished"></translation>
+        <translation>Teléfono</translation>
     </message>
     <message>
         <location filename="../../qml/components/NowPlaying.qml" line="359"/>
@@ -5428,7 +5428,7 @@ Qué necesita
     <message>
         <location filename="../../qml/components/NowPlaying.qml" line="374"/>
         <source>Now playing</source>
-        <translation type="unfinished"></translation>
+        <translation>En reproducción</translation>
     </message>
     <message>
         <location filename="../../qml/components/NowPlaying.qml" line="392"/>
@@ -5765,7 +5765,7 @@ Qué necesita
     <message>
         <location filename="../rust_strings.h" line="403"/>
         <source>Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Desactivado</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="404"/>
@@ -7048,7 +7048,7 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1787"/>
         <source>Phone</source>
-        <translation type="unfinished"></translation>
+        <translation>Teléfono</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1822"/>
@@ -7600,7 +7600,7 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3180"/>
         <source>Connect over mobile data</source>
-        <translation type="unfinished"></translation>
+        <translation>Conectarse mediante datos móviles</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3181"/>
@@ -8760,7 +8760,7 @@ Qué necesita
     <message>
         <location filename="../../qml/components/TransferItem.qml" line="56"/>
         <source>Nearby device</source>
-        <translation type="unfinished"></translation>
+        <translation>Dispositivo cercano</translation>
     </message>
     <message>
         <location filename="../../qml/components/TransferItem.qml" line="59"/>
@@ -8893,7 +8893,7 @@ Qué necesita
     <message>
         <location filename="../rust_strings.h" line="494"/>
         <source>Nearby device</source>
-        <translation type="unfinished"></translation>
+        <translation>Dispositivo cercano</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="495"/>
@@ -9102,7 +9102,7 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/WalkthroughPage.qml" line="1342"/>
         <source>Now playing</source>
-        <translation type="unfinished"></translation>
+        <translation>En reproducción</translation>
     </message>
     <message>
         <location filename="../../qml/pages/WalkthroughPage.qml" line="1343"/>
