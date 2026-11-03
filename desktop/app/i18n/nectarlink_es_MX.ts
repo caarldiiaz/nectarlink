@@ -7004,7 +7004,7 @@ Qué necesita
         <location filename="../../qml/pages/SettingsPage.qml" line="1726"/>
         <location filename="../../qml/pages/SettingsPage.qml" line="1734"/>
         <source>Microphone volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen del micrófono</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1727"/>
@@ -7015,17 +7015,17 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1746"/>
         <source>Virtual camera add-on</source>
-        <translation type="unfinished"></translation>
+        <translation>Complemento de cámara virtual</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1748"/>
         <source>Registered for Zoom, Teams &amp; Meet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Registrada para Zoom, Teams y Meet.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1749"/>
         <source>One-time setup (admin required) for Zoom, Teams &amp; Meet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuración única (requiere administrador) para Zoom, Teams y Meet.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1768"/>
@@ -7038,12 +7038,12 @@ Qué necesita
         <location filename="../../qml/pages/SettingsPage.qml" line="2354"/>
         <location filename="../../qml/pages/SettingsPage.qml" line="2724"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Quitar</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1776"/>
         <source>Set up</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurar</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1787"/>
@@ -7053,7 +7053,7 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1822"/>
         <source>Camera</source>
-        <translation type="unfinished"></translation>
+        <translation>Cámara</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1825"/>
@@ -7069,69 +7069,69 @@ Qué necesita
         <location filename="../../qml/pages/SettingsPage.qml" line="1856"/>
         <location filename="../../qml/pages/SettingsPage.qml" line="1858"/>
         <source>Mirror image</source>
-        <translation type="unfinished"></translation>
+        <translation>Reflejar imagen</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1869"/>
         <source>Resolution</source>
-        <translation type="unfinished"></translation>
+        <translation>Resolución</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1901"/>
         <source>Preview · %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Vista previa · %1</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1902"/>
         <source>Pair a phone to use its camera as a webcam</source>
-        <translation type="unfinished"></translation>
+        <translation>Vincula un teléfono para usar su cámara como cámara web</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1913"/>
         <source>Stop webcam</source>
-        <translation type="unfinished"></translation>
+        <translation>Detener cámara web</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1914"/>
         <source>Start webcam</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciar cámara web</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1970"/>
         <location filename="../../qml/pages/SettingsPage.qml" line="1973"/>
         <source>Follow phone Do not disturb</source>
-        <translation type="unfinished"></translation>
+        <translation>Seguir el modo No molestar del teléfono</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1971"/>
         <source>Mute pop-ups while phone is on DND.</source>
-        <translation type="unfinished"></translation>
+        <translation>Silenciar ventanas emergentes cuando el teléfono esté en No molestar.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2002"/>
         <location filename="../../qml/pages/SettingsPage.qml" line="2005"/>
         <source>Forward PC notifications</source>
-        <translation type="unfinished"></translation>
+        <translation>Reenviar notificaciones de la PC</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2003"/>
         <source>Send PC alerts to phone while away.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar alertas de la PC al teléfono cuando estés fuera.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2017"/>
         <source>Quiet hours</source>
-        <translation type="unfinished"></translation>
+        <translation>Horas de silencio</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2018"/>
         <source>Configure automatic DND schedule in Windows.</source>
-        <translation type="unfinished"></translation>
+        <translation>Configura el horario automático de No molestar en Windows.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2022"/>
         <source>Set a schedule</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurar horario</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2066"/>
@@ -7152,51 +7152,51 @@ Qué necesita
         <location filename="../../qml/pages/SettingsPage.qml" line="2109"/>
         <location filename="../../qml/pages/SettingsPage.qml" line="2112"/>
         <source>File Explorer Send to</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar a desde el Explorador de archivos</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2109"/>
         <location filename="../../qml/pages/SettingsPage.qml" line="2112"/>
         <source>File manager Send to</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar a desde el administrador de archivos</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2110"/>
         <source>Send files from right-click menu.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar archivos desde el menú del clic derecho.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2141"/>
         <location filename="../../qml/pages/SettingsPage.qml" line="2144"/>
         <source>Your PC in your pocket</source>
-        <translation type="unfinished"></translation>
+        <translation>Tu PC en el bolsillo</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2142"/>
         <source>Share Downloads, Documents, Desktop &amp; Pictures.</source>
-        <translation type="unfinished"></translation>
+        <translation>Compartir Descargas, Documentos, Escritorio e Imágenes.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2155"/>
         <location filename="../../qml/pages/SettingsPage.qml" line="2158"/>
         <source>LocalSend on local network</source>
-        <translation type="unfinished"></translation>
+        <translation>LocalSend en la red local</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2156"/>
         <source>Share with nearby LocalSend devices without pairing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Compartir con dispositivos LocalSend cercanos sin vincularlos.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2168"/>
         <location filename="../../qml/pages/SettingsPage.qml" line="2171"/>
         <source>Open files shared from the phone</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir archivos compartidos desde el teléfono</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2169"/>
         <source>Opens a shared photo or document as soon as it arrives.</source>
-        <translation type="unfinished"></translation>
+        <translation>Abre una foto o documento compartido en cuanto llega.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2202"/>
@@ -7211,53 +7211,53 @@ Qué necesita
         <location filename="../../qml/pages/SettingsPage.qml" line="2209"/>
         <location filename="../../qml/pages/SettingsPage.qml" line="2265"/>
         <source>Choose folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Elegir carpeta</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2225"/>
         <source>Photo backup</source>
-        <translation type="unfinished"></translation>
+        <translation>Respaldo de fotos</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2226"/>
         <source>Copies new photos from every album into a folder on this PC, by year and month. Nothing is deleted, here or on the phone. Needs only the phone&apos;s photos permission.</source>
-        <translation type="unfinished"></translation>
+        <translation>Copia las fotos nuevas de todos los álbumes a una carpeta de esta PC, organizadas por año y mes. No se elimina nada, ni aquí ni en el teléfono. Solo requiere el permiso de fotos del teléfono.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2241"/>
         <source>Back up photos from %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Respaldar fotos de %1</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2251"/>
         <source>Backup folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Carpeta de respaldo</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2277"/>
         <location filename="../../qml/pages/SettingsPage.qml" line="2292"/>
         <source>Include videos</source>
-        <translation type="unfinished"></translation>
+        <translation>Incluir videos</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2278"/>
         <source>Videos can be large. Copied one at a time, so a lost connection costs at most one file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Los videos pueden ser grandes. Se copian de uno en uno, así que una conexión perdida afecta como máximo a un archivo.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2286"/>
         <source>Back up now</source>
-        <translation type="unfinished"></translation>
+        <translation>Respaldar ahora</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2310"/>
         <source>Synced folders</source>
-        <translation type="unfinished"></translation>
+        <translation>Carpetas sincronizadas</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2311"/>
         <source>One-way or two-way folder sync between phone and PC.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sincronización de carpetas unidireccional o bidireccional entre el teléfono y la PC.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2318"/>
@@ -7267,12 +7267,12 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2346"/>
         <source>Two-way sync · conflict copies kept</source>
-        <translation type="unfinished"></translation>
+        <translation>Sincronización bidireccional · se conservan copias de conflictos</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2346"/>
         <source>One-way · phone to PC</source>
-        <translation type="unfinished"></translation>
+        <translation>Unidireccional · del teléfono a la PC</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2400"/>
@@ -7282,27 +7282,27 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2401"/>
         <source>Open from any app.</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir desde cualquier app.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2446"/>
         <source>Command palette shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Atajo de la paleta de comandos</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2475"/>
         <source>File shelf</source>
-        <translation type="unfinished"></translation>
+        <translation>Panel de archivos</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2476"/>
         <source>Toggle screen-edge shelf.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar u ocultar el panel lateral.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2521"/>
         <source>Shelf shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Atajo del panel</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2546"/>
@@ -7312,12 +7312,12 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2547"/>
         <source>Capture &amp; paste photo.</source>
-        <translation type="unfinished"></translation>
+        <translation>Capturar y pegar foto.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2592"/>
         <source>Take photo shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Atajo para tomar foto</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2621"/>
