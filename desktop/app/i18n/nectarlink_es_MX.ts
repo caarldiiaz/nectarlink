@@ -2237,12 +2237,12 @@
     <message>
         <location filename="../../qml/components/DoctorSheet.qml" line="21"/>
         <source>Open settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir ajustes</translation>
     </message>
     <message>
         <location filename="../../qml/components/DoctorSheet.qml" line="22"/>
         <source>Reconnect</source>
-        <translation type="unfinished"></translation>
+        <translation>Reconectar</translation>
     </message>
     <message>
         <location filename="../../qml/components/DoctorSheet.qml" line="37"/>
@@ -2252,37 +2252,37 @@
     <message>
         <location filename="../../qml/components/DoctorSheet.qml" line="53"/>
         <source>Checking network and firewall…</source>
-        <translation type="unfinished"></translation>
+        <translation>Comprobando la red y el firewall…</translation>
     </message>
     <message>
         <location filename="../../qml/components/DoctorSheet.qml" line="55"/>
         <source>Everything looks right.</source>
-        <translation type="unfinished"></translation>
+        <translation>Todo parece estar en orden.</translation>
     </message>
     <message>
         <location filename="../../qml/components/DoctorSheet.qml" line="57"/>
         <source>Your phone can reach this PC. A few features need a step from you:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tu teléfono puede conectarse a esta PC. Algunas funciones requieren que hagas lo siguiente:</translation>
     </message>
     <message>
         <location filename="../../qml/components/DoctorSheet.qml" line="58"/>
         <source>Issues blocking your phone from reaching this PC:</source>
-        <translation type="unfinished"></translation>
+        <translation>Problemas que impiden que tu teléfono se conecte a esta PC:</translation>
     </message>
     <message>
         <location filename="../../qml/components/DoctorSheet.qml" line="134"/>
         <source>Firewall settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajustes del firewall</translation>
     </message>
     <message>
         <location filename="../../qml/components/DoctorSheet.qml" line="158"/>
         <source>Check again</source>
-        <translation type="unfinished"></translation>
+        <translation>Volver a comprobar</translation>
     </message>
     <message>
         <location filename="../../qml/components/DoctorSheet.qml" line="162"/>
         <source>Done</source>
-        <translation type="unfinished"></translation>
+        <translation>Listo</translation>
     </message>
 </context>
 <context>
@@ -2290,32 +2290,32 @@
     <message>
         <location filename="../rust_strings.h" line="255"/>
         <source>Something went wrong: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Algo salió mal: %1</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="256"/>
         <source>That device isn&apos;t paired anymore.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ese dispositivo ya no está vinculado.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="257"/>
         <source>The device declined.</source>
-        <translation type="unfinished"></translation>
+        <translation>El dispositivo rechazó la solicitud.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="258"/>
         <source>The device didn&apos;t answer in time.</source>
-        <translation type="unfinished"></translation>
+        <translation>El dispositivo no respondió a tiempo.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="259"/>
         <source>The device isn&apos;t connected right now.</source>
-        <translation type="unfinished"></translation>
+        <translation>El dispositivo no está conectado en este momento.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="260"/>
         <source>The device&apos;s app doesn&apos;t support that yet.</source>
-        <translation type="unfinished"></translation>
+        <translation>La app del dispositivo todavía no admite esa función.</translation>
     </message>
 </context>
 <context>
@@ -2323,77 +2323,77 @@
     <message>
         <location filename="../../qml/pages/FeaturesGuidePage.qml" line="99"/>
         <source>Overview</source>
-        <translation type="unfinished"></translation>
+        <translation>Resumen</translation>
     </message>
     <message>
         <location filename="../../qml/pages/FeaturesGuidePage.qml" line="100"/>
         <source>Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuración</translation>
     </message>
     <message>
         <location filename="../../qml/pages/FeaturesGuidePage.qml" line="101"/>
         <source>Permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>Permisos</translation>
     </message>
     <message>
         <location filename="../../qml/pages/FeaturesGuidePage.qml" line="102"/>
         <source>Power levels</source>
-        <translation type="unfinished"></translation>
+        <translation>Niveles de control</translation>
     </message>
     <message>
         <location filename="../../qml/pages/FeaturesGuidePage.qml" line="103"/>
         <source>Troubleshooting</source>
-        <translation type="unfinished"></translation>
+        <translation>Solución de problemas</translation>
     </message>
     <message>
         <location filename="../../qml/pages/FeaturesGuidePage.qml" line="104"/>
         <source>FAQ</source>
-        <translation type="unfinished"></translation>
+        <translation>Preguntas frecuentes</translation>
     </message>
     <message>
         <location filename="../../qml/pages/FeaturesGuidePage.qml" line="480"/>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>Todo</translation>
     </message>
     <message>
         <location filename="../../qml/pages/FeaturesGuidePage.qml" line="481"/>
         <source>Notifications &amp; Calls</source>
-        <translation type="unfinished"></translation>
+        <translation>Notificaciones y llamadas</translation>
     </message>
     <message>
         <location filename="../../qml/pages/FeaturesGuidePage.qml" line="482"/>
         <source>Messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Mensajes</translation>
     </message>
     <message>
         <location filename="../../qml/pages/FeaturesGuidePage.qml" line="483"/>
         <source>Clipboard &amp; Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Portapapeles y archivos</translation>
     </message>
     <message>
         <location filename="../../qml/pages/FeaturesGuidePage.qml" line="484"/>
         <source>Mirroring &amp; Apps</source>
-        <translation type="unfinished"></translation>
+        <translation>Duplicación y apps</translation>
     </message>
     <message>
         <location filename="../../qml/pages/FeaturesGuidePage.qml" line="485"/>
         <source>Camera &amp; Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Cámara y audio</translation>
     </message>
     <message>
         <location filename="../../qml/pages/FeaturesGuidePage.qml" line="486"/>
         <source>Input &amp; Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrada y control</translation>
     </message>
     <message>
         <location filename="../../qml/pages/FeaturesGuidePage.qml" line="487"/>
         <source>Desktop Surfaces</source>
-        <translation type="unfinished"></translation>
+        <translation>Funciones de escritorio</translation>
     </message>
     <message>
         <location filename="../../qml/pages/FeaturesGuidePage.qml" line="488"/>
         <source>Automation &amp; Network</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatización y red</translation>
     </message>
     <message>
         <location filename="../../qml/pages/FeaturesGuidePage.qml" line="513"/>
@@ -2401,71 +2401,71 @@
         <location filename="../../qml/pages/FeaturesGuidePage.qml" line="522"/>
         <location filename="../../qml/pages/FeaturesGuidePage.qml" line="528"/>
         <source>Ready on PC</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista en la PC</translation>
     </message>
     <message>
         <location filename="../../qml/pages/FeaturesGuidePage.qml" line="518"/>
         <location filename="../../qml/pages/FeaturesGuidePage.qml" line="523"/>
         <location filename="../../qml/pages/FeaturesGuidePage.qml" line="529"/>
         <source>Off in Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Desactivada en Ajustes</translation>
     </message>
     <message>
         <location filename="../../qml/pages/FeaturesGuidePage.qml" line="533"/>
         <source>Opt-in on Home</source>
-        <translation type="unfinished"></translation>
+        <translation>Activación opcional en Inicio</translation>
     </message>
     <message>
         <location filename="../../qml/pages/FeaturesGuidePage.qml" line="539"/>
         <location filename="../../qml/pages/FeaturesGuidePage.qml" line="553"/>
         <source>Off on Home</source>
-        <translation type="unfinished"></translation>
+        <translation>Desactivada en Inicio</translation>
     </message>
     <message>
         <location filename="../../qml/pages/FeaturesGuidePage.qml" line="548"/>
         <location filename="../../qml/pages/FeaturesGuidePage.qml" line="567"/>
         <source>Ready</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista</translation>
     </message>
     <message>
         <location filename="../../qml/pages/FeaturesGuidePage.qml" line="550"/>
         <source>Basic mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Modo básico</translation>
     </message>
     <message>
         <location filename="../../qml/pages/FeaturesGuidePage.qml" line="559"/>
         <source>Needs an update</source>
-        <translation type="unfinished"></translation>
+        <translation>Requiere una actualización</translation>
     </message>
     <message>
         <location filename="../../qml/pages/FeaturesGuidePage.qml" line="560"/>
         <source>Needs phone permission</source>
-        <translation type="unfinished"></translation>
+        <translation>Requiere permiso en el teléfono</translation>
     </message>
     <message>
         <location filename="../../qml/pages/FeaturesGuidePage.qml" line="555"/>
         <source>Needs Elevated</source>
-        <translation type="unfinished"></translation>
+        <translation>Requiere nivel Avanzado</translation>
     </message>
     <message>
         <location filename="../../qml/pages/FeaturesGuidePage.qml" line="557"/>
         <source>Needs Assist</source>
-        <translation type="unfinished"></translation>
+        <translation>Requiere Asistencia</translation>
     </message>
     <message>
         <location filename="../../qml/pages/FeaturesGuidePage.qml" line="563"/>
         <source>Not on this phone</source>
-        <translation type="unfinished"></translation>
+        <translation>No disponible en este teléfono</translation>
     </message>
     <message>
         <location filename="../../qml/pages/FeaturesGuidePage.qml" line="586"/>
         <source>Every feature in NectarLink, what it needs, and where to find it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Todas las funciones de NectarLink, sus requisitos y dónde encontrarlas.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/FeaturesGuidePage.qml" line="625"/>
         <source>Read the full guide ›</source>
-        <translation type="unfinished"></translation>
+        <translation>Leer la guía completa ›</translation>
     </message>
     <message>
         <location filename="../../qml/pages/FeaturesGuidePage.qml" line="633"/>
@@ -2475,12 +2475,12 @@
     <message>
         <location filename="../../qml/pages/FeaturesGuidePage.qml" line="668"/>
         <source>Connect your phone to see which features are ready</source>
-        <translation type="unfinished"></translation>
+        <translation>Conecta tu teléfono para ver qué funciones están listas</translation>
     </message>
     <message>
         <location filename="../../qml/pages/FeaturesGuidePage.qml" line="717"/>
         <source>Search features by name, location, or permission...</source>
-        <translation type="unfinished"></translation>
+        <translation>Busca funciones por nombre, ubicación o permiso...</translation>
     </message>
     <message>
         <location filename="../../qml/pages/FeaturesGuidePage.qml" line="727"/>
@@ -2490,37 +2490,37 @@
     <message>
         <location filename="../../qml/pages/FeaturesGuidePage.qml" line="902"/>
         <source>Show me</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar</translation>
     </message>
     <message>
         <location filename="../../qml/pages/FeaturesGuidePage.qml" line="930"/>
         <source>Learn more ›</source>
-        <translation type="unfinished"></translation>
+        <translation>Más información ›</translation>
     </message>
     <message>
         <location filename="../../qml/pages/FeaturesGuidePage.qml" line="949"/>
         <source>Where:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dónde:</translation>
     </message>
     <message>
         <location filename="../../qml/pages/FeaturesGuidePage.qml" line="969"/>
         <source>Needs:</source>
-        <translation type="unfinished"></translation>
+        <translation>Requiere:</translation>
     </message>
     <message>
         <location filename="../../qml/pages/FeaturesGuidePage.qml" line="995"/>
         <source>No matching features</source>
-        <translation type="unfinished"></translation>
+        <translation>No hay funciones coincidentes</translation>
     </message>
     <message>
         <location filename="../../qml/pages/FeaturesGuidePage.qml" line="1001"/>
         <source>Try another search term or select All above.</source>
-        <translation type="unfinished"></translation>
+        <translation>Prueba otro término o selecciona Todo arriba.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/FeaturesGuidePage.qml" line="1064"/>
         <source>Close guide</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerrar guía</translation>
     </message>
     <message>
         <location filename="../../qml/pages/FeaturesGuidePage.qml" line="1135"/>
@@ -2533,22 +2533,22 @@
     <message>
         <location filename="../rust_strings.h" line="261"/>
         <source>Couldn&apos;t read the folder on the phone. Check that it&apos;s connected.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo leer la carpeta del teléfono. Comprueba que esté conectado.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="262"/>
         <source>Folders are up to date.</source>
-        <translation type="unfinished"></translation>
+        <translation>Las carpetas están actualizadas.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="263"/>
         <source>Synced %1 file(s).</source>
-        <translation type="unfinished"></translation>
+        <translation>Se sincronizaron %1 archivo(s).</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="264"/>
         <source>The phone hasn&apos;t let this PC into its files yet. Allow it on the phone.</source>
-        <translation type="unfinished"></translation>
+        <translation>El teléfono todavía no ha permitido que esta PC acceda a sus archivos. Autorízalo en el teléfono.</translation>
     </message>
 </context>
 <context>
@@ -2667,7 +2667,7 @@ Sensitive capabilities such as Share PC folders, Remote input, and Reverse PC sc
     <message>
         <location filename="../rust_strings.h" line="284"/>
         <source>Messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Mensajes</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="285"/>
@@ -3426,7 +3426,7 @@ What it needs
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1179"/>
         <source>Reconnect</source>
-        <translation type="unfinished"></translation>
+        <translation>Reconectar</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1263"/>
@@ -3924,7 +3924,7 @@ What it needs
         <location filename="../../qml/pages/HomePage.qml" line="3098"/>
         <location filename="../../qml/pages/HomePage.qml" line="3676"/>
         <source>Done</source>
-        <translation type="unfinished"></translation>
+        <translation>Listo</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2726"/>
@@ -4408,7 +4408,7 @@ What it needs
         <location filename="../../qml/MainWindow.qml" line="598"/>
         <location filename="../../qml/MainWindow.qml" line="715"/>
         <source>Messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Mensajes</translation>
     </message>
     <message>
         <location filename="../../qml/MainWindow.qml" line="609"/>
@@ -4925,7 +4925,7 @@ What it needs
     <message>
         <location filename="../../qml/pages/MessagesPage.qml" line="1461"/>
         <source>Done</source>
-        <translation type="unfinished"></translation>
+        <translation>Listo</translation>
     </message>
 </context>
 <context>
@@ -6228,7 +6228,7 @@ What it needs
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="22"/>
         <source>Camera &amp; Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Cámara y audio</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="22"/>
@@ -6385,7 +6385,7 @@ What it needs
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="164"/>
         <source>Messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Mensajes</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="165"/>
@@ -6956,7 +6956,7 @@ What it needs
         <location filename="../../qml/pages/SettingsPage.qml" line="1768"/>
         <location filename="../../qml/pages/SettingsPage.qml" line="3211"/>
         <source>Ready</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1776"/>
@@ -7430,7 +7430,7 @@ What it needs
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3018"/>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>Todo</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3033"/>
@@ -8485,7 +8485,7 @@ What it needs
     <message>
         <location filename="../../qml/pages/TimelinePage.qml" line="30"/>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>Todo</translation>
     </message>
     <message>
         <location filename="../../qml/pages/TimelinePage.qml" line="31"/>
@@ -9032,7 +9032,7 @@ What it needs
     <message>
         <location filename="../../qml/pages/WalkthroughPage.qml" line="1343"/>
         <source>Messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Mensajes</translation>
     </message>
     <message>
         <location filename="../../qml/pages/WalkthroughPage.qml" line="1344"/>
