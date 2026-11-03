@@ -2565,22 +2565,22 @@
     <message>
         <location filename="../rust_strings.h" line="266"/>
         <source>Android permissions and why each is optional</source>
-        <translation type="unfinished"></translation>
+        <translation>Permisos de Android y por qué cada uno es opcional</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="267"/>
         <source>Automations</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatizaciones</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="268"/>
         <source>Calls</source>
-        <translation type="unfinished"></translation>
+        <translation>Llamadas</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="269"/>
         <source>Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Portapapeles</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="270"/>
@@ -2595,22 +2595,22 @@
     <message>
         <location filename="../rust_strings.h" line="272"/>
         <source>Continuity camera</source>
-        <translation type="unfinished"></translation>
+        <translation>Cámara de continuidad</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="273"/>
         <source>Deck</source>
-        <translation type="unfinished"></translation>
+        <translation>Panel de controles</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="274"/>
         <source>Drop shelf</source>
-        <translation type="unfinished"></translation>
+        <translation>Panel lateral</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="275"/>
         <source>Elevated and Assist modes</source>
-        <translation type="unfinished"></translation>
+        <translation>Modos Avanzado y Asistencia</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="276"/>
@@ -2620,12 +2620,12 @@
     <message>
         <location filename="../rust_strings.h" line="277"/>
         <source>Features reference</source>
-        <translation type="unfinished"></translation>
+        <translation>Referencia de funciones</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="278"/>
         <source>Handoff</source>
-        <translation type="unfinished"></translation>
+        <translation>Continuidad entre dispositivos</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="279"/>
@@ -2640,12 +2640,12 @@
     <message>
         <location filename="../rust_strings.h" line="280"/>
         <source>Install and first-time setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalación y configuración inicial</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="281"/>
         <source>Local HTTP API</source>
-        <translation type="unfinished"></translation>
+        <translation>API HTTP local</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="282"/>
@@ -2662,7 +2662,7 @@ Sensitive capabilities such as Share PC folders, Remote input, and Reverse PC sc
     <message>
         <location filename="../rust_strings.h" line="283"/>
         <source>LocalSend</source>
-        <translation type="unfinished"></translation>
+        <translation>LocalSend</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="284"/>
@@ -2686,7 +2686,7 @@ Assist mode (Android Accessibility Service)
     <message>
         <location filename="../rust_strings.h" line="286"/>
         <source>Nectar Island</source>
-        <translation type="unfinished"></translation>
+        <translation>Nectar Island</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="287"/>
@@ -2717,47 +2717,47 @@ Capability tiers on Android
     <message>
         <location filename="../rust_strings.h" line="289"/>
         <source>NectarLink overview</source>
-        <translation type="unfinished"></translation>
+        <translation>Descripción general de NectarLink</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="290"/>
         <source>Notifications</source>
-        <translation type="unfinished"></translation>
+        <translation>Notificaciones</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="291"/>
         <source>Phone as speaker</source>
-        <translation type="unfinished"></translation>
+        <translation>Usar el teléfono como altavoz</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="292"/>
         <source>Phone as webcam</source>
-        <translation type="unfinished"></translation>
+        <translation>Usar el teléfono como cámara web</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="293"/>
         <source>Phone controls</source>
-        <translation type="unfinished"></translation>
+        <translation>Controles del teléfono</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="294"/>
         <source>Photos</source>
-        <translation type="unfinished"></translation>
+        <translation>Fotos</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="295"/>
         <source>Privacy and security</source>
-        <translation type="unfinished"></translation>
+        <translation>Privacidad y seguridad</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="296"/>
         <source>Remote input</source>
-        <translation type="unfinished"></translation>
+        <translation>Control remoto de entrada</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="297"/>
         <source>Screen mirroring</source>
-        <translation type="unfinished"></translation>
+        <translation>Duplicación de pantalla</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="298"/>
@@ -2767,42 +2767,42 @@ Capability tiers on Android
     <message>
         <location filename="../rust_strings.h" line="299"/>
         <source>Send files</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar archivos</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="300"/>
         <source>Share PC folders</source>
-        <translation type="unfinished"></translation>
+        <translation>Compartir carpetas de la PC</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="301"/>
         <source>Share PC screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Compartir pantalla de la PC</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="302"/>
         <source>Timeline</source>
-        <translation type="unfinished"></translation>
+        <translation>Historial</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="303"/>
         <source>Troubleshooting and Connection Doctor</source>
-        <translation type="unfinished"></translation>
+        <translation>Solución de problemas y Diagnóstico de conexión</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="304"/>
         <source>Type on phone</source>
-        <translation type="unfinished"></translation>
+        <translation>Escribir en el teléfono</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="305"/>
         <source>Voice recorder</source>
-        <translation type="unfinished"></translation>
+        <translation>Grabadora de voz</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="306"/>
         <source>Wake PC</source>
-        <translation type="unfinished"></translation>
+        <translation>Activar PC</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="307"/>
@@ -3452,7 +3452,7 @@ What it needs
         <location filename="../../qml/pages/HomePage.qml" line="1313"/>
         <location filename="../../qml/pages/HomePage.qml" line="3599"/>
         <source>Send files</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar archivos</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1319"/>
@@ -3567,7 +3567,7 @@ What it needs
         <location filename="../../qml/pages/HomePage.qml" line="1597"/>
         <location filename="../../qml/pages/HomePage.qml" line="2523"/>
         <source>Timeline</source>
-        <translation type="unfinished"></translation>
+        <translation>Historial</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1653"/>
@@ -3577,7 +3577,7 @@ What it needs
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1653"/>
         <source>Notifications</source>
-        <translation type="unfinished"></translation>
+        <translation>Notificaciones</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1661"/>
@@ -3663,7 +3663,7 @@ What it needs
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1999"/>
         <source>Phone controls</source>
-        <translation type="unfinished"></translation>
+        <translation>Controles del teléfono</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2008"/>
@@ -3718,7 +3718,7 @@ What it needs
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2084"/>
         <source>Phone as speaker</source>
-        <translation type="unfinished"></translation>
+        <translation>Usar el teléfono como altavoz</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2085"/>
@@ -3808,7 +3808,7 @@ What it needs
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2260"/>
         <source>Phone as webcam</source>
-        <translation type="unfinished"></translation>
+        <translation>Usar el teléfono como cámara web</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2263"/>
@@ -3819,7 +3819,7 @@ What it needs
         <location filename="../../qml/pages/HomePage.qml" line="2334"/>
         <location filename="../../qml/pages/HomePage.qml" line="2395"/>
         <source>Type on phone</source>
-        <translation type="unfinished"></translation>
+        <translation>Escribir en el teléfono</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2345"/>
@@ -3846,7 +3846,7 @@ What it needs
         <location filename="../../qml/pages/HomePage.qml" line="2410"/>
         <location filename="../../qml/pages/HomePage.qml" line="2490"/>
         <source>Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Portapapeles</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2470"/>
@@ -4135,7 +4135,7 @@ What it needs
     <message>
         <location filename="../../qml/IslandWindow.qml" line="16"/>
         <source>Nectar Island</source>
-        <translation type="unfinished"></translation>
+        <translation>Nectar Island</translation>
     </message>
     <message>
         <location filename="../../qml/IslandWindow.qml" line="223"/>
@@ -4414,13 +4414,13 @@ What it needs
         <location filename="../../qml/MainWindow.qml" line="609"/>
         <location filename="../../qml/MainWindow.qml" line="716"/>
         <source>Calls</source>
-        <translation type="unfinished"></translation>
+        <translation>Llamadas</translation>
     </message>
     <message>
         <location filename="../../qml/MainWindow.qml" line="620"/>
         <location filename="../../qml/MainWindow.qml" line="717"/>
         <source>Photos</source>
-        <translation type="unfinished"></translation>
+        <translation>Fotos</translation>
     </message>
     <message>
         <location filename="../../qml/MainWindow.qml" line="631"/>
@@ -4432,7 +4432,7 @@ What it needs
         <location filename="../../qml/MainWindow.qml" line="642"/>
         <location filename="../../qml/MainWindow.qml" line="719"/>
         <source>Deck</source>
-        <translation type="unfinished"></translation>
+        <translation>Panel de controles</translation>
     </message>
     <message>
         <location filename="../../qml/MainWindow.qml" line="653"/>
@@ -4459,7 +4459,7 @@ What it needs
         <location filename="../../qml/MainWindow.qml" line="714"/>
         <location filename="../../qml/MainWindow.qml" line="833"/>
         <source>Timeline</source>
-        <translation type="unfinished"></translation>
+        <translation>Historial</translation>
     </message>
     <message>
         <location filename="../../qml/MainWindow.qml" line="720"/>
@@ -5864,7 +5864,7 @@ What it needs
     <message>
         <location filename="../../qml/pages/PhotosPage.qml" line="273"/>
         <source>Photos</source>
-        <translation type="unfinished"></translation>
+        <translation>Fotos</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PhotosPage.qml" line="274"/>
@@ -6239,7 +6239,7 @@ What it needs
         <location filename="../../qml/pages/SettingsPage.qml" line="23"/>
         <location filename="../../qml/pages/SettingsPage.qml" line="163"/>
         <source>Notifications</source>
-        <translation type="unfinished"></translation>
+        <translation>Notificaciones</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="23"/>
@@ -6391,7 +6391,7 @@ What it needs
         <location filename="../../qml/pages/SettingsPage.qml" line="165"/>
         <location filename="../../qml/pages/SettingsPage.qml" line="1089"/>
         <source>Calls</source>
-        <translation type="unfinished"></translation>
+        <translation>Llamadas</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="166"/>
@@ -6401,7 +6401,7 @@ What it needs
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="167"/>
         <source>Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Portapapeles</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="168"/>
@@ -6422,12 +6422,12 @@ What it needs
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="171"/>
         <source>Photos</source>
-        <translation type="unfinished"></translation>
+        <translation>Fotos</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="172"/>
         <source>Phone controls</source>
-        <translation type="unfinished"></translation>
+        <translation>Controles del teléfono</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="173"/>
@@ -6437,7 +6437,7 @@ What it needs
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="174"/>
         <source>Screen mirroring</source>
-        <translation type="unfinished"></translation>
+        <translation>Duplicación de pantalla</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="175"/>
@@ -6688,7 +6688,7 @@ What it needs
         <location filename="../../qml/pages/SettingsPage.qml" line="1026"/>
         <location filename="../../qml/pages/SettingsPage.qml" line="1029"/>
         <source>Nectar Island</source>
-        <translation type="unfinished"></translation>
+        <translation>Nectar Island</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1027"/>
@@ -8407,7 +8407,7 @@ What it needs
     <message>
         <location filename="../rust_strings.h" line="475"/>
         <source>Screen mirroring</source>
-        <translation type="unfinished"></translation>
+        <translation>Duplicación de pantalla</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="476"/>
@@ -8505,7 +8505,7 @@ What it needs
     <message>
         <location filename="../../qml/pages/TimelinePage.qml" line="34"/>
         <source>Photos</source>
-        <translation type="unfinished"></translation>
+        <translation>Fotos</translation>
     </message>
     <message>
         <location filename="../../qml/pages/TimelinePage.qml" line="35"/>
@@ -9012,17 +9012,17 @@ What it needs
     <message>
         <location filename="../../qml/pages/WalkthroughPage.qml" line="1339"/>
         <source>Notifications</source>
-        <translation type="unfinished"></translation>
+        <translation>Notificaciones</translation>
     </message>
     <message>
         <location filename="../../qml/pages/WalkthroughPage.qml" line="1340"/>
         <source>Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Portapapeles</translation>
     </message>
     <message>
         <location filename="../../qml/pages/WalkthroughPage.qml" line="1341"/>
         <source>Send files</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar archivos</translation>
     </message>
     <message>
         <location filename="../../qml/pages/WalkthroughPage.qml" line="1342"/>
@@ -9037,22 +9037,22 @@ What it needs
     <message>
         <location filename="../../qml/pages/WalkthroughPage.qml" line="1344"/>
         <source>Calls</source>
-        <translation type="unfinished"></translation>
+        <translation>Llamadas</translation>
     </message>
     <message>
         <location filename="../../qml/pages/WalkthroughPage.qml" line="1393"/>
         <source>Screen mirroring</source>
-        <translation type="unfinished"></translation>
+        <translation>Duplicación de pantalla</translation>
     </message>
     <message>
         <location filename="../../qml/pages/WalkthroughPage.qml" line="1394"/>
         <source>Remote input</source>
-        <translation type="unfinished"></translation>
+        <translation>Control remoto de entrada</translation>
     </message>
     <message>
         <location filename="../../qml/pages/WalkthroughPage.qml" line="1395"/>
         <source>Share PC folders</source>
-        <translation type="unfinished"></translation>
+        <translation>Compartir carpetas de la PC</translation>
     </message>
     <message>
         <location filename="../../qml/pages/WalkthroughPage.qml" line="1467"/>
