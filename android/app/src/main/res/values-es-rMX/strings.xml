@@ -1281,4 +1281,9 @@
     <string name="banking_channel">Pausa para apps bancarias</string>
     <string name="banking_paused_title">En pausa por una app bancaria</string>
     <string name="banking_paused_text">Las opciones de desarrollador, la depuración y el servicio de accesibilidad de NectarLink están desactivados hasta que salgas de la app.</string>
+    <string name="banking_turn_back_on">Volver a activar</string>
+    <string name="action_done">Listo</string>
+    <string name="device_name_in_profile">%1$s (%2$s)</string>
+    <string name="profile_work">Trabajo</string>
+    <string name="profile_other">Segundo perfil</string>
 </resources>
