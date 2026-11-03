@@ -5742,7 +5742,7 @@ Qué necesita
     <message>
         <location filename="../rust_strings.h" line="399"/>
         <source>Update NectarLink on %1 to play its sound here.</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualiza NectarLink en %1 para reproducir aquí su audio.</translation>
     </message>
 </context>
 <context>
@@ -5750,17 +5750,17 @@ Qué necesita
     <message>
         <location filename="../rust_strings.h" line="400"/>
         <source>Can&apos;t write to the backup folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede escribir en la carpeta de respaldo.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="401"/>
         <source>Copying, %1 left</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiando, falta %1</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="402"/>
         <source>Looking for new photos…</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscando fotos nuevas…</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="403"/>
@@ -5770,32 +5770,32 @@ Qué necesita
     <message>
         <location filename="../rust_strings.h" line="404"/>
         <source>Photos are turned off for this PC on %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Las fotos están desactivadas para esta PC en %1.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="405"/>
         <source>The backup folder&apos;s drive is full.</source>
-        <translation type="unfinished"></translation>
+        <translation>La unidad de la carpeta de respaldo está llena.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="406"/>
         <source>The backup stopped. It tries again in a few minutes.</source>
-        <translation type="unfinished"></translation>
+        <translation>El respaldo se detuvo. Se volverá a intentar en unos minutos.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="407"/>
         <source>Up to date</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizado</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="408"/>
         <source>Up to date, %1 backed up</source>
-        <translation type="unfinished"></translation>
+        <translation>Al día; %1 respaldado</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="409"/>
         <source>Update NectarLink on %1 to back up its photos.</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualiza NectarLink en %1 para respaldar sus fotos.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="410"/>
@@ -5808,7 +5808,7 @@ Qué necesita
     <message>
         <location filename="../rust_strings.h" line="411"/>
         <source>%1 of %2 couldn&apos;t be moved to %3. They&apos;re in Downloads\Nectarlink.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudieron mover %1 de %2 a %3. Están en Descargas\Nectarlink.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="412"/>
@@ -5823,47 +5823,47 @@ Qué necesita
     <message>
         <location filename="../rust_strings.h" line="414"/>
         <source>New photo</source>
-        <translation type="unfinished"></translation>
+        <translation>Foto nueva</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="415"/>
         <source>New screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Captura nueva</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="416"/>
         <source>No recent photos found on the phone.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se encontraron fotos recientes en el teléfono.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="417"/>
         <source>Opening latest photo…</source>
-        <translation type="unfinished"></translation>
+        <translation>Abriendo la foto más reciente…</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="418"/>
         <source>Saved %1 items to %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se guardaron %1 elementos en %2.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="419"/>
         <source>Saved %1 to %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se guardó %1 en %2.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="420"/>
         <source>That photo isn&apos;t on the phone anymore.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esa foto ya no está en el teléfono.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="421"/>
         <source>The phone doesn&apos;t share photos or files with this PC.</source>
-        <translation type="unfinished"></translation>
+        <translation>El teléfono no comparte fotos ni archivos con esta PC.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="422"/>
         <source>The phone isn&apos;t connected right now.</source>
-        <translation type="unfinished"></translation>
+        <translation>El teléfono no está conectado en este momento.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="423"/>
@@ -5873,7 +5873,7 @@ Qué necesita
     <message>
         <location filename="../rust_strings.h" line="424"/>
         <source>The photo couldn&apos;t be copied. It&apos;s in Downloads\Nectarlink.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo copiar la foto. Está en Descargas\Nectarlink.</translation>
     </message>
 </context>
 <context>
@@ -5882,12 +5882,12 @@ Qué necesita
         <location filename="../../qml/pages/PhotosPage.qml" line="43"/>
         <location filename="../../qml/pages/PhotosPage.qml" line="334"/>
         <source>All photos</source>
-        <translation type="unfinished"></translation>
+        <translation>Todas las fotos</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PhotosPage.qml" line="47"/>
         <source>Album</source>
-        <translation type="unfinished"></translation>
+        <translation>Álbum</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PhotosPage.qml" line="72"/>
@@ -5929,12 +5929,12 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/PhotosPage.qml" line="236"/>
         <source>Choose default folder for saved photos</source>
-        <translation type="unfinished"></translation>
+        <translation>Elegir carpeta predeterminada para las fotos guardadas</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PhotosPage.qml" line="243"/>
         <source>Save to folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar en carpeta</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PhotosPage.qml" line="273"/>
@@ -5950,18 +5950,18 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/PhotosPage.qml" line="283"/>
         <source>Pair your phone to browse photos and albums.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vincula tu teléfono para explorar fotos y álbumes.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PhotosPage.qml" line="284"/>
         <location filename="../../qml/pages/PhotosPage.qml" line="626"/>
         <source>Connect %1 to view photos.</source>
-        <translation type="unfinished"></translation>
+        <translation>Conecta %1 para ver las fotos.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PhotosPage.qml" line="305"/>
         <source>Albums</source>
-        <translation type="unfinished"></translation>
+        <translation>Álbumes</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PhotosPage.qml" line="312"/>
@@ -5971,17 +5971,17 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/PhotosPage.qml" line="408"/>
         <source>%1+ items</source>
-        <translation type="unfinished"></translation>
+        <translation>%1+ elementos</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PhotosPage.qml" line="409"/>
         <source>1 item</source>
-        <translation type="unfinished"></translation>
+        <translation>1 elemento</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PhotosPage.qml" line="409"/>
         <source>%1 items</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 elementos</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PhotosPage.qml" line="435"/>
@@ -5991,17 +5991,17 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/PhotosPage.qml" line="445"/>
         <source>Photo</source>
-        <translation type="unfinished"></translation>
+        <translation>Foto</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PhotosPage.qml" line="445"/>
         <source>Take photo</source>
-        <translation type="unfinished"></translation>
+        <translation>Tomar foto</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PhotosPage.qml" line="455"/>
         <source>Scan</source>
-        <translation type="unfinished"></translation>
+        <translation>Escanear</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PhotosPage.qml" line="455"/>
@@ -6011,37 +6011,37 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/PhotosPage.qml" line="480"/>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PhotosPage.qml" line="496"/>
         <source>Cancel selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar selección</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PhotosPage.qml" line="504"/>
         <source>%1 selected</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 seleccionados</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PhotosPage.qml" line="505"/>
         <source>Select items</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar elementos</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PhotosPage.qml" line="505"/>
         <source>Click items to select</source>
-        <translation type="unfinished"></translation>
+        <translation>Haz clic en los elementos para seleccionarlos</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PhotosPage.qml" line="513"/>
         <source>Select all</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar todo</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PhotosPage.qml" line="513"/>
         <source>Select first 500</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar los primeros 500</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PhotosPage.qml" line="531"/>
@@ -7307,7 +7307,7 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2546"/>
         <source>Take photo</source>
-        <translation type="unfinished"></translation>
+        <translation>Tomar foto</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2547"/>
