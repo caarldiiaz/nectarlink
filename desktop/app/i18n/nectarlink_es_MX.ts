@@ -1934,7 +1934,7 @@
     <message>
         <location filename="../rust_strings.h" line="196"/>
         <source>%1 minutes ago</source>
-        <translation type="unfinished"></translation>
+        <translation>Hace %1 minutos</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="197"/>
@@ -1944,287 +1944,287 @@
     <message>
         <location filename="../rust_strings.h" line="198"/>
         <source>A VPN is on</source>
-        <translation type="unfinished"></translation>
+        <translation>Hay una VPN activa</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="199"/>
         <source>A firewall rule blocks incoming NectarLink connections. Allow it, and your phone can connect.</source>
-        <translation type="unfinished"></translation>
+        <translation>Una regla del firewall bloquea las conexiones entrantes de NectarLink. Permítelas para que tu teléfono pueda conectarse.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="200"/>
         <source>Calls and alerts can&apos;t play sound yet</source>
-        <translation type="unfinished"></translation>
+        <translation>Las llamadas y alertas aún no pueden reproducir sonido</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="201"/>
         <source>Connect it to the same Wi-Fi or wired network as your phone.</source>
-        <translation type="unfinished"></translation>
+        <translation>Conéctala a la misma red Wi-Fi o cableada que tu teléfono.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="202"/>
         <source>Connected to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Conectado a %1</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="203"/>
         <source>Connected to a network</source>
-        <translation type="unfinished"></translation>
+        <translation>Conectado a una red</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="204"/>
         <source>Connecting to %1…</source>
-        <translation type="unfinished"></translation>
+        <translation>Conectando a %1…</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="205"/>
         <source>GNOME shows app icons there only with the AppIndicator extension. Install it (gnome-shell-extension-appindicator) and turn it on in Extensions.</source>
-        <translation type="unfinished"></translation>
+        <translation>GNOME solo muestra ahí los íconos de apps con la extensión AppIndicator. Instálala (gnome-shell-extension-appindicator) y actívala en Extensiones.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="206"/>
         <source>Install fuse3 to browse your phone&apos;s files in your file manager.</source>
-        <translation type="unfinished"></translation>
+        <translation>Instala fuse3 para explorar los archivos del teléfono desde tu administrador de archivos.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="207"/>
         <source>Install gstreamer1.0-pipewire and gstreamer1.0-tools, and the desktop portal (xdg-desktop-portal) if it&apos;s missing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Instala gstreamer1.0-pipewire y gstreamer1.0-tools, además del portal de escritorio (xdg-desktop-portal) si hace falta.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="208"/>
         <source>Install pipewire-pulse (or pulseaudio-utils) for call audio and Find my PC.</source>
-        <translation type="unfinished"></translation>
+        <translation>Instala pipewire-pulse (o pulseaudio-utils) para el audio de llamadas y Encontrar mi PC.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="209"/>
         <source>Install v4l2loopback-dkms, then restart, so apps can use your phone as a camera.</source>
-        <translation type="unfinished"></translation>
+        <translation>Instala v4l2loopback-dkms y reinicia para que las apps puedan usar tu teléfono como cámara.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="210"/>
         <source>It hasn&apos;t connected yet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Todavía no se conecta.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="211"/>
         <source>Keep %1 reachable in the background (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>Mantén %1 disponible en segundo plano (%2)</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="212"/>
         <source>Last seen %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Última vez visto: %1.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="213"/>
         <source>NectarLink can&apos;t show its icon in the top bar</source>
-        <translation type="unfinished"></translation>
+        <translation>NectarLink no puede mostrar su ícono en la barra superior</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="214"/>
         <source>NectarLink is in the top bar</source>
-        <translation type="unfinished"></translation>
+        <translation>NectarLink está en la barra superior</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="215"/>
         <source>NectarLink isn&apos;t allowed through Windows Firewall</source>
-        <translation type="unfinished"></translation>
+        <translation>NectarLink no está permitido en el Firewall de Windows</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="216"/>
         <source>NectarLink isn&apos;t allowed through the firewall</source>
-        <translation type="unfinished"></translation>
+        <translation>NectarLink no está permitido en el firewall</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="217"/>
         <source>On Huawei / Honor: open Settings → Battery → App launch, turn off Manage automatically for NectarLink, and keep Auto-launch, Secondary launch, and Run in background on.</source>
-        <translation type="unfinished"></translation>
+        <translation>En Huawei / Honor: abre Ajustes → Batería → Inicio de apps, desactiva Administrar automáticamente para NectarLink y mantén activados Inicio automático, Inicio secundario y Ejecutar en segundo plano.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="218"/>
         <source>On OnePlus / OxygenOS: open Settings → Apps → App management → NectarLink → Battery usage and turn on Allow background activity and Allow auto-launch.</source>
-        <translation type="unfinished"></translation>
+        <translation>En OnePlus / OxygenOS: abre Ajustes → Apps → Administración de apps → NectarLink → Uso de batería y activa Permitir actividad en segundo plano y Permitir inicio automático.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="219"/>
         <source>On Oppo / Realme: open Settings → Apps → App management → NectarLink → Battery usage and turn on Allow background activity and Allow auto-launch.</source>
-        <translation type="unfinished"></translation>
+        <translation>En Oppo / Realme: abre Ajustes → Apps → Administración de apps → NectarLink → Uso de batería y activa Permitir actividad en segundo plano y Permitir inicio automático.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="220"/>
         <source>On Pixel: open Settings → Apps → See all apps → NectarLink → App battery usage, tap Allow background usage, and choose Unrestricted.</source>
-        <translation type="unfinished"></translation>
+        <translation>En Pixel: abre Ajustes → Apps → Ver todas las apps → NectarLink → Uso de batería de la app, toca Permitir uso en segundo plano y elige Sin restricciones.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="221"/>
         <source>On Samsung: open Settings → Apps → NectarLink → Battery and choose Unrestricted, then in Device care → Battery → Background usage limits make sure NectarLink is never put to sleep.</source>
-        <translation type="unfinished"></translation>
+        <translation>En Samsung: abre Ajustes → Apps → NectarLink → Batería y elige Sin restricciones. Después, en Cuidado del dispositivo → Batería → Límites de uso en segundo plano, asegúrate de que NectarLink nunca entre en suspensión.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="222"/>
         <source>On USB</source>
-        <translation type="unfinished"></translation>
+        <translation>Por USB</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="223"/>
         <source>On Vivo / OriginOS / Funtouch: open Settings → Battery → Background power consumption management → NectarLink and choose Unrestricted, and allow Autostart.</source>
-        <translation type="unfinished"></translation>
+        <translation>En Vivo / OriginOS / Funtouch: abre Ajustes → Batería → Administración del consumo en segundo plano → NectarLink, elige Sin restricciones y permite Inicio automático.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="224"/>
         <source>On Xiaomi / HyperOS / MIUI: open Settings → Apps → Manage apps → NectarLink, turn on Autostart, and set Battery saver to No restrictions.</source>
-        <translation type="unfinished"></translation>
+        <translation>En Xiaomi / HyperOS / MIUI: abre Ajustes → Apps → Administrar apps → NectarLink, activa Inicio automático y configura Ahorro de batería en Sin restricciones.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="225"/>
         <source>On public networks Windows keeps other devices from finding this PC. If it&apos;s your home or work network, set it to Private.</source>
-        <translation type="unfinished"></translation>
+        <translation>En redes públicas, Windows impide que otros dispositivos encuentren esta PC. Si es tu red de casa o trabajo, configúrala como Privada.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="226"/>
         <source>On public networks the firewall keeps other devices from finding this PC. If it&apos;s your home or work network, open network settings and set its firewall zone to Home or Trusted.</source>
-        <translation type="unfinished"></translation>
+        <translation>En redes públicas, el firewall impide que otros dispositivos encuentren esta PC. Si es tu red de casa o trabajo, abre los ajustes de red y configura la zona del firewall como Hogar o Confiable.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="227"/>
         <source>On this network</source>
-        <translation type="unfinished"></translation>
+        <translation>En esta red</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="228"/>
         <source>Phone as webcam is ready</source>
-        <translation type="unfinished"></translation>
+        <translation>El teléfono como cámara web está listo</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="229"/>
         <source>Phone as webcam needs one more step</source>
-        <translation type="unfinished"></translation>
+        <translation>Falta un paso para usar el teléfono como cámara web</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="230"/>
         <source>Phone storage can open in your file manager</source>
-        <translation type="unfinished"></translation>
+        <translation>El almacenamiento del teléfono puede abrirse en tu administrador de archivos</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="231"/>
         <source>Phone storage needs one more step</source>
-        <translation type="unfinished"></translation>
+        <translation>Falta un paso para acceder al almacenamiento del teléfono</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="232"/>
         <source>Showing this PC&apos;s screen needs one more step</source>
-        <translation type="unfinished"></translation>
+        <translation>Falta un paso para mostrar la pantalla de esta PC</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="233"/>
         <source>Someone chose not to allow it when Windows asked. Allow it, and your phone can connect.</source>
-        <translation type="unfinished"></translation>
+        <translation>Alguien eligió no permitirlo cuando Windows lo preguntó. Permítelo para que tu teléfono pueda conectarse.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="234"/>
         <source>Sound is ready</source>
-        <translation type="unfinished"></translation>
+        <translation>El audio está listo</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="235"/>
         <source>The firewall blocks NectarLink</source>
-        <translation type="unfinished"></translation>
+        <translation>El firewall bloquea NectarLink</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="236"/>
         <source>The firewall is off for this network</source>
-        <translation type="unfinished"></translation>
+        <translation>El firewall está desactivado para esta red</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="237"/>
         <source>The firewall lets your phone connect</source>
-        <translation type="unfinished"></translation>
+        <translation>El firewall permite que tu teléfono se conecte</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="238"/>
         <source>The touchpad and keyboard on your phone need the desktop portal (xdg-desktop-portal) or access to /dev/uinput.</source>
-        <translation type="unfinished"></translation>
+        <translation>El panel táctil y el teclado del teléfono requieren el portal de escritorio (xdg-desktop-portal) o acceso a /dev/uinput.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="239"/>
         <source>This PC can see %1 announce itself on the network, but the router is blocking devices from talking directly to each other (often called AP Isolation, Client Isolation, or Guest Wi-Fi). Move both devices off any Guest Wi-Fi network, turn off AP / Client Isolation in your router&apos;s Wi-Fi settings, or connect with a USB cable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta PC detecta que %1 se anuncia en la red, pero el router bloquea la comunicación directa entre dispositivos (también llamado aislamiento AP, aislamiento de clientes o Wi-Fi de invitados). Conecta ambos dispositivos a una red que no sea de invitados, desactiva el aislamiento AP/de clientes en los ajustes Wi-Fi del router o usa un cable USB.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="240"/>
         <source>This PC isn&apos;t on a network</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta PC no está conectada a una red</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="241"/>
         <source>This network</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta red</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="242"/>
         <source>This usually takes a few seconds.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esto suele tardar unos segundos.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="243"/>
         <source>VPNs often keep devices on your network from reaching this PC. If your phone can&apos;t connect, try turning it off.</source>
-        <translation type="unfinished"></translation>
+        <translation>Las VPN suelen impedir que los dispositivos de tu red se conecten a esta PC. Si tu teléfono no puede conectarse, intenta desactivarla.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="244"/>
         <source>While away</source>
-        <translation type="unfinished"></translation>
+        <translation>A distancia</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="245"/>
         <source>Windows Firewall blocks NectarLink</source>
-        <translation type="unfinished"></translation>
+        <translation>El Firewall de Windows bloquea NectarLink</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="246"/>
         <source>Windows Firewall is off for this network</source>
-        <translation type="unfinished"></translation>
+        <translation>El Firewall de Windows está desactivado para esta red</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="247"/>
         <source>Windows Firewall lets your phone connect</source>
-        <translation type="unfinished"></translation>
+        <translation>El Firewall de Windows permite que tu teléfono se conecte</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="248"/>
         <source>Your phone can control this PC</source>
-        <translation type="unfinished"></translation>
+        <translation>Tu teléfono puede controlar esta PC</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="249"/>
         <source>Your phone can show this PC&apos;s screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Tu teléfono puede mostrar la pantalla de esta PC</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="250"/>
         <source>Your phone can&apos;t control this PC yet</source>
-        <translation type="unfinished"></translation>
+        <translation>Tu teléfono todavía no puede controlar esta PC</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="251"/>
         <source>Your phone may not be able to connect. Allow it once here.</source>
-        <translation type="unfinished"></translation>
+        <translation>Es posible que tu teléfono no pueda conectarse. Permítelo aquí una vez.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="252"/>
         <source>a minute ago</source>
-        <translation type="unfinished"></translation>
+        <translation>hace un minuto</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="253"/>
         <source>an hour ago</source>
-        <translation type="unfinished"></translation>
+        <translation>hace una hora</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="254"/>
         <source>just now</source>
-        <translation type="unfinished"></translation>
+        <translation>justo ahora</translation>
     </message>
 </context>
 <context>
@@ -2232,7 +2232,7 @@
     <message>
         <location filename="../../qml/components/DoctorSheet.qml" line="20"/>
         <source>Allow</source>
-        <translation type="unfinished"></translation>
+        <translation>Permitir</translation>
     </message>
     <message>
         <location filename="../../qml/components/DoctorSheet.qml" line="21"/>
@@ -3213,7 +3213,7 @@ What it needs
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="136"/>
         <source>just now</source>
-        <translation type="unfinished"></translation>
+        <translation>justo ahora</translation>
     </message>
     <message numerus="yes">
         <location filename="../../qml/pages/HomePage.qml" line="137"/>
@@ -4541,7 +4541,7 @@ What it needs
         <location filename="../../qml/MainWindow.qml" line="1095"/>
         <location filename="../../qml/MainWindow.qml" line="1144"/>
         <source>Allow</source>
-        <translation type="unfinished"></translation>
+        <translation>Permitir</translation>
     </message>
     <message>
         <location filename="../../qml/MainWindow.qml" line="1122"/>
@@ -5553,7 +5553,7 @@ What it needs
     <message>
         <location filename="../../qml/pages/PairingPanel.qml" line="296"/>
         <source>Connecting to %1…</source>
-        <translation type="unfinished"></translation>
+        <translation>Conectando a %1…</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PairingPanel.qml" line="297"/>
