@@ -7327,72 +7327,72 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2622"/>
         <source>Scan &amp; paste document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Escanear y pegar documento.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2667"/>
         <source>Scan document shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Atajo para escanear documentos</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2683"/>
         <source>Trigger-action rules</source>
-        <translation type="unfinished"></translation>
+        <translation>Reglas de activación y acción</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2684"/>
         <source>Run actions when your phone connects, disconnects, or rings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ejecutar acciones cuando tu teléfono se conecte, desconecte o suene.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2691"/>
         <source>Lock PC on disconnect</source>
-        <translation type="unfinished"></translation>
+        <translation>Bloquear la PC al desconectarse</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2698"/>
         <source>Pause media on ring</source>
-        <translation type="unfinished"></translation>
+        <translation>Pausar multimedia al sonar</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2751"/>
         <source>OBS Studio</source>
-        <translation type="unfinished"></translation>
+        <translation>OBS Studio</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2752"/>
         <source>For Deck tiles that run obs: commands. Turn on OBS&apos;s WebSocket server in Tools › WebSocket Server Settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Para mosaicos del panel que ejecutan comandos obs:. Activa el servidor WebSocket de OBS en Herramientas › Ajustes del servidor WebSocket.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2760"/>
         <source>Port</source>
-        <translation type="unfinished"></translation>
+        <translation>Puerto</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2784"/>
         <source>OBS WebSocket port</source>
-        <translation type="unfinished"></translation>
+        <translation>Puerto WebSocket de OBS</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2791"/>
         <source>Password</source>
-        <translation type="unfinished"></translation>
+        <translation>Contraseña</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2813"/>
         <source>OBS WebSocket password</source>
-        <translation type="unfinished"></translation>
+        <translation>Contraseña de WebSocket de OBS</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2819"/>
         <source>Saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardado</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2819"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Ninguno</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2828"/>
@@ -7402,12 +7402,12 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2839"/>
         <source>Test connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Probar conexión</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2846"/>
         <source>Remove password</source>
-        <translation type="unfinished"></translation>
+        <translation>Quitar contraseña</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2886"/>
@@ -7418,7 +7418,7 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2890"/>
         <source>%1 clips · %2 · kept 7 days</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 elementos · %2 · se conservan 7 días</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2899"/>
@@ -7434,12 +7434,12 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2901"/>
         <source>Clear clipboard history?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Borrar el historial del portapapeles?</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2902"/>
         <source>Deletes the clips kept on this PC. What&apos;s on the clipboard now stays.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elimina los elementos guardados en esta PC. El contenido actual del portapapeles se conserva.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2943"/>
@@ -7450,57 +7450,57 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2947"/>
         <source>%1 alerts · %2 · kept 24h</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 alertas · %2 · se conservan 24 h</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2959"/>
         <source>Clear notification history?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Borrar el historial de notificaciones?</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2960"/>
         <source>Deletes the notifications kept after they went away. Ones still showing stay.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elimina las notificaciones guardadas después de desaparecer. Las que siguen visibles se conservan.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2982"/>
         <source>Cross-device timeline</source>
-        <translation type="unfinished"></translation>
+        <translation>Historial entre dispositivos</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2986"/>
         <source>1 item stored (max 5,000).</source>
-        <translation type="unfinished"></translation>
+        <translation>1 elemento almacenado (máx. 5,000).</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2987"/>
         <source>%1 items stored (max 5,000).</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 elementos almacenados (máx. 5,000).</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2998"/>
         <source>Clear the Timeline?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Borrar el historial?</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2999"/>
         <source>Deletes the Timeline&apos;s entries on this PC. Files stay where they were saved.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elimina las entradas del historial de esta PC. Los archivos permanecen donde se guardaron.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3015"/>
         <source>30d</source>
-        <translation type="unfinished"></translation>
+        <translation>30 días</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3016"/>
         <source>90d</source>
-        <translation type="unfinished"></translation>
+        <translation>90 días</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3017"/>
         <source>1y</source>
-        <translation type="unfinished"></translation>
+        <translation>1 año</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3018"/>
@@ -7510,77 +7510,77 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3033"/>
         <source>Cached messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Mensajes en caché</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3041"/>
         <source>1 chat</source>
-        <translation type="unfinished"></translation>
+        <translation>1 chat</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3041"/>
         <source>%1 chats</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 chats</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3042"/>
         <source>1 message</source>
-        <translation type="unfinished"></translation>
+        <translation>1 mensaje</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3042"/>
         <source>%1 messages</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 mensajes</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3043"/>
         <source>%1 · %2 · %3 · kept 90 days</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 · %2 · %3 · se conserva 90 días</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3077"/>
         <source>Photo thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>Miniaturas de fotos</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3081"/>
         <source>%1 cached · %2 · kept 30 days</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 en caché · %2 · se conservan 30 días</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3115"/>
         <source>Transfer history</source>
-        <translation type="unfinished"></translation>
+        <translation>Historial de transferencias</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3118"/>
         <source>%1 records · kept with timeline</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 registros · se conservan con el historial</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3126"/>
         <source>Clear transfer history?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Borrar el historial de transferencias?</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3127"/>
         <source>Deletes the list of past transfers. The files stay where they were saved.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elimina la lista de transferencias anteriores. Los archivos permanecen donde se guardaron.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3138"/>
         <source>Clear all local history &amp; caches</source>
-        <translation type="unfinished"></translation>
+        <translation>Borrar todo el historial y las cachés locales</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3139"/>
         <source>Wipes local history and caches; keeps paired devices and settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Borra el historial y las cachés locales; conserva los dispositivos vinculados y los ajustes.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3144"/>
         <source>Clear everything…</source>
-        <translation type="unfinished"></translation>
+        <translation>Borrar todo…</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3167"/>
@@ -7590,12 +7590,12 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3168"/>
         <source>Diagnose and fix firewall, network, or VPN issues.</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagnostica y corrige problemas de firewall, red o VPN.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3172"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Comprobar</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3180"/>
@@ -7605,27 +7605,27 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3181"/>
         <source>Stay connected over LTE/5G or relay when away from Wi-Fi.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mantén la conexión mediante LTE/5G o un repetidor cuando estés fuera de Wi-Fi.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3191"/>
         <source>Wake from your phone</source>
-        <translation type="unfinished"></translation>
+        <translation>Activar desde tu teléfono</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3196"/>
         <source>No active network adapter found.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se encontró un adaptador de red activo.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3198"/>
         <source>%1 · Wake on Magic Packet ready.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 · Activación por Magic Packet lista.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3199"/>
         <source>%1 · Enable Wake on Magic Packet in Device Manager.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 · Activa Wake on Magic Packet en el Administrador de dispositivos.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3213"/>
