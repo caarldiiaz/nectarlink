@@ -372,42 +372,42 @@
     <message>
         <location filename="../../qml/components/CallCard.qml" line="142"/>
         <source>Hold</source>
-        <translation type="unfinished"></translation>
+        <translation>Poner en espera</translation>
     </message>
     <message>
         <location filename="../../qml/components/CallCard.qml" line="148"/>
         <source>Keypad</source>
-        <translation type="unfinished"></translation>
+        <translation>Teclado numérico</translation>
     </message>
     <message>
         <location filename="../../qml/components/CallCard.qml" line="209"/>
         <source>Mute, speaker and keypad need Elevated on the phone (Android 12 or later).</source>
-        <translation type="unfinished"></translation>
+        <translation>Silenciar, altavoz y teclado numérico requieren el nivel Avanzado en el teléfono (Android 12 o posterior).</translation>
     </message>
     <message>
         <location filename="../../qml/components/CallCard.qml" line="232"/>
         <source>Connect PC audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Conectar audio de la PC</translation>
     </message>
     <message>
         <location filename="../../qml/components/CallCard.qml" line="232"/>
         <source>Bluetooth settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajustes de Bluetooth</translation>
     </message>
     <message>
         <location filename="../../qml/components/CallCard.qml" line="250"/>
         <source>Call volume down</source>
-        <translation type="unfinished"></translation>
+        <translation>Bajar volumen de llamada</translation>
     </message>
     <message>
         <location filename="../../qml/components/CallCard.qml" line="259"/>
         <source>End call</source>
-        <translation type="unfinished"></translation>
+        <translation>Finalizar llamada</translation>
     </message>
     <message>
         <location filename="../../qml/components/CallCard.qml" line="302"/>
         <source>Call volume up</source>
-        <translation type="unfinished"></translation>
+        <translation>Subir volumen de llamada</translation>
     </message>
 </context>
 <context>
@@ -415,27 +415,27 @@
     <message>
         <location filename="../rust_strings.h" line="47"/>
         <source>Calling %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Llamando a %1</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="48"/>
         <source>Missed call from %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Llamada perdida de %1</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="49"/>
         <source>On a call with %1</source>
-        <translation type="unfinished"></translation>
+        <translation>En llamada con %1</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="50"/>
         <source>That call is over.</source>
-        <translation type="unfinished"></translation>
+        <translation>La llamada terminó.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="51"/>
         <source>Unknown caller</source>
-        <translation type="unfinished"></translation>
+        <translation>Llamada desconocida</translation>
     </message>
 </context>
 <context>
@@ -443,40 +443,40 @@
     <message>
         <location filename="../../qml/pages/CallsPage.qml" line="68"/>
         <source>Today</source>
-        <translation type="unfinished"></translation>
+        <translation>Hoy</translation>
     </message>
     <message>
         <location filename="../../qml/pages/CallsPage.qml" line="69"/>
         <location filename="../../qml/pages/CallsPage.qml" line="86"/>
         <source>Yesterday</source>
-        <translation type="unfinished"></translation>
+        <translation>Ayer</translation>
     </message>
     <message>
         <location filename="../../qml/pages/CallsPage.qml" line="102"/>
         <source>%1s</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 s</translation>
     </message>
     <message>
         <location filename="../../qml/pages/CallsPage.qml" line="186"/>
         <source>Call from your PC</source>
-        <translation type="unfinished"></translation>
+        <translation>Llamar desde tu PC</translation>
     </message>
     <message>
         <location filename="../../qml/pages/CallsPage.qml" line="187"/>
         <location filename="../../qml/pages/CallsPage.qml" line="327"/>
         <location filename="../../qml/pages/CallsPage.qml" line="413"/>
         <source>%1 isn&apos;t connected</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 no está conectado</translation>
     </message>
     <message>
         <location filename="../../qml/pages/CallsPage.qml" line="195"/>
         <source>Pair your phone to view calls and contacts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vincula tu teléfono para ver llamadas y contactos.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/CallsPage.qml" line="196"/>
         <source>Connect %1 to view calls and contacts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Conecta %1 para ver llamadas y contactos.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/CallsPage.qml" line="216"/>
@@ -487,7 +487,7 @@
         <location filename="../../qml/pages/CallsPage.qml" line="217"/>
         <location filename="../../qml/pages/CallsPage.qml" line="1102"/>
         <source>Contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>Contactos</translation>
     </message>
     <message>
         <location filename="../../qml/pages/CallsPage.qml" line="227"/>
@@ -498,53 +498,53 @@
         <location filename="../../qml/pages/CallsPage.qml" line="267"/>
         <location filename="../../qml/pages/CallsPage.qml" line="277"/>
         <source>Search calls</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscar llamadas</translation>
     </message>
     <message>
         <location filename="../../qml/pages/CallsPage.qml" line="267"/>
         <location filename="../../qml/pages/CallsPage.qml" line="277"/>
         <source>Search contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscar contactos</translation>
     </message>
     <message>
         <location filename="../../qml/pages/CallsPage.qml" line="288"/>
         <source>Clear search</source>
-        <translation type="unfinished"></translation>
+        <translation>Borrar búsqueda</translation>
     </message>
     <message>
         <location filename="../../qml/pages/CallsPage.qml" line="325"/>
         <source>Calls are off for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Las llamadas están desactivadas para %1</translation>
     </message>
     <message>
         <location filename="../../qml/pages/CallsPage.qml" line="326"/>
         <source>Allow call log on %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Permite el acceso al registro de llamadas en %1</translation>
     </message>
     <message>
         <location filename="../../qml/pages/CallsPage.qml" line="328"/>
         <source>Couldn&apos;t load recent calls</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudieron cargar las llamadas recientes</translation>
     </message>
     <message>
         <location filename="../../qml/pages/CallsPage.qml" line="336"/>
         <source>Enable Calls in Settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Activa Llamadas en Ajustes.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/CallsPage.qml" line="337"/>
         <source>Grant call log permission on %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Concede el permiso de registro de llamadas en %1.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/CallsPage.qml" line="338"/>
         <source>Connect %1 to view recent calls.</source>
-        <translation type="unfinished"></translation>
+        <translation>Conecta %1 para ver las llamadas recientes.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/CallsPage.qml" line="339"/>
         <source>Unable to load call log.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo cargar el registro de llamadas.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/CallsPage.qml" line="346"/>
@@ -555,141 +555,141 @@
     <message>
         <location filename="../../qml/pages/CallsPage.qml" line="374"/>
         <source>No calls match.</source>
-        <translation type="unfinished"></translation>
+        <translation>No hay llamadas que coincidan.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/CallsPage.qml" line="374"/>
         <source>No recent calls.</source>
-        <translation type="unfinished"></translation>
+        <translation>No hay llamadas recientes.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/CallsPage.qml" line="411"/>
         <source>Contacts are off for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Los contactos están desactivados para %1</translation>
     </message>
     <message>
         <location filename="../../qml/pages/CallsPage.qml" line="412"/>
         <source>Allow contacts on %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Permite el acceso a contactos en %1</translation>
     </message>
     <message>
         <location filename="../../qml/pages/CallsPage.qml" line="414"/>
         <source>Couldn&apos;t load contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudieron cargar los contactos</translation>
     </message>
     <message>
         <location filename="../../qml/pages/CallsPage.qml" line="422"/>
         <source>Enable Contacts in Settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Activa Contactos en Ajustes.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/CallsPage.qml" line="423"/>
         <source>Grant contacts permission on %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Concede el permiso de Contactos en %1.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/CallsPage.qml" line="424"/>
         <source>Connect %1 to view contacts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Conecta %1 para ver los contactos.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/CallsPage.qml" line="425"/>
         <source>Unable to load contacts.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudieron cargar los contactos.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/CallsPage.qml" line="454"/>
         <source>No contacts match.</source>
-        <translation type="unfinished"></translation>
+        <translation>No hay contactos que coincidan.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/CallsPage.qml" line="454"/>
         <source>No contacts on this phone.</source>
-        <translation type="unfinished"></translation>
+        <translation>No hay contactos en este teléfono.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/CallsPage.qml" line="545"/>
         <source>Close contact</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerrar contacto</translation>
     </message>
     <message>
         <location filename="../../qml/pages/CallsPage.qml" line="585"/>
         <source>Copy number</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar número</translation>
     </message>
     <message>
         <location filename="../../qml/pages/CallsPage.qml" line="591"/>
         <location filename="../../qml/pages/CallsPage.qml" line="1032"/>
         <location filename="../../qml/pages/CallsPage.qml" line="1201"/>
         <source>Text %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar mensaje a %1</translation>
     </message>
     <message>
         <location filename="../../qml/pages/CallsPage.qml" line="599"/>
         <location filename="../../qml/pages/CallsPage.qml" line="1040"/>
         <location filename="../../qml/pages/CallsPage.qml" line="1210"/>
         <source>Call %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Llamar a %1</translation>
     </message>
     <message>
         <location filename="../../qml/pages/CallsPage.qml" line="652"/>
         <source>Phone number to call</source>
-        <translation type="unfinished"></translation>
+        <translation>Número al que llamar</translation>
     </message>
     <message>
         <location filename="../../qml/pages/CallsPage.qml" line="660"/>
         <source>Enter a number</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingresa un número</translation>
     </message>
     <message>
         <location filename="../../qml/pages/CallsPage.qml" line="687"/>
         <source>Backspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Retroceso</translation>
     </message>
     <message>
         <location filename="../../qml/pages/CallsPage.qml" line="789"/>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Mensaje</translation>
     </message>
     <message>
         <location filename="../../qml/pages/CallsPage.qml" line="801"/>
         <source>Calling…</source>
-        <translation type="unfinished"></translation>
+        <translation>Llamando…</translation>
     </message>
     <message>
         <location filename="../../qml/pages/CallsPage.qml" line="801"/>
         <source>Call</source>
-        <translation type="unfinished"></translation>
+        <translation>Llamar</translation>
     </message>
     <message>
         <location filename="../../qml/pages/CallsPage.qml" line="810"/>
         <source>Clear number</source>
-        <translation type="unfinished"></translation>
+        <translation>Borrar número</translation>
     </message>
     <message>
         <location filename="../../qml/pages/CallsPage.qml" line="825"/>
         <source>Call with</source>
-        <translation type="unfinished"></translation>
+        <translation>Llamar con</translation>
     </message>
     <message>
         <location filename="../../qml/pages/CallsPage.qml" line="864"/>
         <source>PC call audio connected</source>
-        <translation type="unfinished"></translation>
+        <translation>Audio de llamada de la PC conectado</translation>
     </message>
     <message>
         <location filename="../../qml/pages/CallsPage.qml" line="865"/>
         <source>PC call audio ready</source>
-        <translation type="unfinished"></translation>
+        <translation>Audio de llamada de la PC listo</translation>
     </message>
     <message>
         <location filename="../../qml/pages/CallsPage.qml" line="866"/>
         <source>PC call audio (Bluetooth)</source>
-        <translation type="unfinished"></translation>
+        <translation>Audio de llamada de la PC (Bluetooth)</translation>
     </message>
     <message>
         <location filename="../../qml/pages/CallsPage.qml" line="880"/>
         <source>Connect PC audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Conectar audio de la PC</translation>
     </message>
     <message>
         <location filename="../../qml/pages/CallsPage.qml" line="880"/>
@@ -833,7 +833,7 @@
     <message>
         <location filename="../../qml/components/CommandPalette.qml" line="199"/>
         <source>Clear search</source>
-        <translation type="unfinished"></translation>
+        <translation>Borrar búsqueda</translation>
     </message>
     <message>
         <location filename="../../qml/components/CommandPalette.qml" line="199"/>
@@ -878,7 +878,7 @@
     <message>
         <location filename="../rust_strings.h" line="67"/>
         <source>Call %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Llamar a %1</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="68"/>
@@ -1278,7 +1278,7 @@
     <message>
         <location filename="../rust_strings.h" line="147"/>
         <source>Text %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar mensaje a %1</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="148"/>
@@ -1929,7 +1929,7 @@
     <message>
         <location filename="../rust_strings.h" line="195"/>
         <source>%1 isn&apos;t connected</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 no está conectado</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="196"/>
@@ -2485,7 +2485,7 @@
     <message>
         <location filename="../../qml/pages/FeaturesGuidePage.qml" line="727"/>
         <source>Clear search</source>
-        <translation type="unfinished"></translation>
+        <translation>Borrar búsqueda</translation>
     </message>
     <message>
         <location filename="../../qml/pages/FeaturesGuidePage.qml" line="902"/>
@@ -4640,13 +4640,13 @@ What it needs
     <message>
         <location filename="../../qml/pages/MessagesPage.qml" line="91"/>
         <source>Today</source>
-        <translation type="unfinished"></translation>
+        <translation>Hoy</translation>
     </message>
     <message>
         <location filename="../../qml/pages/MessagesPage.qml" line="92"/>
         <location filename="../../qml/pages/MessagesPage.qml" line="210"/>
         <source>Yesterday</source>
-        <translation type="unfinished"></translation>
+        <translation>Ayer</translation>
     </message>
     <message>
         <location filename="../../qml/pages/MessagesPage.qml" line="233"/>
@@ -4656,7 +4656,7 @@ What it needs
     <message>
         <location filename="../../qml/pages/MessagesPage.qml" line="234"/>
         <source>%1 isn&apos;t connected</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 no está conectado</translation>
     </message>
     <message>
         <location filename="../../qml/pages/MessagesPage.qml" line="235"/>
@@ -4731,7 +4731,7 @@ What it needs
     <message>
         <location filename="../../qml/pages/MessagesPage.qml" line="359"/>
         <source>Clear search</source>
-        <translation type="unfinished"></translation>
+        <translation>Borrar búsqueda</translation>
     </message>
     <message>
         <location filename="../../qml/pages/MessagesPage.qml" line="413"/>
@@ -4766,12 +4766,12 @@ What it needs
     <message>
         <location filename="../../qml/pages/MessagesPage.qml" line="552"/>
         <source>Call %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Llamar a %1</translation>
     </message>
     <message>
         <location filename="../../qml/pages/MessagesPage.qml" line="552"/>
         <source>Call</source>
-        <translation type="unfinished"></translation>
+        <translation>Llamar</translation>
     </message>
     <message>
         <location filename="../../qml/pages/MessagesPage.qml" line="562"/>
@@ -5818,13 +5818,13 @@ What it needs
         <location filename="../../qml/pages/PhotosPage.qml" line="72"/>
         <location filename="../../qml/pages/PhotosPage.qml" line="87"/>
         <source>Today</source>
-        <translation type="unfinished"></translation>
+        <translation>Hoy</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PhotosPage.qml" line="73"/>
         <location filename="../../qml/pages/PhotosPage.qml" line="88"/>
         <source>Yesterday</source>
-        <translation type="unfinished"></translation>
+        <translation>Ayer</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PhotosPage.qml" line="111"/>
@@ -5870,7 +5870,7 @@ What it needs
         <location filename="../../qml/pages/PhotosPage.qml" line="274"/>
         <location filename="../../qml/pages/PhotosPage.qml" line="612"/>
         <source>%1 isn&apos;t connected</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 no está conectado</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PhotosPage.qml" line="283"/>
@@ -6396,7 +6396,7 @@ What it needs
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="166"/>
         <source>Contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>Contactos</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="167"/>
@@ -8532,12 +8532,12 @@ What it needs
     <message>
         <location filename="../../qml/pages/TimelinePage.qml" line="87"/>
         <source>Today</source>
-        <translation type="unfinished"></translation>
+        <translation>Hoy</translation>
     </message>
     <message>
         <location filename="../../qml/pages/TimelinePage.qml" line="89"/>
         <source>Yesterday</source>
-        <translation type="unfinished"></translation>
+        <translation>Ayer</translation>
     </message>
     <message>
         <location filename="../../qml/pages/TimelinePage.qml" line="171"/>
@@ -8552,7 +8552,7 @@ What it needs
     <message>
         <location filename="../../qml/pages/TimelinePage.qml" line="194"/>
         <source>Clear search</source>
-        <translation type="unfinished"></translation>
+        <translation>Borrar búsqueda</translation>
     </message>
     <message>
         <location filename="../../qml/pages/TimelinePage.qml" line="213"/>
