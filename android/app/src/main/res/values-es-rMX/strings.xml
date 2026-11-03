@@ -625,4 +625,57 @@
     <string name="remote_key_shift">Mayús</string>
     <string name="remote_key_win">Win</string>
 
+
+    <!-- Teclas, cámara web, transferencias y widgets -->
+    <string name="remote_key_esc">Esc</string>
+    <string name="remote_key_esc_desc">Tecla Escape</string>
+    <string name="remote_key_tab">Tab</string>
+    <string name="remote_key_left_desc">Flecha izquierda</string>
+    <string name="remote_key_up_desc">Flecha arriba</string>
+    <string name="remote_key_down_desc">Flecha abajo</string>
+    <string name="remote_key_right_desc">Flecha derecha</string>
+    <string name="remote_key_home">Inicio</string>
+    <string name="remote_key_end">Fin</string>
+    <string name="remote_key_del">Supr</string>
+    <string name="remote_key_del_desc">Tecla Suprimir</string>
+    <string name="remote_key_copy">Copiar</string>
+    <string name="remote_key_paste">Pegar</string>
+    <string name="webcam_stream_spec">Transmisión: %1$s</string>
+    <string name="webcam_stream_camera_spec">Cámara %1$s · %2$s</string>
+    <string name="webcam_status_streaming_camera">Transmitiendo desde la cámara</string>
+    <string name="webcam_res_720p">HD (720p)</string>
+    <string name="webcam_res_1080p">Full HD (1080p)</string>
+    <string name="webcam_res_4k">4K</string>
+    <string name="webcam_zoom_preset">Zoom %1$s</string>
+    <string name="transfer_requested_from_size">%1$s solicita enviar %2$s (%3$s)</string>
+    <string name="transfer_sending_progress">Enviando · %1$s de %2$s</string>
+    <string name="transfer_receiving_progress">Recibiendo · %1$s de %2$s</string>
+    <string name="clipboard_history_meta">%1$s · %2$s</string>
+    <string name="clipboard_history_meta_pinned">%1$s · %2$s · Fijado</string>
+    <string name="timeline_latest_summary">Último elemento: %1$s</string>
+    <string name="recorder_marker_chip">Marca %1$d · %2$s</string>
+    <string name="handoff_map_from">Mapa desde %1$s</string>
+    <string name="handoff_video_from">Video desde %1$s</string>
+    <string name="handoff_action_continue_video">Continuar viendo</string>
+    <string name="handoff_doc_received_from">Documento recibido de %1$s</string>
+    <string name="keyboard_from_pc_banner">Teclado de %1$s conectado</string>
+    <string name="keyboard_stop">Desconectar teclado</string>
+    <string name="widget_pc_title">NectarLink</string>
+    <string name="widget_pc_description">Estado y acciones rápidas de tu PC vinculada</string>
+    <string name="widget_pc_no_pc">No hay ninguna PC vinculada</string>
+    <string name="widget_pc_tap_to_pair">Toca para vincular una PC</string>
+    <string name="widget_pc_connected">Conectado</string>
+    <string name="widget_pc_offline">Sin conexión</string>
+    <string name="widget_pc_waking">Activando…</string>
+    <string name="widget_pc_wake">Activar PC</string>
+    <string name="widget_pc_send_clip">Enviar portapapeles</string>
+    <string name="widget_pc_ring">Hacer sonar</string>
+    <string name="widget_pc_lock">Bloquear</string>
+    <string name="widget_pc_ringing_toast">Se está haciendo sonar la PC</string>
+    <string name="widget_pc_waking_toast">Se está enviando la señal para activar la PC</string>
+    <string name="companion_wake_title">Activación de la PC</string>
+    <string name="companion_wake_on">Permitir que NectarLink active esta PC</string>
+    <string name="companion_wake_off">No permitir la activación remota de esta PC</string>
+    <string name="companion_wake_associate">Asociar dispositivo para activación</string>
+
 </resources>
