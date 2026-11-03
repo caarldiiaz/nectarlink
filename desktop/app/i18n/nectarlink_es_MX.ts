@@ -6682,82 +6682,82 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="818"/>
         <source>Still while animations are off in Windows.</source>
-        <translation type="unfinished"></translation>
+        <translation>Estático mientras las animaciones estén desactivadas en Windows.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="820"/>
         <source>Still while energy saver is on.</source>
-        <translation type="unfinished"></translation>
+        <translation>Estático mientras esté activado el ahorro de energía.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="821"/>
         <source>The honeycomb breathes and pulses.</source>
-        <translation type="unfinished"></translation>
+        <translation>El panal respira y pulsa suavemente.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="855"/>
         <source>Pitch-black #000000 surfaces.</source>
-        <translation type="unfinished"></translation>
+        <translation>Superficies negro absoluto #000000.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="889"/>
         <location filename="../../qml/pages/SettingsPage.qml" line="892"/>
         <source>Mica backdrop</source>
-        <translation type="unfinished"></translation>
+        <translation>Fondo Mica</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="890"/>
         <source>Tint window with desktop wallpaper.</source>
-        <translation type="unfinished"></translation>
+        <translation>Teñir la ventana con el fondo de escritorio.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="920"/>
         <location filename="../../qml/pages/SettingsPage.qml" line="3642"/>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Idioma</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="922"/>
         <source>NectarLink follows the system unless you pick one.</source>
-        <translation type="unfinished"></translation>
+        <translation>NectarLink usa el idioma del sistema, salvo que elijas otro.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="923"/>
         <source>NectarLink follows Windows unless you pick one.</source>
-        <translation type="unfinished"></translation>
+        <translation>NectarLink usa el idioma de Windows, salvo que elijas otro.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="931"/>
         <source>More</source>
-        <translation type="unfinished"></translation>
+        <translation>Más</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="961"/>
         <location filename="../../qml/pages/SettingsPage.qml" line="964"/>
         <source>Start with Windows</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciar con Windows</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="961"/>
         <location filename="../../qml/pages/SettingsPage.qml" line="964"/>
         <source>Start at login</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciar al iniciar sesión</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="962"/>
         <source>Launch in the tray when you sign in.</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciar en la bandeja del sistema al iniciar sesión.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="994"/>
         <location filename="../../qml/pages/SettingsPage.qml" line="997"/>
         <source>Stay in system tray</source>
-        <translation type="unfinished"></translation>
+        <translation>Permanecer en la bandeja del sistema</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="995"/>
         <source>Keep running when the window is closed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seguir ejecutándose al cerrar la ventana.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1026"/>
@@ -6768,28 +6768,28 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1027"/>
         <source>Top-screen pill for calls, transfers &amp; media.</source>
-        <translation type="unfinished"></translation>
+        <translation>Indicador en la parte superior para llamadas, transferencias y multimedia.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1058"/>
         <location filename="../../qml/pages/SettingsPage.qml" line="1061"/>
         <source>Battery alerts</source>
-        <translation type="unfinished"></translation>
+        <translation>Alertas de batería</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1059"/>
         <source>Notify when phone battery is low or full.</source>
-        <translation type="unfinished"></translation>
+        <translation>Avisar cuando la batería del teléfono esté baja o llena.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1080"/>
         <source>Island triggers</source>
-        <translation type="unfinished"></translation>
+        <translation>Activadores de Island</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1081"/>
         <source>Choose when the top pill appears.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elige cuándo aparece el indicador superior.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1090"/>
@@ -6804,72 +6804,72 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1092"/>
         <source>Alerts</source>
-        <translation type="unfinished"></translation>
+        <translation>Alertas</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1190"/>
         <location filename="../../qml/pages/SettingsPage.qml" line="1193"/>
         <source>Sync clipboard to phone</source>
-        <translation type="unfinished"></translation>
+        <translation>Sincronizar portapapeles con el teléfono</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1191"/>
         <source>Share copied text and images with your phone.</source>
-        <translation type="unfinished"></translation>
+        <translation>Compartir texto e imágenes copiadas con tu teléfono.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1204"/>
         <location filename="../../qml/pages/SettingsPage.qml" line="1207"/>
         <source>Clipboard follows control</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar portapapeles al controlar</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1205"/>
         <source>Send your clipboard to the phone when you start controlling it, or when the mouse moves into its window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar el portapapeles al teléfono cuando empieces a controlarlo o cuando el mouse entre en su ventana.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1231"/>
         <location filename="../../qml/pages/SettingsPage.qml" line="1234"/>
         <source>Copy one-time codes</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar códigos de un solo uso</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1232"/>
         <source>Auto-copy verification codes from texts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar automáticamente los códigos de verificación de los mensajes.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1263"/>
         <location filename="../../qml/pages/SettingsPage.qml" line="1266"/>
         <source>Copy received files</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar archivos recibidos</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1264"/>
         <source>Ready to Ctrl+V incoming files anywhere.</source>
-        <translation type="unfinished"></translation>
+        <translation>Listos para pegar archivos recibidos con Ctrl+V en cualquier lugar.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1279"/>
         <location filename="../../qml/pages/SettingsPage.qml" line="1282"/>
         <source>Suggest clipboard actions</source>
-        <translation type="unfinished"></translation>
+        <translation>Sugerir acciones del portapapeles</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1280"/>
         <source>Open links, maps, numbers &amp; emails from phone clips.</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir enlaces, mapas, números y correos desde elementos copiados del teléfono.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1355"/>
         <source>No phones paired yet</source>
-        <translation type="unfinished"></translation>
+        <translation>Todavía no hay teléfonos vinculados</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1360"/>
         <source>Pair your phone to get started.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vincula tu teléfono para comenzar.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1369"/>
@@ -6879,43 +6879,43 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1410"/>
         <source>Connected</source>
-        <translation type="unfinished"></translation>
+        <translation>Conectado</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1410"/>
         <source>Not connected</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin conexión</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1422"/>
         <location filename="../../qml/pages/SettingsPage.qml" line="3713"/>
         <source>Unpair</source>
-        <translation type="unfinished"></translation>
+        <translation>Desvincular</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1437"/>
         <source>Join this phone&apos;s hotspot</source>
-        <translation type="unfinished"></translation>
+        <translation>Conectarse al punto de acceso de este teléfono</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1439"/>
         <source>When Instant Hotspot turns it on, this PC joins %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuando Punto de acceso instantáneo lo active, esta PC se conectará a %1.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1441"/>
         <source>Join the phone&apos;s hotspot once from your system Wi-Fi list, then choose it here.</source>
-        <translation type="unfinished"></translation>
+        <translation>Conéctate una vez al punto de acceso del teléfono desde la lista Wi-Fi del sistema y después selecciónalo aquí.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1442"/>
         <source>Join the phone&apos;s hotspot once from Windows&apos; Wi-Fi list, then choose it here.</source>
-        <translation type="unfinished"></translation>
+        <translation>Conéctate una vez al punto de acceso del teléfono desde la lista Wi-Fi de Windows y después selecciónalo aquí.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1446"/>
         <source>Choose network</source>
-        <translation type="unfinished"></translation>
+        <translation>Elegir red</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1535"/>
@@ -6931,64 +6931,64 @@ Qué necesita
         <location filename="../../qml/pages/SettingsPage.qml" line="1631"/>
         <location filename="../../qml/pages/SettingsPage.qml" line="1634"/>
         <source>Stream PC audio to phone</source>
-        <translation type="unfinished"></translation>
+        <translation>Transmitir audio de la PC al teléfono</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1632"/>
         <source>Listen to PC audio through your phone.</source>
-        <translation type="unfinished"></translation>
+        <translation>Escucha el audio de la PC en tu teléfono.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1663"/>
         <location filename="../../qml/pages/SettingsPage.qml" line="1666"/>
         <source>Pause media during calls</source>
-        <translation type="unfinished"></translation>
+        <translation>Pausar multimedia durante llamadas</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1664"/>
         <source>Auto-pause PC media when phone rings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pausar automáticamente el contenido multimedia de la PC cuando suene el teléfono.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1678"/>
         <location filename="../../qml/pages/SettingsPage.qml" line="1681"/>
         <source>Mute this PC while a phone watches</source>
-        <translation type="unfinished"></translation>
+        <translation>Silenciar esta PC mientras el teléfono reproduce</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1679"/>
         <source>With Play on phone, the phone still gets the sound.</source>
-        <translation type="unfinished"></translation>
+        <translation>Con Reproducir en el teléfono, el teléfono seguirá recibiendo el audio.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1694"/>
         <source>Phone as microphone</source>
-        <translation type="unfinished"></translation>
+        <translation>Usar el teléfono como micrófono</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1696"/>
         <source>Live from %1, playing into %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>En vivo desde %1, reproduciendo en %2.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1698"/>
         <source>Tap Start on %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Toca Iniciar en %1.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1700"/>
         <source>Plays into %1, so apps can pick its other end as a microphone.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se reproduce en %1 para que las apps puedan usar el otro extremo como micrófono.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1701"/>
         <source>Plays into %1. To use it as a microphone in other apps, install a virtual audio cable such as VB-CABLE.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se reproduce en %1. Para usarlo como micrófono en otras apps, instala un cable de audio virtual como VB-CABLE.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1707"/>
         <source>Output</source>
-        <translation type="unfinished"></translation>
+        <translation>Salida</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="1717"/>
@@ -9153,13 +9153,13 @@ Qué necesita
         <location filename="../../qml/pages/WalkthroughPage.qml" line="1549"/>
         <location filename="../../qml/pages/WalkthroughPage.qml" line="1563"/>
         <source>Start with Windows</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciar con Windows</translation>
     </message>
     <message>
         <location filename="../../qml/pages/WalkthroughPage.qml" line="1549"/>
         <location filename="../../qml/pages/WalkthroughPage.qml" line="1563"/>
         <source>Start at login</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciar al iniciar sesión</translation>
     </message>
     <message>
         <location filename="../../qml/pages/WalkthroughPage.qml" line="1555"/>
