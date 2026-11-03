@@ -6057,7 +6057,7 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/PhotosPage.qml" line="555"/>
         <source>Save (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar (%1)</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PhotosPage.qml" line="556"/>
@@ -6069,37 +6069,37 @@ Qué necesita
         <location filename="../../qml/pages/PhotosPage.qml" line="567"/>
         <location filename="../../qml/pages/PhotosPage.qml" line="850"/>
         <source>Save to folder…</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar en carpeta…</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PhotosPage.qml" line="610"/>
         <source>Photos are off for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Las fotos están desactivadas para %1</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PhotosPage.qml" line="611"/>
         <source>Allow photos on %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Permitir fotos en %1</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PhotosPage.qml" line="613"/>
         <source>Couldn&apos;t load photos</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudieron cargar las fotos</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PhotosPage.qml" line="622"/>
         <source>Enable Photos in Settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Activa Fotos en Ajustes.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PhotosPage.qml" line="624"/>
         <source>Grant photos permission on %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Concede el permiso de Fotos en %1.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PhotosPage.qml" line="627"/>
         <source>Unable to load photos.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudieron cargar las fotos.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PhotosPage.qml" line="639"/>
@@ -6109,48 +6109,48 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/PhotosPage.qml" line="662"/>
         <source>No photos or videos</source>
-        <translation type="unfinished"></translation>
+        <translation>No hay fotos ni videos</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PhotosPage.qml" line="767"/>
         <source>Back to gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>Volver a la galería</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PhotosPage.qml" line="830"/>
         <location filename="../../qml/pages/PhotosPage.qml" line="928"/>
         <source>Play video</source>
-        <translation type="unfinished"></translation>
+        <translation>Reproducir video</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PhotosPage.qml" line="830"/>
         <source>Open in Photos</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir en Fotos</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PhotosPage.qml" line="909"/>
         <source>Loading full resolution…</source>
-        <translation type="unfinished"></translation>
+        <translation>Cargando en resolución completa…</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PhotosPage.qml" line="968"/>
         <source>Previous photo</source>
-        <translation type="unfinished"></translation>
+        <translation>Foto anterior</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PhotosPage.qml" line="981"/>
         <source>Next photo</source>
-        <translation type="unfinished"></translation>
+        <translation>Foto siguiente</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PhotosPage.qml" line="1068"/>
         <source>%1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1</translation>
     </message>
     <message>
         <location filename="../../qml/pages/PhotosPage.qml" line="1250"/>
         <source>Select photo</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar foto</translation>
     </message>
 </context>
 <context>
@@ -6158,32 +6158,32 @@ Qué necesita
     <message>
         <location filename="../rust_strings.h" line="425"/>
         <source>Connect your phone to play on it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Conecta tu teléfono para reproducir en él.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="426"/>
         <source>Media is turned off for %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>El contenido multimedia está desactivado para %1.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="427"/>
         <source>Opening in %1 on %2. Tap the notification there.</source>
-        <translation type="unfinished"></translation>
+        <translation>Abriendo en %1 en %2. Toca la notificación ahí.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="428"/>
         <source>Sent to %1. Tap the notification there.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviado a %1. Toca la notificación ahí.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="429"/>
         <source>Tap the notification on %1 to watch.</source>
-        <translation type="unfinished"></translation>
+        <translation>Toca la notificación en %1 para ver.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="430"/>
         <source>Update NectarLink on %1 to play on it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualiza NectarLink en %1 para reproducir ahí.</translation>
     </message>
 </context>
 <context>
@@ -6191,7 +6191,7 @@ Qué necesita
     <message>
         <location filename="../rust_strings.h" line="431"/>
         <source>Connected to OBS.</source>
-        <translation type="unfinished"></translation>
+        <translation>Conectado a OBS.</translation>
     </message>
 </context>
 <context>
@@ -6199,7 +6199,7 @@ Qué necesita
     <message>
         <location filename="../rust_strings.h" line="432"/>
         <source>Recording from %1 saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Grabación de %1 guardada</translation>
     </message>
 </context>
 <context>
@@ -6207,7 +6207,7 @@ Qué necesita
     <message>
         <location filename="../../qml/setup/SadBee.qml" line="23"/>
         <source>A sad bee</source>
-        <translation type="unfinished"></translation>
+        <translation>Una abeja triste</translation>
     </message>
 </context>
 <context>
@@ -6215,37 +6215,37 @@ Qué necesita
     <message>
         <location filename="../rust_strings.h" line="433"/>
         <source>Copied to your phone&apos;s clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiado al portapapeles de tu teléfono.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="434"/>
         <source>Couldn&apos;t reach %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo contactar a %1.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="435"/>
         <source>Couldn&apos;t send %1</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo enviar %1</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="436"/>
         <source>Couldn&apos;t send to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo enviar a %1</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="437"/>
         <source>Couldn&apos;t share with %1</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo compartir con %1</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="438"/>
         <source>File failed integrity check; partial file kept to resume.</source>
-        <translation type="unfinished"></translation>
+        <translation>El archivo no pasó la verificación de integridad; se conservó la parte recibida para reanudar.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="439"/>
         <source>Send to %1 with NectarLink</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar a %1 con NectarLink</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="440"/>
@@ -6260,7 +6260,7 @@ Qué necesita
     <message>
         <location filename="../rust_strings.h" line="442"/>
         <source>The transfer didn&apos;t go through.</source>
-        <translation type="unfinished"></translation>
+        <translation>La transferencia no se completó.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="443"/>
@@ -6273,32 +6273,32 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="19"/>
         <source>Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>Apariencia</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="19"/>
         <source>Theme, mode &amp; colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Tema, modo y colores</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="20"/>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>General</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="20"/>
         <source>Startup, clipboard &amp; desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicio, portapapeles y escritorio</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="21"/>
         <source>Devices</source>
-        <translation type="unfinished"></translation>
+        <translation>Dispositivos</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="21"/>
         <source>Paired phones &amp; permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>Teléfonos vinculados y permisos</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="22"/>
@@ -6308,7 +6308,7 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="22"/>
         <source>Webcam, speaker &amp; calls</source>
-        <translation type="unfinished"></translation>
+        <translation>Cámara web, altavoz y llamadas</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="23"/>
@@ -6319,57 +6319,57 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="23"/>
         <source>Do not disturb &amp; app rules</source>
-        <translation type="unfinished"></translation>
+        <translation>No molestar y reglas de apps</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="24"/>
         <source>Files &amp; Sync</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivos y sincronización</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="24"/>
         <source>Folder sync, storage &amp; recordings</source>
-        <translation type="unfinished"></translation>
+        <translation>Sincronización de carpetas, almacenamiento y grabaciones</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="25"/>
         <source>Shortcuts &amp; Rules</source>
-        <translation type="unfinished"></translation>
+        <translation>Atajos y reglas</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="25"/>
         <source>Hotkeys &amp; automations</source>
-        <translation type="unfinished"></translation>
+        <translation>Teclas rápidas y automatizaciones</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="26"/>
         <source>Storage &amp; Privacy</source>
-        <translation type="unfinished"></translation>
+        <translation>Almacenamiento y privacidad</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="26"/>
         <source>History, caches &amp; retention</source>
-        <translation type="unfinished"></translation>
+        <translation>Historial, cachés y retención</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="27"/>
         <source>Connection &amp; About</source>
-        <translation type="unfinished"></translation>
+        <translation>Conexión e información</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="27"/>
         <source>Doctor, Wake-on-LAN, API &amp; version</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagnóstico, Wake-on-LAN, API y versión</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="50"/>
         <source>When phone connects</source>
-        <translation type="unfinished"></translation>
+        <translation>Al conectarse el teléfono</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="51"/>
         <source>When phone disconnects</source>
-        <translation type="unfinished"></translation>
+        <translation>Al desconectarse el teléfono</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="52"/>
