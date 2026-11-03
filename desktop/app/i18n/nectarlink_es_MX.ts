@@ -4781,12 +4781,12 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/MessagesPage.qml" line="280"/>
         <source>Conversations</source>
-        <translation type="unfinished"></translation>
+        <translation>Conversaciones</translation>
     </message>
     <message>
         <location filename="../../qml/pages/MessagesPage.qml" line="289"/>
         <source>New message (Ctrl+N)</source>
-        <translation type="unfinished"></translation>
+        <translation>Mensaje nuevo (Ctrl+N)</translation>
     </message>
     <message>
         <location filename="../../qml/pages/MessagesPage.qml" line="298"/>
@@ -4796,12 +4796,12 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/MessagesPage.qml" line="338"/>
         <source>Search conversations</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscar conversaciones</translation>
     </message>
     <message>
         <location filename="../../qml/pages/MessagesPage.qml" line="348"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscar</translation>
     </message>
     <message>
         <location filename="../../qml/pages/MessagesPage.qml" line="359"/>
@@ -4811,32 +4811,32 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/MessagesPage.qml" line="413"/>
         <source>No conversations match.</source>
-        <translation type="unfinished"></translation>
+        <translation>No hay conversaciones que coincidan.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/MessagesPage.qml" line="413"/>
         <source>No conversations yet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Todavía no hay conversaciones.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/MessagesPage.qml" line="464"/>
         <source>Drop image to attach (MMS)</source>
-        <translation type="unfinished"></translation>
+        <translation>Suelta una imagen para adjuntarla (MMS)</translation>
     </message>
     <message>
         <location filename="../../qml/pages/MessagesPage.qml" line="470"/>
         <source>PNG, JPEG, WebP, GIF, or BMP up to 900 KB</source>
-        <translation type="unfinished"></translation>
+        <translation>PNG, JPEG, WebP, GIF o BMP de hasta 900 KB</translation>
     </message>
     <message>
         <location filename="../../qml/pages/MessagesPage.qml" line="480"/>
         <source>Select a conversation</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecciona una conversación</translation>
     </message>
     <message>
         <location filename="../../qml/pages/MessagesPage.qml" line="494"/>
         <source>Back to conversations (Esc)</source>
-        <translation type="unfinished"></translation>
+        <translation>Volver a conversaciones (Esc)</translation>
     </message>
     <message>
         <location filename="../../qml/pages/MessagesPage.qml" line="552"/>
@@ -4851,79 +4851,79 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/MessagesPage.qml" line="562"/>
         <source>Remove conversation from PC</source>
-        <translation type="unfinished"></translation>
+        <translation>Quitar conversación de la PC</translation>
     </message>
     <message>
         <location filename="../../qml/pages/MessagesPage.qml" line="574"/>
         <source>To</source>
-        <translation type="unfinished"></translation>
+        <translation>Para</translation>
     </message>
     <message>
         <location filename="../../qml/pages/MessagesPage.qml" line="585"/>
         <location filename="../../qml/pages/MessagesPage.qml" line="597"/>
         <source>Name or phone number</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre o número telefónico</translation>
     </message>
     <message>
         <location filename="../../qml/pages/MessagesPage.qml" line="768"/>
         <source>No mirrored messages yet</source>
-        <translation type="unfinished"></translation>
+        <translation>Todavía no hay mensajes sincronizados</translation>
     </message>
     <message>
         <location filename="../../qml/pages/MessagesPage.qml" line="769"/>
         <source>No messages</source>
-        <translation type="unfinished"></translation>
+        <translation>No hay mensajes</translation>
     </message>
     <message>
         <location filename="../../qml/pages/MessagesPage.qml" line="819"/>
         <source>%1 · Sent as MMS</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 · Enviado como MMS</translation>
     </message>
     <message>
         <location filename="../../qml/pages/MessagesPage.qml" line="829"/>
         <source>Remove attachment</source>
-        <translation type="unfinished"></translation>
+        <translation>Quitar archivo adjunto</translation>
     </message>
     <message>
         <location filename="../../qml/pages/MessagesPage.qml" line="886"/>
         <source>Attach image (MMS)</source>
-        <translation type="unfinished"></translation>
+        <translation>Adjuntar imagen (MMS)</translation>
     </message>
     <message>
         <location filename="../../qml/pages/MessagesPage.qml" line="921"/>
         <source>Reply in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Responder en %1</translation>
     </message>
     <message>
         <location filename="../../qml/pages/MessagesPage.qml" line="922"/>
         <location filename="../../qml/pages/MessagesPage.qml" line="958"/>
         <source>Text message</source>
-        <translation type="unfinished"></translation>
+        <translation>Mensaje de texto</translation>
     </message>
     <message>
         <location filename="../../qml/pages/MessagesPage.qml" line="951"/>
         <source>Replies are available while the notification is active on your phone</source>
-        <translation type="unfinished"></translation>
+        <translation>Puedes responder mientras la notificación siga activa en tu teléfono</translation>
     </message>
     <message>
         <location filename="../../qml/pages/MessagesPage.qml" line="953"/>
         <source>Reply in %1…</source>
-        <translation type="unfinished"></translation>
+        <translation>Responder en %1…</translation>
     </message>
     <message>
         <location filename="../../qml/pages/MessagesPage.qml" line="955"/>
         <source>Group texts can&apos;t be sent from the PC yet</source>
-        <translation type="unfinished"></translation>
+        <translation>Todavía no se pueden enviar mensajes grupales desde la PC</translation>
     </message>
     <message>
         <location filename="../../qml/pages/MessagesPage.qml" line="957"/>
         <source>Add a caption (optional)…</source>
-        <translation type="unfinished"></translation>
+        <translation>Agregar descripción (opcional)…</translation>
     </message>
     <message>
         <location filename="../../qml/pages/MessagesPage.qml" line="969"/>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar</translation>
     </message>
     <message numerus="yes">
         <location filename="../../qml/pages/MessagesPage.qml" line="987"/>
@@ -4935,57 +4935,57 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/MessagesPage.qml" line="1235"/>
         <source>Open image attachment</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir imagen adjunta</translation>
     </message>
     <message>
         <location filename="../../qml/pages/MessagesPage.qml" line="1301"/>
         <source>Voice note</source>
-        <translation type="unfinished"></translation>
+        <translation>Nota de voz</translation>
     </message>
     <message>
         <location filename="../../qml/pages/MessagesPage.qml" line="1307"/>
         <source> · Click to play</source>
-        <translation type="unfinished"></translation>
+        <translation> · Haz clic para reproducir</translation>
     </message>
     <message>
         <location filename="../../qml/pages/MessagesPage.qml" line="1307"/>
         <source> · Loading…</source>
-        <translation type="unfinished"></translation>
+        <translation> · Cargando…</translation>
     </message>
     <message>
         <location filename="../../qml/pages/MessagesPage.qml" line="1330"/>
         <source>Attachment (open it on the phone)</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo adjunto (ábrelo en el teléfono)</translation>
     </message>
     <message>
         <location filename="../../qml/pages/MessagesPage.qml" line="1356"/>
         <source>Not sent</source>
-        <translation type="unfinished"></translation>
+        <translation>No enviado</translation>
     </message>
     <message>
         <location filename="../../qml/pages/MessagesPage.qml" line="1357"/>
         <source>Sending…</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviando…</translation>
     </message>
     <message>
         <location filename="../../qml/pages/MessagesPage.qml" line="1372"/>
         <source>Copy text</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar texto</translation>
     </message>
     <message>
         <location filename="../../qml/pages/MessagesPage.qml" line="1390"/>
         <source>Copied</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiado</translation>
     </message>
     <message>
         <location filename="../../qml/pages/MessagesPage.qml" line="1390"/>
         <source>Copy code %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar código %1</translation>
     </message>
     <message>
         <location filename="../../qml/pages/MessagesPage.qml" line="1422"/>
         <source>Image attachment</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagen adjunta</translation>
     </message>
     <message>
         <location filename="../../qml/pages/MessagesPage.qml" line="1429"/>
@@ -5008,72 +5008,72 @@ Qué necesita
     <message>
         <location filename="../rust_strings.h" line="356"/>
         <source>Couldn&apos;t start recording.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo iniciar la grabación.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="357"/>
         <source>Mirror recording</source>
-        <translation type="unfinished"></translation>
+        <translation>Grabar duplicación</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="358"/>
         <source>Mirror screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Captura de pantalla duplicada</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="359"/>
         <source>Mirroring is turned off for this phone.</source>
-        <translation type="unfinished"></translation>
+        <translation>La duplicación está desactivada para este teléfono.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="360"/>
         <source>Recording from %1, saved in Downloads/Nectarlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Grabación de %1, guardada en Descargas/Nectarlink</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="361"/>
         <source>Recording from %1, saved in Downloads\Nectarlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Grabación de %1, guardada en Descargas\Nectarlink</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="362"/>
         <source>Saved %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardado: %1</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="363"/>
         <source>Saved %1 to Downloads/Nectarlink.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 se guardó en Descargas/Nectarlink.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="364"/>
         <source>Saved %1 to Downloads\Nectarlink.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 se guardó en Descargas\Nectarlink.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="365"/>
         <source>Screenshot copied to clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>Captura de pantalla copiada al portapapeles.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="366"/>
         <source>Screenshot from %1, saved in Downloads/Nectarlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Captura de %1, guardada en Descargas/Nectarlink</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="367"/>
         <source>Screenshot from %1, saved in Downloads\Nectarlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Captura de %1, guardada en Descargas\Nectarlink</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="368"/>
         <source>Sending %1 files…</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviando %1 archivos…</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="369"/>
         <source>Sending %1…</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviando %1…</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="370"/>
@@ -5083,7 +5083,7 @@ Qué necesita
     <message>
         <location filename="../rust_strings.h" line="371"/>
         <source>Show in folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar en carpeta</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="372"/>
@@ -5326,7 +5326,7 @@ Qué necesita
     <message>
         <location filename="../../qml/components/NotificationItem.qml" line="590"/>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar</translation>
     </message>
     <message>
         <location filename="../../qml/components/NotificationItem.qml" line="610"/>
@@ -5732,7 +5732,7 @@ Qué necesita
     <message>
         <location filename="../rust_strings.h" line="397"/>
         <source>Mirroring is turned off for this phone.</source>
-        <translation type="unfinished"></translation>
+        <translation>La duplicación está desactivada para este teléfono.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="398"/>
@@ -8381,7 +8381,7 @@ Qué necesita
     <message>
         <location filename="../../qml/ShelfWindow.qml" line="1260"/>
         <source>Show in folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar en carpeta</translation>
     </message>
     <message>
         <location filename="../../qml/ShelfWindow.qml" line="1275"/>
@@ -8682,7 +8682,7 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/TimelinePage.qml" line="572"/>
         <source>Show in folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar en carpeta</translation>
     </message>
     <message>
         <location filename="../../qml/pages/TimelinePage.qml" line="581"/>
@@ -8850,7 +8850,7 @@ Qué necesita
     <message>
         <location filename="../../qml/components/TransferItem.qml" line="265"/>
         <source>Show in folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar en carpeta</translation>
     </message>
     <message>
         <location filename="../../qml/components/TransferItem.qml" line="271"/>
