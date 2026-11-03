@@ -7943,47 +7943,47 @@ Qué necesita
     <message>
         <location filename="../rust_strings.h" line="449"/>
         <source>Setup is taking too long. Try again after restarting the PC.</source>
-        <translation type="unfinished"></translation>
+        <translation>La configuración está tardando demasiado. Inténtalo de nuevo después de reiniciar la PC.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="450"/>
         <source>Setup stopped with code %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>La configuración se detuvo con el código %1.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="451"/>
         <source>That drive can&apos;t keep the app&apos;s files safe (it isn&apos;t NTFS). Choose another drive.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esa unidad no puede proteger los archivos de la app (no es NTFS). Elige otra unidad.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="452"/>
         <source>That folder&apos;s path is too long. Choose one closer to the top of a drive.</source>
-        <translation type="unfinished"></translation>
+        <translation>La ruta de esa carpeta es demasiado larga. Elige una más cercana a la raíz de la unidad.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="453"/>
         <source>The uninstaller is missing. Reinstall NectarLink, then uninstall it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Falta el desinstalador. Reinstala NectarLink y después desinstálalo.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="454"/>
         <source>There&apos;s a file named %1 there. Choose another place.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ya existe un archivo llamado %1 en esa ubicación. Elige otra.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="455"/>
         <source>There&apos;s already a %1 folder there with files in it. Choose another place.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ya existe una carpeta %1 con archivos en esa ubicación. Elige otra.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="456"/>
         <source>Uninstall stopped with code %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>La desinstalación se detuvo con el código %1.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="457"/>
         <source>Updates here will ask for your permission each time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Las actualizaciones desde aquí solicitarán tu permiso cada vez.</translation>
     </message>
 </context>
 <context>
@@ -7991,17 +7991,17 @@ Qué necesita
     <message>
         <location filename="../../qml/setup/SetupWindow.qml" line="51"/>
         <source>Uninstall NectarLink</source>
-        <translation type="unfinished"></translation>
+        <translation>Desinstalar NectarLink</translation>
     </message>
     <message>
         <location filename="../../qml/setup/SetupWindow.qml" line="51"/>
         <source>NectarLink Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalador de NectarLink</translation>
     </message>
     <message>
         <location filename="../../qml/setup/SetupWindow.qml" line="67"/>
         <source>Install NectarLink in</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalar NectarLink en</translation>
     </message>
     <message>
         <location filename="../../qml/setup/SetupWindow.qml" line="120"/>
@@ -8014,62 +8014,62 @@ Qué necesita
     <message>
         <location filename="../../qml/setup/SetupWindow.qml" line="187"/>
         <source>NectarLink</source>
-        <translation type="unfinished"></translation>
+        <translation>NectarLink</translation>
     </message>
     <message>
         <location filename="../../qml/setup/SetupWindow.qml" line="216"/>
         <source>Couldn&apos;t uninstall NectarLink</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo desinstalar NectarLink</translation>
     </message>
     <message>
         <location filename="../../qml/setup/SetupWindow.qml" line="216"/>
         <source>Setup couldn&apos;t finish</source>
-        <translation type="unfinished"></translation>
+        <translation>La configuración no pudo terminar</translation>
     </message>
     <message>
         <location filename="../../qml/setup/SetupWindow.qml" line="218"/>
         <source>Uninstalling NectarLink</source>
-        <translation type="unfinished"></translation>
+        <translation>Desinstalando NectarLink</translation>
     </message>
     <message>
         <location filename="../../qml/setup/SetupWindow.qml" line="219"/>
         <source>Updating NectarLink</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizando NectarLink</translation>
     </message>
     <message>
         <location filename="../../qml/setup/SetupWindow.qml" line="220"/>
         <source>Installing NectarLink</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalando NectarLink</translation>
     </message>
     <message>
         <location filename="../../qml/setup/SetupWindow.qml" line="221"/>
         <source>Uninstall NectarLink?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Desinstalar NectarLink?</translation>
     </message>
     <message>
         <location filename="../../qml/setup/SetupWindow.qml" line="236"/>
         <source>Sorry to see you go. This uninstalls NectarLink and deletes its settings and pairings on this PC. Files you received stay in %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lamentamos que te vayas. Esto desinstalará NectarLink y eliminará sus ajustes y vinculaciones de esta PC. Los archivos recibidos permanecerán en %1.</translation>
     </message>
     <message>
         <location filename="../../qml/setup/SetupWindow.qml" line="238"/>
         <source>Update from %1 to %2. Your settings and pairings stay as they are.</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizar de %1 a %2. Tus ajustes y vinculaciones se conservarán.</translation>
     </message>
     <message>
         <location filename="../../qml/setup/SetupWindow.qml" line="240"/>
         <source>Version %1 is already installed. Install it again to repair it.</source>
-        <translation type="unfinished"></translation>
+        <translation>La versión %1 ya está instalada. Vuelve a instalarla para repararla.</translation>
     </message>
     <message>
         <location filename="../../qml/setup/SetupWindow.qml" line="242"/>
         <source>This PC has a newer version (%1). Installing %2 replaces it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta PC tiene una versión más reciente (%1). Instalar %2 la reemplazará.</translation>
     </message>
     <message>
         <location filename="../../qml/setup/SetupWindow.qml" line="243"/>
         <source>Your Android phone and your PC, working as one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tu teléfono Android y tu PC, trabajando como uno solo.</translation>
     </message>
     <message>
         <location filename="../../qml/setup/SetupWindow.qml" line="285"/>
@@ -8079,83 +8079,83 @@ Qué necesita
     <message>
         <location filename="../../qml/setup/SetupWindow.qml" line="286"/>
         <source>Uninstall</source>
-        <translation type="unfinished"></translation>
+        <translation>Desinstalar</translation>
     </message>
     <message>
         <location filename="../../qml/setup/SetupWindow.qml" line="287"/>
         <source>Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizar</translation>
     </message>
     <message>
         <location filename="../../qml/setup/SetupWindow.qml" line="288"/>
         <source>Reinstall</source>
-        <translation type="unfinished"></translation>
+        <translation>Reinstalar</translation>
     </message>
     <message>
         <location filename="../../qml/setup/SetupWindow.qml" line="289"/>
         <source>Install</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalar</translation>
     </message>
     <message>
         <location filename="../../qml/setup/SetupWindow.qml" line="298"/>
         <source>Keep NectarLink</source>
-        <translation type="unfinished"></translation>
+        <translation>Conservar NectarLink</translation>
     </message>
     <message>
         <location filename="../../qml/setup/SetupWindow.qml" line="356"/>
         <source>Add a desktop shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Agregar acceso directo al escritorio</translation>
     </message>
     <message>
         <location filename="../../qml/setup/SetupWindow.qml" line="389"/>
         <source>Installs in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Se instala en %1</translation>
     </message>
     <message>
         <location filename="../../qml/setup/SetupWindow.qml" line="398"/>
         <source>Change</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambiar</translation>
     </message>
     <message>
         <location filename="../../qml/setup/SetupWindow.qml" line="401"/>
         <source>Change the install folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambiar la carpeta de instalación</translation>
     </message>
     <message>
         <location filename="../../qml/setup/SetupWindow.qml" line="436"/>
         <location filename="../../qml/setup/SetupWindow.qml" line="581"/>
         <source>What this installs</source>
-        <translation type="unfinished"></translation>
+        <translation>Qué instala esto</translation>
     </message>
     <message>
         <location filename="../../qml/setup/SetupWindow.qml" line="469"/>
         <source>NectarLink is uninstalled</source>
-        <translation type="unfinished"></translation>
+        <translation>NectarLink se desinstaló</translation>
     </message>
     <message>
         <location filename="../../qml/setup/SetupWindow.qml" line="469"/>
         <source>NectarLink is ready</source>
-        <translation type="unfinished"></translation>
+        <translation>NectarLink está listo</translation>
     </message>
     <message>
         <location filename="../../qml/setup/SetupWindow.qml" line="481"/>
         <source>Your received files are still in %1. Thanks for giving it a try.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tus archivos recibidos siguen en %1. Gracias por probarlo.</translation>
     </message>
     <message>
         <location filename="../../qml/setup/SetupWindow.qml" line="482"/>
         <source>Next, get the Android app. Scan this code with your phone&apos;s camera to open its download page.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ahora descarga la app de Android. Escanea este código con la cámara de tu teléfono para abrir la página de descarga.</translation>
     </message>
     <message>
         <location filename="../../qml/setup/SetupWindow.qml" line="503"/>
         <source>QR code for the Android app download page</source>
-        <translation type="unfinished"></translation>
+        <translation>Código QR para descargar la app de Android</translation>
     </message>
     <message>
         <location filename="../../qml/setup/SetupWindow.qml" line="516"/>
         <source>Open the Android app download page</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir la página de descarga de la app de Android</translation>
     </message>
     <message>
         <location filename="../../qml/setup/SetupWindow.qml" line="531"/>
@@ -8165,37 +8165,37 @@ Qué necesita
     <message>
         <location filename="../../qml/setup/SetupWindow.qml" line="591"/>
         <source>NectarLink goes into Program Files, or the folder you choose, for everyone on this PC. Setup also:</source>
-        <translation type="unfinished"></translation>
+        <translation>NectarLink se instala en Archivos de programa o en la carpeta que elijas, para todos los usuarios de esta PC. El instalador también:</translation>
     </message>
     <message>
         <location filename="../../qml/setup/SetupWindow.qml" line="593"/>
         <source>adds a task that installs updates without an administrator prompt, where only administrators can change the folder</source>
-        <translation type="unfinished"></translation>
+        <translation>agrega una tarea que instala actualizaciones sin solicitar permisos de administrador; solo los administradores pueden cambiar la carpeta</translation>
     </message>
     <message>
         <location filename="../../qml/setup/SetupWindow.qml" line="592"/>
         <source>allows it through Windows Firewall on private networks, so your phone can connect</source>
-        <translation type="unfinished"></translation>
+        <translation>lo permite en el Firewall de Windows en redes privadas para que tu teléfono pueda conectarse</translation>
     </message>
     <message>
         <location filename="../../qml/setup/SetupWindow.qml" line="594"/>
         <source>adds a Start menu shortcut, and a desktop one if you leave that ticked, and starts it with Windows (turn this off in Settings)</source>
-        <translation type="unfinished"></translation>
+        <translation>agrega un acceso directo al menú Inicio y, si dejas marcada la opción, otro al escritorio; también inicia con Windows (puedes desactivarlo en Ajustes)</translation>
     </message>
     <message>
         <location filename="../../qml/setup/SetupWindow.qml" line="595"/>
         <source>adds it to the Windows Share sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>lo agrega al menú Compartir de Windows</translation>
     </message>
     <message>
         <location filename="../../qml/setup/SetupWindow.qml" line="596"/>
         <source>It checks GitHub for updates once a day, which you can turn off in Settings. Otherwise your phone and PC only talk to each other.</source>
-        <translation type="unfinished"></translation>
+        <translation>Busca actualizaciones en GitHub una vez al día; puedes desactivar esto en Ajustes. Fuera de eso, tu teléfono y tu PC solo se comunican entre sí.</translation>
     </message>
     <message>
         <location filename="../../qml/setup/SetupWindow.qml" line="603"/>
         <source>Privacy details</source>
-        <translation type="unfinished"></translation>
+        <translation>Detalles de privacidad</translation>
     </message>
 </context>
 <context>
@@ -8203,7 +8203,7 @@ Qué necesita
     <message>
         <location filename="../../qml/ShelfWindow.qml" line="16"/>
         <source>NectarLink Shelf</source>
-        <translation type="unfinished"></translation>
+        <translation>Panel NectarLink</translation>
     </message>
     <message>
         <location filename="../../qml/ShelfWindow.qml" line="53"/>
@@ -8233,22 +8233,22 @@ Qué necesita
     <message>
         <location filename="../../qml/ShelfWindow.qml" line="309"/>
         <source>Shelf</source>
-        <translation type="unfinished"></translation>
+        <translation>Panel lateral</translation>
     </message>
     <message>
         <location filename="../../qml/ShelfWindow.qml" line="318"/>
         <source>No phone connected</source>
-        <translation type="unfinished"></translation>
+        <translation>No hay un teléfono conectado</translation>
     </message>
     <message>
         <location filename="../../qml/ShelfWindow.qml" line="330"/>
         <source>Refresh Shelf</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizar panel</translation>
     </message>
     <message>
         <location filename="../../qml/ShelfWindow.qml" line="336"/>
         <source>Close Shelf</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerrar panel</translation>
     </message>
     <message>
         <location filename="../../qml/ShelfWindow.qml" line="390"/>
