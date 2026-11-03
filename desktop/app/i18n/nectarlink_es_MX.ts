@@ -694,37 +694,37 @@
     <message>
         <location filename="../../qml/pages/CallsPage.qml" line="880"/>
         <source>Open Bluetooth settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir ajustes de Bluetooth</translation>
     </message>
     <message>
         <location filename="../../qml/pages/CallsPage.qml" line="903"/>
         <source>Missed</source>
-        <translation type="unfinished"></translation>
+        <translation>Perdida</translation>
     </message>
     <message>
         <location filename="../../qml/pages/CallsPage.qml" line="904"/>
         <source>Outgoing</source>
-        <translation type="unfinished"></translation>
+        <translation>Saliente</translation>
     </message>
     <message>
         <location filename="../../qml/pages/CallsPage.qml" line="905"/>
         <source>Declined</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechazada</translation>
     </message>
     <message>
         <location filename="../../qml/pages/CallsPage.qml" line="906"/>
         <source>Incoming</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrante</translation>
     </message>
     <message>
         <location filename="../../qml/pages/CallsPage.qml" line="1102"/>
         <source>Favorites</source>
-        <translation type="unfinished"></translation>
+        <translation>Favoritos</translation>
     </message>
     <message>
         <location filename="../../qml/pages/CallsPage.qml" line="1185"/>
         <source>+%1 more</source>
-        <translation type="unfinished"></translation>
+        <translation>+%1 más</translation>
     </message>
 </context>
 <context>
@@ -732,22 +732,22 @@
     <message>
         <location filename="../../qml/components/CaptionButtons.qml" line="27"/>
         <source>Minimize</source>
-        <translation type="unfinished"></translation>
+        <translation>Minimizar</translation>
     </message>
     <message>
         <location filename="../../qml/components/CaptionButtons.qml" line="37"/>
         <source>Restore</source>
-        <translation type="unfinished"></translation>
+        <translation>Restaurar</translation>
     </message>
     <message>
         <location filename="../../qml/components/CaptionButtons.qml" line="37"/>
         <source>Maximize</source>
-        <translation type="unfinished"></translation>
+        <translation>Maximizar</translation>
     </message>
     <message>
         <location filename="../../qml/components/CaptionButtons.qml" line="49"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerrar</translation>
     </message>
 </context>
 <context>
@@ -755,67 +755,67 @@
     <message>
         <location filename="../rust_strings.h" line="52"/>
         <source>Copied from %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiado desde %1</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="53"/>
         <source>Copied from %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiado desde %1.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="54"/>
         <source>Copied to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiado al portapapeles</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="55"/>
         <source>Sending copied files to %1…</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviando archivos copiados a %1…</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="56"/>
         <source>Sent to %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviado a %1.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="57"/>
         <source>That clip is no longer in clipboard history.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ese elemento ya no está en el historial del portapapeles.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="58"/>
         <source>That image can&apos;t be read.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede leer esa imagen.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="59"/>
         <source>That image is too large to send.</source>
-        <translation type="unfinished"></translation>
+        <translation>La imagen es demasiado grande para enviarla.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="60"/>
         <source>That&apos;s too much text to send at once.</source>
-        <translation type="unfinished"></translation>
+        <translation>Es demasiado texto para enviarlo de una sola vez.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="61"/>
         <source>The clipboard is turned off for %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>El portapapeles está desactivado para %1.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="62"/>
         <source>There&apos;s no text, image, or file on the clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>No hay texto, imagen ni archivo en el portapapeles.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="63"/>
         <source>Update NectarLink on %1 to send it images.</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualiza NectarLink en %1 para enviarle imágenes.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="64"/>
         <source>What you copied is marked private by its app, so it wasn&apos;t sent.</source>
-        <translation type="unfinished"></translation>
+        <translation>La app marcó lo que copiaste como privado, por eso no se envió.</translation>
     </message>
 </context>
 <context>
@@ -823,12 +823,12 @@
     <message>
         <location filename="../../qml/components/CommandPalette.qml" line="129"/>
         <source>Type a command, contact, or app…</source>
-        <translation type="unfinished"></translation>
+        <translation>Escribe un comando, contacto o app…</translation>
     </message>
     <message>
         <location filename="../../qml/components/CommandPalette.qml" line="145"/>
         <source>Command palette search</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscar en la paleta de comandos</translation>
     </message>
     <message>
         <location filename="../../qml/components/CommandPalette.qml" line="199"/>
@@ -838,42 +838,42 @@
     <message>
         <location filename="../../qml/components/CommandPalette.qml" line="199"/>
         <source>Close command palette</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerrar paleta de comandos</translation>
     </message>
     <message>
         <location filename="../../qml/components/CommandPalette.qml" line="222"/>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>Borrar</translation>
     </message>
     <message>
         <location filename="../../qml/components/CommandPalette.qml" line="222"/>
         <source>Esc</source>
-        <translation type="unfinished"></translation>
+        <translation>Esc</translation>
     </message>
     <message>
         <location filename="../../qml/components/CommandPalette.qml" line="367"/>
         <source>No matching commands</source>
-        <translation type="unfinished"></translation>
+        <translation>No hay comandos coincidentes</translation>
     </message>
     <message>
         <location filename="../../qml/components/CommandPalette.qml" line="384"/>
         <source>↑↓ to navigate · Enter to run · Esc to close</source>
-        <translation type="unfinished"></translation>
+        <translation>↑↓ para navegar · Enter para ejecutar · Esc para cerrar</translation>
     </message>
     <message>
         <location filename="../../qml/components/CommandPalette.qml" line="403"/>
         <source>%1 · %2 ms</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 · %2 ms</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="65"/>
         <source>Browse all 28 features, live capability status, and where to find them</source>
-        <translation type="unfinished"></translation>
+        <translation>Explora las 28 funciones, su estado en tiempo real y dónde encontrarlas</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="66"/>
         <source>Browse phone storage in File Explorer</source>
-        <translation type="unfinished"></translation>
+        <translation>Explorar el almacenamiento del teléfono en el Explorador de archivos</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="67"/>
@@ -883,57 +883,57 @@
     <message>
         <location filename="../rust_strings.h" line="68"/>
         <source>Calling %1 on %2…</source>
-        <translation type="unfinished"></translation>
+        <translation>Llamando a %1 desde %2…</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="69"/>
         <source>Capture a photo on your phone and paste it into the active window</source>
-        <translation type="unfinished"></translation>
+        <translation>Toma una foto con tu teléfono y pégala en la ventana activa</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="70"/>
         <source>Check Wake-on-LAN status in Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Consulta el estado de Wake-on-LAN en Ajustes</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="71"/>
         <source>Connection Doctor</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagnóstico de conexión</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="72"/>
         <source>Continue copied video on phone</source>
-        <translation type="unfinished"></translation>
+        <translation>Continuar en el teléfono el video copiado</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="73"/>
         <source>Copied image</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagen copiada</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="74"/>
         <source>Copied number</source>
-        <translation type="unfinished"></translation>
+        <translation>Número copiado</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="75"/>
         <source>Copy: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar: %1</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="76"/>
         <source>Diagnose and fix firewall, discovery, or network issues</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagnostica y corrige problemas de firewall, detección o red</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="77"/>
         <source>Features guide</source>
-        <translation type="unfinished"></translation>
+        <translation>Guía de funciones</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="78"/>
         <source>Find %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscar %1</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="79"/>
@@ -943,57 +943,57 @@
     <message>
         <location filename="../rust_strings.h" line="80"/>
         <source>From %1</source>
-        <translation type="unfinished"></translation>
+        <translation>De %1</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="81"/>
         <source>Hand off document to phone</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar documento al teléfono</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="82"/>
         <source>Handoff · Doc</source>
-        <translation type="unfinished"></translation>
+        <translation>Continuar · Documento</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="83"/>
         <source>Handoff · Map</source>
-        <translation type="unfinished"></translation>
+        <translation>Continuar · Mapa</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="84"/>
         <source>Handoff · Video</source>
-        <translation type="unfinished"></translation>
+        <translation>Continuar · Video</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="85"/>
         <source>Hide Shelf</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocultar panel</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="86"/>
         <source>Make %1 ring at full volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Hacer que %1 suene al máximo volumen</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="87"/>
         <source>Make phone ring at full volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Hacer que el teléfono suene al máximo volumen</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="88"/>
         <source>Mirror %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Duplicar %1</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="89"/>
         <source>Mirror Apps</source>
-        <translation type="unfinished"></translation>
+        <translation>Duplicar apps</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="90"/>
         <source>Mirror phone screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Duplicar pantalla del teléfono</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="91"/>
@@ -1939,7 +1939,7 @@
     <message>
         <location filename="../rust_strings.h" line="197"/>
         <source>%1 · %2 ms</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 · %2 ms</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="198"/>
@@ -2247,7 +2247,7 @@
     <message>
         <location filename="../../qml/components/DoctorSheet.qml" line="37"/>
         <source>Connection Doctor</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagnóstico de conexión</translation>
     </message>
     <message>
         <location filename="../../qml/components/DoctorSheet.qml" line="53"/>
@@ -2525,7 +2525,7 @@
     <message>
         <location filename="../../qml/pages/FeaturesGuidePage.qml" line="1135"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerrar</translation>
     </message>
 </context>
 <context>
@@ -2590,7 +2590,7 @@
     <message>
         <location filename="../rust_strings.h" line="271"/>
         <source>Connection Doctor</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagnóstico de conexión</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="272"/>
@@ -2615,7 +2615,7 @@
     <message>
         <location filename="../rust_strings.h" line="276"/>
         <source>Features guide</source>
-        <translation type="unfinished"></translation>
+        <translation>Guía de funciones</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="277"/>
@@ -3299,7 +3299,7 @@ What it needs
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="445"/>
         <source>Features guide</source>
-        <translation type="unfinished"></translation>
+        <translation>Guía de funciones</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="452"/>
@@ -3508,7 +3508,7 @@ What it needs
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1420"/>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>Borrar</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="1427"/>
@@ -3983,7 +3983,7 @@ What it needs
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2963"/>
         <source>From %1</source>
-        <translation type="unfinished"></translation>
+        <translation>De %1</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="2963"/>
@@ -4084,7 +4084,7 @@ What it needs
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="3644"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerrar</translation>
     </message>
     <message>
         <location filename="../../qml/pages/HomePage.qml" line="3672"/>
@@ -4464,7 +4464,7 @@ What it needs
     <message>
         <location filename="../../qml/MainWindow.qml" line="720"/>
         <source>Features guide</source>
-        <translation type="unfinished"></translation>
+        <translation>Guía de funciones</translation>
     </message>
     <message>
         <location filename="../../qml/MainWindow.qml" line="732"/>
@@ -4915,7 +4915,7 @@ What it needs
     <message>
         <location filename="../../qml/pages/MessagesPage.qml" line="1429"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerrar</translation>
     </message>
     <message>
         <location filename="../../qml/pages/MessagesPage.qml" line="1457"/>
@@ -5261,7 +5261,7 @@ What it needs
     <message>
         <location filename="../../qml/components/NotificationItem.qml" line="611"/>
         <source>+%1 more</source>
-        <translation type="unfinished"></translation>
+        <translation>+%1 más</translation>
     </message>
     <message>
         <location filename="../../qml/components/NotificationItem.qml" line="620"/>
@@ -5743,7 +5743,7 @@ What it needs
     <message>
         <location filename="../rust_strings.h" line="413"/>
         <source>From %1</source>
-        <translation type="unfinished"></translation>
+        <translation>De %1</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="414"/>
@@ -7354,7 +7354,7 @@ What it needs
         <location filename="../../qml/pages/SettingsPage.qml" line="3124"/>
         <location filename="../../qml/pages/SettingsPage.qml" line="3758"/>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>Borrar</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="2901"/>
@@ -7510,7 +7510,7 @@ What it needs
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3167"/>
         <source>Connection Doctor</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagnóstico de conexión</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3168"/>
@@ -7644,7 +7644,7 @@ What it needs
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3392"/>
         <source>Features guide</source>
-        <translation type="unfinished"></translation>
+        <translation>Guía de funciones</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3393"/>
@@ -7737,7 +7737,7 @@ What it needs
         <location filename="../../qml/pages/SettingsPage.qml" line="3659"/>
         <location filename="../../qml/pages/SettingsPage.qml" line="3687"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerrar</translation>
     </message>
     <message>
         <location filename="../../qml/pages/SettingsPage.qml" line="3670"/>
@@ -7934,7 +7934,7 @@ What it needs
         <location filename="../../qml/setup/SetupWindow.qml" line="531"/>
         <location filename="../../qml/setup/SetupWindow.qml" line="540"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerrar</translation>
     </message>
     <message>
         <location filename="../../qml/setup/SetupWindow.qml" line="187"/>
@@ -8347,7 +8347,7 @@ What it needs
     <message>
         <location filename="../rust_strings.h" line="463"/>
         <source>Copied image</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagen copiada</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="464"/>
@@ -8362,7 +8362,7 @@ What it needs
     <message>
         <location filename="../rust_strings.h" line="466"/>
         <source>From %1</source>
-        <translation type="unfinished"></translation>
+        <translation>De %1</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="467"/>
@@ -8432,7 +8432,7 @@ What it needs
     <message>
         <location filename="../rust_strings.h" line="480"/>
         <source>That clip is no longer in clipboard history.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ese elemento ya no está en el historial del portapapeles.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="481"/>
@@ -9104,7 +9104,7 @@ What it needs
     <message>
         <location filename="../../qml/pages/WalkthroughPage.qml" line="1667"/>
         <source>Features guide</source>
-        <translation type="unfinished"></translation>
+        <translation>Guía de funciones</translation>
     </message>
     <message>
         <location filename="../../qml/pages/WalkthroughPage.qml" line="1740"/>
