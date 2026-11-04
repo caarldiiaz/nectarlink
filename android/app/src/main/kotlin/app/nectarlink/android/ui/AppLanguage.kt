@@ -16,6 +16,7 @@ object AppLanguage {
     /** The languages the app speaks, as BCP 47 tags, each named in its own language. */
     val languages: List<Pair<String, String>> = listOf(
         "en" to "English",
+        "es-MX" to "Español (México)",
         "de" to "Deutsch",
         "zh-CN" to "简体中文",
         "tr" to "Türkçe",
@@ -48,6 +49,7 @@ object AppLanguage {
         val lower = tag.lowercase()
         return when {
             lower.startsWith("zh") && ("hans" in lower || "-cn" in lower || "-sg" in lower) -> "zh-CN"
+            lower == "es" || lower.startsWith("es-") -> "es-MX"
             lower == "de" || lower.startsWith("de-") -> "de"
             lower == "en" || lower.startsWith("en-") -> "en"
             lower == "tr" || lower.startsWith("tr-") -> "tr"
