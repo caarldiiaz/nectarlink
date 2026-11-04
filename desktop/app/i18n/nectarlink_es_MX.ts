@@ -2560,7 +2560,11 @@
 3. Open the Pair step in the setup walkthrough, or click + (Pair a new device) at the bottom of the left rail.
 4. Scan the QR code from the NectarLink Android app, or select your phone from the nearby devices list and confirm that the 6-digit code matches on both screens.
 5. Choose which features to share for that phone and grant only the Android permissions you want to use.</source>
-        <translation type="unfinished"></translation>
+        <translation>1. Instala NectarLink en tu PC (Windows 11 o Linux) y en tu teléfono Android (Android 8.0 o posterior).
+2. Conecta ambos dispositivos a la misma red Wi-Fi o conecta el teléfono a la PC con un cable USB.
+3. Abre el paso Vincular en la guía de configuración o haz clic en + (Vincular un dispositivo nuevo) al pie de la barra lateral.
+4. Escanea el código QR desde la app NectarLink de Android, o selecciona tu teléfono en la lista de dispositivos cercanos y confirma que el código de 6 dígitos coincida en ambas pantallas.
+5. Elige qué funciones compartir con ese teléfono y concede únicamente los permisos de Android que quieras usar.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="266"/>
@@ -2635,7 +2639,12 @@
 2. Check that your Wi-Fi network profile in Windows is set to Private rather than Public, or click Fix in Connection Doctor to allow NectarLink through Windows Firewall.
 3. Verify that both devices are on the same subnet and that guest Wi-Fi client isolation is turned off on your router.
 4. You can also connect over a USB cable with USB debugging enabled; NectarLink automatically sets up a local tunnel.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si tu teléfono y tu PC no se detectan entre sí:
+
+1. Abre Diagnóstico de conexión desde Ajustes › Conexión e información o la Paleta de comandos.
+2. Comprueba que el perfil de red Wi-Fi de Windows esté configurado como Privado y no Público, o haz clic en Corregir en Diagnóstico de conexión para permitir NectarLink en el Firewall de Windows.
+3. Verifica que ambos dispositivos estén en la misma subred y que el router tenga desactivado el aislamiento de clientes de la red Wi-Fi de invitados.
+4. También puedes conectarlos mediante USB con Depuración USB activada; NectarLink configura automáticamente un túnel local.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="280"/>
@@ -2847,7 +2856,15 @@ Where to find it
 
 What it needs
 - Photos and Media permission granted on your Android phone.</source>
-        <translation type="unfinished"></translation>
+        <translation>Qué hace
+Explora fotos recientes, tomas de cámara y capturas de pantalla del teléfono sin copiar primero toda la galería. Puedes ver imágenes en resolución completa, copiarlas al portapapeles, guardarlas en disco o arrastrarlas directamente a otras apps de Windows.
+
+Dónde encontrarlo
+- Barra de navegación lateral › Fotos.
+- Panel lateral (Ctrl+Alt+S) › Foto y captura más recientes.
+
+Qué necesita
+- Permiso de Fotos y multimedia concedido en tu teléfono Android.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="308"/>
@@ -2860,7 +2877,15 @@ Where to find it
 
 What it needs
 - Volume, flashlight, and Find My Phone work in Standard mode; Do Not Disturb requires Notification Policy access; Wi-Fi and Bluetooth toggles use Elevated mode on newer Android versions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Qué hace
+Controla desde la PC el modo No molestar, el tono (Sonido, Vibración, Silencio), la linterna, el volumen multimedia, el brillo de pantalla, Wi-Fi, Bluetooth y el timbre de Encontrar mi teléfono.
+
+Dónde encontrarlo
+- Inicio › Controles del teléfono y Encontrar teléfono.
+- Paleta de comandos.
+
+Qué necesita
+- Volumen, linterna y Encontrar mi teléfono funcionan en modo Estándar; No molestar requiere acceso a la política de notificaciones; los interruptores de Wi-Fi y Bluetooth usan el modo Avanzado en versiones recientes de Android.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="309"/>
@@ -2873,7 +2898,15 @@ Where to find it
 
 What it needs
 - LocalSend on local network turned on in Settings › Files &amp; Sync, and both devices on the same local network.</source>
-        <translation type="unfinished"></translation>
+        <translation>Qué hace
+Detecta e intercambia archivos con dispositivos cercanos que ejecutan LocalSend v2 en tu red local, sin necesidad de vincularlos.
+
+Dónde encontrarlo
+- Inicio › LocalSend cercano, cuando LocalSend está activado.
+- Ajustes › Archivos y sincronización › LocalSend en la red local.
+
+Qué necesita
+- LocalSend en la red local activado en Ajustes › Archivos y sincronización y ambos dispositivos en la misma red local.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="310"/>
@@ -2885,7 +2918,14 @@ Where to find it
 
 What it needs
 - Turn on Nectar Island in Settings › General and pick which events should appear.</source>
-        <translation type="unfinished"></translation>
+        <translation>Qué hace
+Muestra una cápsula compacta en la parte superior central de tu monitor principal con llamadas entrantes, progreso de transferencias, reproducción multimedia y vistas previas opcionales de notificaciones.
+
+Dónde encontrarlo
+- Ajustes › General › Nectar Island.
+
+Qué necesita
+- Activa Nectar Island en Ajustes › General y elige qué eventos aparecerán.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="311"/>
@@ -2897,7 +2937,14 @@ Where to find it
 
 What it needs
 - Turn on Local automation API in Settings › Connection &amp; About and read the bearer token from api-token.json.</source>
-        <translation type="unfinished"></translation>
+        <translation>Qué hace
+Ofrece una API HTTP/JSON y Server-Sent Events opcional en localhost 127.0.0.1 (puerto predeterminado 53320), protegida por un token bearer, para que scripts, herramientas CLI y complementos de Stream Deck activen acciones de NectarLink.
+
+Dónde encontrarla
+- Ajustes › Conexión e información › API de automatización local.
+
+Qué necesita
+- Activa la API de automatización local en Ajustes › Conexión e información y consulta el token bearer en api-token.json.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="312"/>
@@ -2910,7 +2957,15 @@ Where to find it
 
 What it needs
 - Assist mode (Accessibility service), the NectarLink input method, or Elevated mode on your phone.</source>
-        <translation type="unfinished"></translation>
+        <translation>Qué hace
+Reenvía pulsaciones de teclas y texto pegado desde el teclado de tu PC directamente al teléfono, sin necesidad de duplicar la pantalla.
+
+Dónde encontrarlo
+- Inicio › Escribir en el teléfono.
+- Paleta de comandos › Escribir en el teléfono con el teclado de la PC.
+
+Qué necesita
+- Modo Asistencia (servicio de Accesibilidad), el método de entrada de NectarLink o modo Avanzado en el teléfono.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="313"/>
@@ -2923,7 +2978,15 @@ Where to find it
 
 What it needs
 - Always available on your PC.</source>
-        <translation type="unfinished"></translation>
+        <translation>Qué hace
+Revisa las reglas del Firewall de Windows, el tipo de perfil de red (Privada o Pública), los sockets UDP de detección y la disponibilidad del teléfono vinculado; también ofrece soluciones con un clic.
+
+Dónde encontrarlo
+- Ajustes › Conexión e información › Diagnóstico de conexión.
+- Paleta de comandos › Diagnóstico de conexión.
+
+Qué necesita
+- Siempre disponible en tu PC.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="314"/>
@@ -2936,7 +2999,15 @@ Where to find it
 
 What it needs
 - Files and media access on your phone and at least one folder sync rule configured in Settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Qué hace
+Mantiene sincronizadas carpetas seleccionadas del teléfono (como DCIM/Camera o Download) y carpetas de la PC, en un sentido o en ambos; también permite que el teléfono explore carpetas compartidas de la PC.
+
+Dónde encontrarlo
+- Ajustes › Archivos y sincronización › Carpetas sincronizadas.
+- Ajustes › Dispositivos › Acceso remoto a archivos de la PC, para explorar carpetas de la PC desde el teléfono.
+
+Qué necesita
+- Acceso a archivos y multimedia en el teléfono y al menos una regla de sincronización configurada en Ajustes.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="315"/>
@@ -2950,7 +3021,16 @@ Where to find it
 What it needs
 - SMS and Contacts permissions on your phone for SMS/MMS threads.
 - Notification Access on your phone for messaging app conversations.</source>
-        <translation type="unfinished"></translation>
+        <translation>Qué hace
+Permite leer y enviar conversaciones SMS y MMS, además de responder conversaciones vinculadas a notificaciones de apps de mensajería como WhatsApp, Signal y Telegram.
+
+Dónde encontrarlo
+- Barra de navegación lateral › Mensajes.
+- Paleta de comandos (Ctrl+Alt+Space) › escribe Mensaje seguido del nombre de un contacto.
+
+Qué necesita
+- Permisos de SMS y Contactos en el teléfono para conversaciones SMS/MMS.
+- Acceso a notificaciones en el teléfono para conversaciones de apps de mensajería.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="316"/>
@@ -2963,7 +3043,15 @@ Where to find it
 
 What it needs
 - A network adapter with Wake-on-LAN enabled in Windows Device Manager and BIOS/UEFI (wired Ethernet is most reliable).</source>
-        <translation type="unfinished"></translation>
+        <translation>Qué hace
+Permite que tu teléfono active esta PC desde suspensión o apagado suave a través de la red local mediante un paquete Wake-on-LAN.
+
+Dónde encontrarlo
+- Ajustes › Conexión e información › Activar desde tu teléfono.
+- En el teléfono: Inicio › Activar, visible cuando la PC está desconectada.
+
+Qué necesita
+- Un adaptador de red con Wake-on-LAN habilitado en el Administrador de dispositivos de Windows y en BIOS/UEFI (Ethernet cableado es lo más confiable).</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="317"/>
@@ -2976,7 +3064,15 @@ Where to find it
 
 What it needs
 - The per-device Remote mouse, keyboard &amp; Deck switch on your PC (or approved from the one-time prompt when your phone requests control).</source>
-        <translation type="unfinished"></translation>
+        <translation>Qué hace
+Permite usar el teléfono como panel táctil inalámbrico, teclado, control de presentaciones y apuntador láser en pantalla para tu PC.
+
+Dónde encontrarlo
+- En el teléfono: Inicio › Controlar PC.
+- Ajustes › Dispositivos › Mouse, teclado y panel remoto.
+
+Qué necesita
+- El interruptor por dispositivo Mouse, teclado y panel remoto activado en la PC (o aprobado desde la solicitud única cuando el teléfono pida control).</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="318"/>
@@ -2991,7 +3087,17 @@ Where to find it
 What it needs
 - Notification Access permission enabled for NectarLink on your Android phone.
 - The per-device Notifications toggle enabled on your PC.</source>
-        <translation type="unfinished"></translation>
+        <translation>Qué hace
+Muestra las notificaciones del teléfono en el feed de Inicio y en avisos emergentes de Windows. Puedes responder mensajes desde la notificación, usar botones de acción, descartar notificaciones individuales o grupos y deshacer un descarte reciente.
+
+Dónde encontrarlo
+- Inicio › Notificaciones.
+- Ajustes › Notificaciones, para reglas por app (Mostrar, Silencioso u Oculto) y sincronización de No molestar.
+- Ajustes › General › Copiar códigos de un solo uso.
+
+Qué necesita
+- Acceso a notificaciones habilitado para NectarLink en tu teléfono Android.
+- Interruptor de Notificaciones activado para ese dispositivo en tu PC.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="319"/>
@@ -3004,7 +3110,15 @@ Where to find it
 
 What it needs
 - Works at any time with zero background memory cost when closed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Qué hace
+Abre una barra de búsqueda centrada en el teclado para acciones, contactos, conversaciones, apps que se pueden duplicar, accesos rápidos del teléfono, historial del portapapeles y páginas de navegación.
+
+Dónde encontrarla
+- Atajo global Ctrl+Alt+Space (o Ctrl+K dentro de la ventana de NectarLink).
+- Comandos en la barra superior.
+
+Qué necesita
+- Está disponible en cualquier momento y no consume memoria en segundo plano cuando está cerrada.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="320"/>
@@ -3018,7 +3132,16 @@ Where to find it
 
 What it needs
 - Paired phone; Photos permission on your phone for the latest photo and screenshot tiles.</source>
-        <translation type="unfinished"></translation>
+        <translation>Qué hace
+Abre un panel lateral ligero en el borde del monitor con la foto y captura más recientes del teléfono, elementos recientes del portapapeles y archivos recibidos. Arrastra elementos a cualquier app o suelta archivos en el panel para enviarlos al teléfono.
+
+Dónde encontrarlo
+- Atajo global Ctrl+Alt+S.
+- Paleta de comandos › Abrir panel lateral.
+- Ajustes › Atajos y reglas › Panel de archivos, para cambiar el atajo.
+
+Qué necesita
+- Teléfono vinculado; permiso de Fotos en el teléfono para mostrar las tarjetas de foto y captura recientes.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="321"/>
@@ -3031,7 +3154,15 @@ Where to find it
 
 What it needs
 - Works automatically for all paired devices; retention period can be adjusted in Settings › Storage &amp; Privacy.</source>
-        <translation type="unfinished"></translation>
+        <translation>Qué hace
+Ofrece un historial cronológico y unificado, con búsqueda, de archivos, fotos, elementos del portapapeles, llamadas, mensajes y grabaciones de voz compartidos entre tu teléfono y PC.
+
+Dónde encontrarlo
+- Barra superior › Historial.
+- Inicio › Historial.
+
+Qué necesita
+- Funciona automáticamente con todos los dispositivos vinculados; puedes ajustar el periodo de conservación en Ajustes › Almacenamiento y privacidad.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="322"/>
@@ -3044,7 +3175,15 @@ Where to find it
 
 What it needs
 - Microphone permission on your phone when recording a voice note.</source>
-        <translation type="unfinished"></translation>
+        <translation>Qué hace
+Recibe las notas de voz grabadas en tu teléfono y las guarda en tu PC en el formato de audio que elijas (M4A, MP3, WAV o FLAC).
+
+Dónde encontrarlo
+- En tu teléfono: Inicio › Grabar.
+- Ajustes › Archivos y sincronización › Grabaciones de voz.
+
+Qué necesita
+- Permiso de micrófono en el teléfono al grabar una nota de voz.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="323"/>
@@ -3056,7 +3195,14 @@ Where to find it
 
 What it needs
 - Add and turn on one or more rules there.</source>
-        <translation type="unfinished"></translation>
+        <translation>Qué hace
+Ejecuta reglas automáticas de activación y acción, como bloquear la PC cuando el teléfono se desconecta, pausar el contenido multimedia al recibir una llamada o ejecutar un comando cuando el teléfono se conecta.
+
+Dónde encontrarlo
+- Ajustes › Atajos y reglas › Reglas de activación y acción.
+
+Qué necesita
+- Agrega y activa una o más reglas ahí.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="324"/>
@@ -3069,7 +3215,15 @@ Where to find it
 
 What it needs
 - Paired phone and the per-device Files toggle enabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Qué hace
+Envía archivos, carpetas, enlaces y texto entre tu teléfono y PC a velocidad de red local. Si el teléfono está desconectado al enviar, NectarLink pone el elemento en la cola En espera de envío y lo entrega automáticamente en cuanto el teléfono se reconecta.
+
+Dónde encontrarlo
+- Inicio › botón Enviar archivos, arrastrar y soltar en cualquier parte de la ventana, tarjeta En espera de envío y lista Transferencias.
+- Explorador de archivos de Windows › clic derecho › Enviar a.
+
+Qué necesita
+- Teléfono vinculado y el interruptor Archivos activado para ese dispositivo.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="325"/>
