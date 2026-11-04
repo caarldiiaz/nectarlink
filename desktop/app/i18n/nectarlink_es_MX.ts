@@ -1183,7 +1183,7 @@
     <message>
         <location filename="../rust_strings.h" line="128"/>
         <source>Set %1&apos;s ringer mode to vibrate</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurar el tono de %1 en vibración</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="129"/>
@@ -2657,7 +2657,14 @@ Every connection uses QUIC with TLS 1.3 and Ed25519 device certificates verified
 
 Per-device sharing controls
 Sensitive capabilities such as Share PC folders, Remote input, and Reverse PC screen mirroring are turned off by default for each paired device until you turn them on.</source>
-        <translation type="unfinished"></translation>
+        <translation>Local por defecto
+Tu teléfono y tu PC se comunican directamente por la red local o mediante un cable USB. Si activas Conectarse mediante datos móviles, el tráfico cifrado puede usar un repetidor cuando estés fuera de casa. La búsqueda automática de actualizaciones se conecta a GitHub Releases y se puede desactivar en Ajustes › Conexión e información › Buscar actualizaciones.
+
+Cifrado de extremo a extremo
+Cada conexión usa QUIC con TLS 1.3 y certificados de dispositivo Ed25519 verificados durante la vinculación. Las claves están protegidas por Windows DPAPI y Android Keystore.
+
+Controles de uso compartido por dispositivo
+Las funciones sensibles, como Compartir carpetas de la PC, Control remoto de entrada y Duplicación inversa de la pantalla de la PC, están desactivadas de forma predeterminada para cada dispositivo vinculado hasta que las actives.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="283"/>
@@ -2681,7 +2688,16 @@ Elevated mode (Wireless debugging or root)
 Assist mode (Android Accessibility Service)
 - Injects mouse clicks, scrolling, and touch gestures when you control your phone from your PC.
 - NectarLink never reads screen text or logs keystrokes through the Accessibility service.</source>
-        <translation type="unfinished"></translation>
+        <translation>La mayoría de las funciones de NectarLink trabajan en modo Estándar con los permisos habituales de Android. Hay dos modos opcionales que permiten una integración más profunda con el sistema:
+
+Modo Avanzado (Depuración inalámbrica o root)
+- Captura la pantalla del teléfono sin mostrar cada vez la confirmación de transmisión de Android.
+- Transmite apps individuales del teléfono en ventanas de escritorio separadas (pantallas virtuales).
+- Controla más accesos rápidos del sistema.
+
+Modo Asistencia (servicio de Accesibilidad de Android)
+- Envía clics del mouse, desplazamientos y gestos táctiles cuando controlas el teléfono desde la PC.
+- NectarLink nunca lee el texto de la pantalla ni registra las pulsaciones mediante el servicio de Accesibilidad.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="286"/>
@@ -2701,7 +2717,17 @@ Capability tiers on Android
 - Standard mode: Works right after installation with standard Android permissions.
 - Elevated mode (optional): Uses Wireless debugging (set up once in the phone app) or root for phone apps in their own windows, mirroring without the screen capture prompt, and more phone controls.
 - Assist mode (optional): Uses the Android Accessibility service only when you enable Remote input so your PC mouse and keyboard can control the phone.</source>
-        <translation type="unfinished"></translation>
+        <translation>NectarLink conecta tu teléfono Android y tu PC directamente mediante la red local o un cable USB.
+
+Cómo funciona
+- Los dispositivos se detectan por Wi-Fi local (mDNS) o USB (túnel inverso ADB) y se conectan mediante QUIC (TLS 1.3).
+- Cada conexión se autentica mutuamente con claves Ed25519 generadas en cada dispositivo.
+- No hay cuenta de usuario, base de datos en la nube ni telemetría.
+
+Niveles de funciones en Android
+- Modo Estándar: funciona desde la instalación con los permisos habituales de Android.
+- Modo Avanzado (opcional): usa Depuración inalámbrica (se configura una vez en la app del teléfono) o root para abrir apps en ventanas propias, duplicar sin el aviso de captura y habilitar más controles.
+- Modo Asistencia (opcional): usa el servicio de Accesibilidad de Android solo cuando activas Control remoto de entrada, para que el mouse y teclado de la PC controlen el teléfono.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="288"/>
@@ -2712,7 +2738,13 @@ Capability tiers on Android
 - Phone and Call Log: Required only if you want incoming call alerts, call history, or dialing from your PC.
 - Media and Photos: Required only if you want the Photos gallery, Shelf latest photo, or folder sync.
 - Camera and Microphone: Required only while streaming your phone as a webcam, taking a Continuity Camera shot, or recording a voice note.</source>
-        <translation type="unfinished"></translation>
+        <translation>NectarLink no solicita todos los permisos de golpe. Cada función opera de manera independiente:
+
+- Acceso a notificaciones: solo se requiere para recibir notificaciones del teléfono, responder desde ellas y ver conversaciones asociadas a notificaciones en la PC.
+- SMS y Contactos: solo se requieren para leer y enviar SMS/MMS o consultar nombres de contactos en la PC.
+- Teléfono y Registro de llamadas: solo se requieren para avisos de llamadas entrantes, historial o marcación desde la PC.
+- Multimedia y Fotos: solo se requieren para la galería de Fotos, la foto más reciente del panel lateral o la sincronización de carpetas.
+- Cámara y Micrófono: solo se requieren al usar el teléfono como cámara web, tomar una foto con Cámara de continuidad o grabar una nota de voz.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="289"/>
@@ -2762,7 +2794,7 @@ Capability tiers on Android
     <message>
         <location filename="../rust_strings.h" line="298"/>
         <source>Select any feature card in the Features guide to inspect its live status, jump directly to its control with Show me, or read how it works and what permissions it uses.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecciona cualquier tarjeta de la Guía de funciones para consultar su estado en tiempo real, ir directamente a sus controles con Mostrar o leer cómo funciona y qué permisos utiliza.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="299"/>
