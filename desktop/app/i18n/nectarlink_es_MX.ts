@@ -8873,22 +8873,22 @@ Qué necesita
     <message>
         <location filename="../rust_strings.h" line="490"/>
         <source>Accept in NectarLink to save to Downloads\Nectarlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Acepta en NectarLink para guardar en Descargas\Nectarlink</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="491"/>
         <source>Files are turned off for that device.</source>
-        <translation type="unfinished"></translation>
+        <translation>Los archivos están desactivados para ese dispositivo.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="492"/>
         <source>From %1, opened from Downloads\Nectarlink</source>
-        <translation type="unfinished"></translation>
+        <translation>De %1, abierto desde Descargas\Nectarlink</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="493"/>
         <source>From %1, saved in Downloads\Nectarlink</source>
-        <translation type="unfinished"></translation>
+        <translation>De %1, guardado en Descargas\Nectarlink</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="494"/>
@@ -8898,12 +8898,12 @@ Qué necesita
     <message>
         <location filename="../rust_strings.h" line="495"/>
         <source>That&apos;s too many files to send at once.</source>
-        <translation type="unfinished"></translation>
+        <translation>Son demasiados archivos para enviarlos de una sola vez.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="496"/>
         <source>There&apos;s nothing to send in there.</source>
-        <translation type="unfinished"></translation>
+        <translation>No hay nada que enviar ahí.</translation>
     </message>
 </context>
 <context>
@@ -8911,82 +8911,82 @@ Qué necesita
     <message>
         <location filename="../rust_strings.h" line="497"/>
         <source>Couldn&apos;t check for updates. Check your internet connection.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo buscar actualizaciones. Comprueba tu conexión a internet.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="498"/>
         <source>NectarLink %1 is available</source>
-        <translation type="unfinished"></translation>
+        <translation>NectarLink %1 está disponible</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="499"/>
         <source>NectarLink %1 is available.</source>
-        <translation type="unfinished"></translation>
+        <translation>NectarLink %1 está disponible.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="500"/>
         <source>NectarLink is still on the version you had. Try again from Settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>NectarLink sigue en la versión que tenías. Inténtalo de nuevo desde Ajustes.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="501"/>
         <source>NectarLink is up to date.</source>
-        <translation type="unfinished"></translation>
+        <translation>NectarLink está actualizado.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="502"/>
         <source>NectarLink is updated to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>NectarLink se actualizó a %1</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="503"/>
         <source>Nightly %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nightly %1</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="504"/>
         <source>Nightly %1 (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nightly %1 (%2)</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="505"/>
         <source>The download was damaged, so it wasn&apos;t installed. Try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>La descarga se dañó y no se instaló. Inténtalo de nuevo.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="506"/>
         <source>The update couldn&apos;t be downloaded. Check your internet connection and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo descargar la actualización. Comprueba tu conexión a internet e inténtalo de nuevo.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="507"/>
         <source>The update couldn&apos;t be saved. Check that there&apos;s free space and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo guardar la actualización. Comprueba que haya espacio disponible e inténtalo de nuevo.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="508"/>
         <source>The update couldn&apos;t be started. Try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo iniciar la actualización. Inténtalo de nuevo.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="509"/>
         <source>The update didn&apos;t install</source>
-        <translation type="unfinished"></translation>
+        <translation>La actualización no se instaló</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="510"/>
         <source>The update is installed. Restart NectarLink to use it.</source>
-        <translation type="unfinished"></translation>
+        <translation>La actualización está instalada. Reinicia NectarLink para usarla.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="511"/>
         <source>Update now, or later from Settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualiza ahora o más tarde desde Ajustes.</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="512"/>
         <source>Your phone reconnects on its own.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tu teléfono se reconecta automáticamente.</translation>
     </message>
 </context>
 <context>
@@ -8994,67 +8994,67 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/WalkthroughPage.qml" line="326"/>
         <source>Skip setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Omitir configuración</translation>
     </message>
     <message>
         <location filename="../../qml/pages/WalkthroughPage.qml" line="724"/>
         <source>Notifications and Calls</source>
-        <translation type="unfinished"></translation>
+        <translation>Notificaciones y llamadas</translation>
     </message>
     <message>
         <location filename="../../qml/pages/WalkthroughPage.qml" line="729"/>
         <source>Clipboard and Send files</source>
-        <translation type="unfinished"></translation>
+        <translation>Portapapeles y envío de archivos</translation>
     </message>
     <message>
         <location filename="../../qml/pages/WalkthroughPage.qml" line="734"/>
         <source>Mirroring, Camera, and Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Duplicación, cámara y audio</translation>
     </message>
     <message>
         <location filename="../../qml/pages/WalkthroughPage.qml" line="739"/>
         <source>Direct local QUIC link</source>
-        <translation type="unfinished"></translation>
+        <translation>Conexión QUIC local directa</translation>
     </message>
     <message>
         <location filename="../../qml/pages/WalkthroughPage.qml" line="851"/>
         <source>End-to-end encrypted over QUIC</source>
-        <translation type="unfinished"></translation>
+        <translation>Cifrado de extremo a extremo mediante QUIC</translation>
     </message>
     <message>
         <location filename="../../qml/pages/WalkthroughPage.qml" line="856"/>
         <source>Hardware-backed device keys</source>
-        <translation type="unfinished"></translation>
+        <translation>Claves de dispositivo protegidas por hardware</translation>
     </message>
     <message>
         <location filename="../../qml/pages/WalkthroughPage.qml" line="861"/>
         <source>Local network by default</source>
-        <translation type="unfinished"></translation>
+        <translation>Red local de forma predeterminada</translation>
     </message>
     <message>
         <location filename="../../qml/pages/WalkthroughPage.qml" line="958"/>
         <source>Option 1: Download the Android APK (Android 8.0+)</source>
-        <translation type="unfinished"></translation>
+        <translation>Opción 1: Descargar el APK de Android (Android 8.0 o posterior)</translation>
     </message>
     <message>
         <location filename="../../qml/pages/WalkthroughPage.qml" line="966"/>
         <source>Open the latest GitHub Release on your phone or copy the release link.</source>
-        <translation type="unfinished"></translation>
+        <translation>Abre la versión más reciente de GitHub en tu teléfono o copia el enlace de la versión.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/WalkthroughPage.qml" line="977"/>
         <source>Open release page</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir página de versiones</translation>
     </message>
     <message>
         <location filename="../../qml/pages/WalkthroughPage.qml" line="1038"/>
         <source>Option 2: Install over USB with ADB</source>
-        <translation type="unfinished"></translation>
+        <translation>Opción 2: Instalar por USB con ADB</translation>
     </message>
     <message>
         <location filename="../../qml/pages/WalkthroughPage.qml" line="1125"/>
         <source>Paired with %1. You can continue to the next step.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vinculado con %1. Puedes continuar al siguiente paso.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/WalkthroughPage.qml" line="1126"/>
@@ -9066,23 +9066,23 @@ Qué necesita
         <location filename="../../qml/pages/WalkthroughPage.qml" line="1193"/>
         <location filename="../../qml/pages/WalkthroughPage.qml" line="1333"/>
         <source>On by default</source>
-        <translation type="unfinished"></translation>
+        <translation>Activado de forma predeterminada</translation>
     </message>
     <message>
         <location filename="../../qml/pages/WalkthroughPage.qml" line="1256"/>
         <location filename="../../qml/pages/WalkthroughPage.qml" line="1387"/>
         <source>Off until you turn them on</source>
-        <translation type="unfinished"></translation>
+        <translation>Desactivado hasta que lo actives</translation>
     </message>
     <message>
         <location filename="../../qml/pages/WalkthroughPage.qml" line="1289"/>
         <source>Change these per phone on Home after pairing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Puedes cambiar estas opciones para cada teléfono en Inicio después de vincularlo.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/WalkthroughPage.qml" line="1303"/>
         <source>Sharing settings for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajustes para compartir con %1</translation>
     </message>
     <message>
         <location filename="../../qml/pages/WalkthroughPage.qml" line="1339"/>
@@ -9132,22 +9132,22 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/WalkthroughPage.qml" line="1467"/>
         <source>Windows notifications</source>
-        <translation type="unfinished"></translation>
+        <translation>Notificaciones de Windows</translation>
     </message>
     <message>
         <location filename="../../qml/pages/WalkthroughPage.qml" line="1467"/>
         <source>Desktop notifications</source>
-        <translation type="unfinished"></translation>
+        <translation>Notificaciones de escritorio</translation>
     </message>
     <message>
         <location filename="../../qml/pages/WalkthroughPage.qml" line="1490"/>
         <source>Windows Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuración de Windows</translation>
     </message>
     <message>
         <location filename="../../qml/pages/WalkthroughPage.qml" line="1499"/>
         <source>Recheck</source>
-        <translation type="unfinished"></translation>
+        <translation>Volver a comprobar</translation>
     </message>
     <message>
         <location filename="../../qml/pages/WalkthroughPage.qml" line="1549"/>
@@ -9164,17 +9164,17 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/WalkthroughPage.qml" line="1555"/>
         <source>Keep NectarLink ready in the system tray when you sign in.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mantén NectarLink listo en la bandeja del sistema al iniciar sesión.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/WalkthroughPage.qml" line="1613"/>
         <source>Firewall and network check</source>
-        <translation type="unfinished"></translation>
+        <translation>Comprobación de firewall y red</translation>
     </message>
     <message>
         <location filename="../../qml/pages/WalkthroughPage.qml" line="1662"/>
         <source>Command Palette (Ctrl+K)</source>
-        <translation type="unfinished"></translation>
+        <translation>Paleta de comandos (Ctrl+K)</translation>
     </message>
     <message>
         <location filename="../../qml/pages/WalkthroughPage.qml" line="1667"/>
@@ -9197,12 +9197,12 @@ Qué necesita
     <message>
         <location filename="../rust_strings.h" line="513"/>
         <source>Starting camera on %1…</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciando cámara en %1…</translation>
     </message>
     <message>
         <location filename="../rust_strings.h" line="514"/>
         <source>Streaming %1 × %2 · %3 fps from %4</source>
-        <translation type="unfinished"></translation>
+        <translation>Transmitiendo %1 × %2 · %3 fps desde %4</translation>
     </message>
 </context>
 <context>
@@ -9210,22 +9210,22 @@ Qué necesita
     <message>
         <location filename="../../qml/pages/WelcomePage.qml" line="36"/>
         <source>Welcome to NectarLink</source>
-        <translation type="unfinished"></translation>
+        <translation>Te damos la bienvenida a NectarLink</translation>
     </message>
     <message>
         <location filename="../../qml/pages/WelcomePage.qml" line="46"/>
         <source>NectarLink couldn&apos;t start.</source>
-        <translation type="unfinished"></translation>
+        <translation>NectarLink no pudo iniciarse.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/WelcomePage.qml" line="47"/>
         <source>Your phone and this PC, together. Pair once and they find each other from then on.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tu teléfono y esta PC, juntos. Vincúlalos una vez y se encontrarán automáticamente después.</translation>
     </message>
     <message>
         <location filename="../../qml/pages/WelcomePage.qml" line="85"/>
         <source>Open the logs folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir carpeta de registros</translation>
     </message>
 </context>
 </TS>
